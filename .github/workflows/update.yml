@@ -9,15 +9,11 @@ on:
     - cron: 0 * * * *
   workflow_dispatch:
 
-env:
-  IS_REPARSE: ${{ github.event_name == 'workflow_dispatch' }}
-  IS_RELEASE_BRANCH: ${{ github.ref_name == 'stable' }}
-
 jobs:
   build:
     uses: ./.github/workflows/build.yml
     with:
-      use_release: $IS_RELEASE_BRANCH
+      use_release: ${{ github.ref_name == 'stable' }}
 
   update:
     name: update
@@ -26,12 +22,12 @@ jobs:
 
     steps:
       - name: Run (schedule)
-        if: ${{ !env.IS_REPARSE }}
+        if: ${{ github.event_name != 'workflow_dispatch' }}
         run: ./PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser
 
         ### REPARSE (push, manual trigger)
       - name: Run (reparse)
-        if: ${{ env.IS_REPARSE }}
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: ./PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser --reparse
 
       - name: Push generated files
@@ -39,7 +35,7 @@ jobs:
         with:
           cwd: "./local/"
           add: "data"
-          message: ${{ env.IS_REPARSE && '[auto] update data with reparse' || '[auto] update data' }}
+          message: ${{ github.event_name != 'workflow_dispatch' && '[auto] update data with reparse' || '[auto] update data' }}
           author_name: PoliNetwork
           author_email: PoliNetwork@users.noreply.github.com
           pathspec_error_handling: exitImmediately
