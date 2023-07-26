@@ -20,6 +20,7 @@ jobs:
 
     steps:
       - name: Get latest release
+        if: ${{ input.use_release }}
         uses: pozetroninc/github-action-get-latest-release@master
         id: release_tag
         with:
