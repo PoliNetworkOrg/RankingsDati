@@ -14,8 +14,8 @@ jobs:
     name: update
     runs-on: ubuntu-latest
     env:
-      - IS_REPARSE: ${{ github.event_name == 'workflow_dispatch' }}
-      - IS_RELEASE_BRANCH: ${{ github.ref_name == 'stable' }}
+      IS_REPARSE: ${{ github.event_name == 'workflow_dispatch' }}
+      IS_RELEASE_BRANCH: ${{ github.ref_name == 'stable' }}
 
     steps:
       - name: Build script
