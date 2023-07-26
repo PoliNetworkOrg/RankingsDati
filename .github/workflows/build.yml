@@ -1,6 +1,6 @@
 name: build_script
 on:
-  workflow-call:
+  workflow_call:
     inputs:
       use_release:  
         required: false
