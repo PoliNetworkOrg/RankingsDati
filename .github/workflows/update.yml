@@ -24,12 +24,12 @@ jobs:
           use_release: $IS_RELEASE_BRANCH
 
       - name: Run (schedule)
-        if: ${{ env.IS_REPARSE == 'false' }}
+        if: ${{ !env.IS_REPARSE }}
         run: dotnet run --project ./PoliNetwork.Graduatorie.Parser/PoliNetwork.Graduatorie.Parser.csproj
 
         ### REPARSE (push, manual trigger)
       - name: Run (reparse)
-        if: ${{ env.IS_REPARSE == 'true' }}
+        if: ${{ env.IS_REPARSE }}
         run: dotnet run --project ./PoliNetwork.Graduatorie.Parser/PoliNetwork.Graduatorie.Parser.csproj --reparse
 
       - name: Push generated files
