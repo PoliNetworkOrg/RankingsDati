@@ -21,19 +21,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Clone local repo
+        uses: actions/checkout@v3
+      
+      - name: Download build dist
+        uses: actions/download-artifact@v3
+        with:
+          name: dist
+
       - name: Run (schedule)
         if: ${{ github.event_name != 'workflow_dispatch' }}
-        run: ./PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser
+        run: ./dist/PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser
 
         ### REPARSE (push, manual trigger)
       - name: Run (reparse)
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: ./PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser --reparse
+        run: ./dist/PoliNetwork.Graduatorie.Parser/bin/Release/net7.0/PoliNetwork.Graduatorie.Parser --reparse
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
-          cwd: "./local/"
           add: "data"
           message: ${{ github.event_name != 'workflow_dispatch' && '[auto] update data with reparse' || '[auto] update data' }}
           author_name: PoliNetwork
