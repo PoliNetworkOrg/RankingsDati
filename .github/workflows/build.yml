@@ -23,25 +23,25 @@ jobs:
         uses: pozetroninc/github-action-get-latest-release@master
         id: release_tag
         with:
-          repository: $SCRIPT_REPO
+          repository: ${{ env.SCRIPT_REPO }}
           excludes: prerelease, draft
 
       - name: Clone source repo
         uses: actions/checkout@v3
         with:
-          repository: $SCRIPT_REPO
+          repository: ${{ env.SCRIPT_REPO }}
           ref: ${{ inputs.use_release && steps.release_tag.outputs.release || "main" }}
-
+      
       - name: Clone local repo
         uses: actions/checkout@v3
         with:
           path: ./local/
-
+      
       - name: Setup .NET Core SDK ${{ matrix.dotnet-version }}
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
-
+      
       - name: Git Submodule Update
         run: |
           git config --global user.email "polinetwork@outlook.com"
@@ -50,9 +50,9 @@ jobs:
           git pull origin ${{ steps.extract-branch.outputs.branch }} --recurse-submodules --allow-unrelated-histories
           git submodule update --init --remote --recursive  
           git submodule update
-
+      
       - name: Install dependencies
         run: dotnet restore
-
+      
       - name: Build
         run: dotnet build --configuration Release --no-restore
