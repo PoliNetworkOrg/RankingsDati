@@ -17,7 +17,7 @@ jobs:
   build:
     uses: ./.github/workflows/build.yml
     with:
-      use_release: ${{ env.IS_RELEASE_BRANCH }}
+      use_release: $IS_RELEASE_BRANCH
 
   update:
     name: update
