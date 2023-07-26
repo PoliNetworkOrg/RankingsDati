@@ -28,6 +28,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: dist
+          path: dist
 
       - name: Run (schedule)
         if: ${{ github.event_name != 'workflow_dispatch' }}
