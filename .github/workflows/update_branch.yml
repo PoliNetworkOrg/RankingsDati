@@ -16,6 +16,7 @@ jobs:
     uses: ./.github/workflows/build.yml
     with:
       use_release: ${{ inputs.ref == 'stable' }}
+      artifact_name: dist_${{ inputs.ref }}
 
   run_update_branch:
     name: run and update branch
@@ -26,7 +27,7 @@ jobs:
       - name: Download build dist
         uses: actions/download-artifact@v3
         with:
-          name: dist
+          name: dist_${{ inputs.ref }}
           path: dist
 
       - uses: actions/checkout@v3
