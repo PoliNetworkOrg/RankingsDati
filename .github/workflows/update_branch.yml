@@ -39,12 +39,12 @@ jobs:
         run: chmod +x ./dist/PoliNetwork.Graduatorie.Parser
 
       - name: Run (schedule)
-        if: ${{ inputs.reparse == 'false' }}
+        if: ${{ !inputs.reparse }}
         run: ./dist/PoliNetwork.Graduatorie.Parser
 
         ### REPARSE (push, manual trigger)
       - name: Run (reparse)
-        if: ${{ inputs.reparse == 'true' }}
+        if: ${{ inputs.reparse }}
         run: ./dist/PoliNetwork.Graduatorie.Parser --reparse
 
       - name: Push generated files
