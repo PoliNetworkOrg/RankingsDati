@@ -1296,6 +1296,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20104_47ef_html/2022_20104_generale.html"
         },
         "year": 2022
+      },
+      {
+        "course": null,
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -1318,6 +1328,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20104_47ef_html/2022_20104_generale.html"
         },
         "year": 2022
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
@@ -1650,6 +1670,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20002_46h3_html/2022_20002_generale.html"
         },
         "year": 2022
+      },
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -1672,6 +1702,26 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20002_46h3_html/2022_20002_generale.html"
         },
         "year": 2022
+      },
+      {
+        "course": "INGEGNERIA EDILE - ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
@@ -1974,6 +2024,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20091_html/2021_20091_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "f321448d67f448861b40": {
+    "id": "f321448d67f448861b40",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20102_4e6e_html/2023_20102_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20102_4e6e_html/2023_20102_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
@@ -3090,6 +3168,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20040_32ea_html/2023_20040_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -3100,6 +3188,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20040_32ea_html/2023_20040_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
         },
         "year": 2023
       }
@@ -3901,29 +3999,275 @@
       }
     ]
   },
-  "f321448d67f448861b40": {
-    "id": "f321448d67f448861b40",
+  "f3feeae6c41d56d5a8e0": {
+    "id": "f3feeae6c41d56d5a8e0",
     "inMeritTable": true,
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "Seconda Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20102_4e6e_html/2023_20102_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
         },
         "year": 2023
       }
     ],
     "singleCourseJsons": [
       {
-        "course": "INGEGNERIA INFORMATICA",
-        "phase": "Seconda Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20102_4e6e_html/2023_20102_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f3f97a45ca2c7d3bf6ba": {
+    "id": "f3f97a45ca2c7d3bf6ba",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f34c351025d9a3eca1ca": {
+    "id": "f34c351025d9a3eca1ca",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA EDILE - ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f35da74278c0685324b8": {
+    "id": "f35da74278c0685324b8",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA EDILE - ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f3a0420a44199c478d64": {
+    "id": "f3a0420a44199c478d64",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f3516987c1b424338365": {
+    "id": "f3516987c1b424338365",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA EDILE - ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f37af66fb85d236c2636": {
+    "id": "f37af66fb85d236c2636",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
+  "f35978bf2bea0f6efb39": {
+    "id": "f35978bf2bea0f6efb39",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
         },
         "year": 2023
       }

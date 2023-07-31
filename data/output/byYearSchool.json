@@ -165,16 +165,6 @@
           "year": 2023
         }
       ],
-      "Design": [
-        {
-          "basePath": "Design/2023/",
-          "link": "Anticipato.json",
-          "location": "MILANO BOVISA",
-          "name": "Anticipato",
-          "school": "Design",
-          "year": 2023
-        }
-      ],
       "Ingegneria": [
         {
           "basePath": "Ingegneria/2023/",
@@ -206,6 +196,34 @@
           "location": "MILANO BOVISA",
           "name": "Seconda Graduatoria Di Seconda Fase",
           "school": "Ingegneria",
+          "year": 2023
+        }
+      ],
+      "Design": [
+        {
+          "basePath": "Design/2023/",
+          "link": "Anticipato.json",
+          "location": "MILANO BOVISA",
+          "name": "Anticipato",
+          "school": "Design",
+          "year": 2023
+        }
+      ],
+      "Architettura": [
+        {
+          "basePath": "Architettura/2023/",
+          "link": "Extra-ue.json",
+          "location": "LECCO",
+          "name": "Extra-ue",
+          "school": "Architettura",
+          "year": 2023
+        },
+        {
+          "basePath": "Architettura/2023/",
+          "link": "Prima_Graduatoria.json",
+          "location": "LECCO",
+          "name": "Prima Graduatoria",
+          "school": "Architettura",
           "year": 2023
         }
       ]
@@ -503,5 +521,5 @@
       ]
     }
   },
-  "lastUpdate": "2023-07-27T18:25:17.8743925Z"
+  "lastUpdate": "2023-07-31T14:18:04.2698962Z"
 }
