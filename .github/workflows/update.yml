@@ -2,21 +2,39 @@ name: update
 on:
   push:
     branches:
+      - main
     paths:
       - .github/workflows/**.yml
   schedule:
     - cron: 0 * * * *
   workflow_dispatch:
+    inputs:
+      is_release:
+        required: true
+        type: boolean
+        description: "Whether the workflow is triggered by a new release"
 
 jobs:
   update_main:
     uses: ./.github/workflows/update_branch.yml
+    # trigger on 
+    # - push, schedule
+    # - workflow_dispatch 
+    #   from GraduatorieScriptCSharp repo: when there's a push to main
+    #   (not on new release - otherwise the job is run twice)
+    if: ${{ github.event_name != 'workflow_dispatch' || !inputs.is_release }}
     with:
-      reparse: ${{ github.event_name == 'workflow_dispatch' }} 
+      reparse: ${{ github.event_name == 'workflow_dispatch' }}
       ref: main
 
   update_stable:
     uses: ./.github/workflows/update_branch.yml
+    # trigger on 
+    # - push, schedule
+    # - workflow_dispatch 
+    #   from GraduatorieScriptCSharp repo) when it's a new release 
+    #   (not on push to main - otherwise the job is run needless)
+    if: ${{ github.event_name != 'workflow_dispatch' || inputs.is_release }}
     with:
-      reparse: ${{ github.event_name == 'workflow_dispatch' }} 
+      reparse: ${{ github.event_name == 'workflow_dispatch' }}
       ref: stable
