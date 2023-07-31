@@ -3291,6 +3291,34 @@
       }
     ]
   },
+  "7c88899fb6ca96a1bfd1": {
+    "id": "7c88899fb6ca96a1bfd1",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "7c1c0ddf3e39d2a0949f": {
     "id": "7c1c0ddf3e39d2a0949f",
     "inMeritTable": true,
@@ -4893,34 +4921,6 @@
       }
     ]
   },
-  "7c5528d3df4b4d3e02c7": {
-    "id": "7c5528d3df4b4d3e02c7",
-    "inMeritTable": true,
-    "rankingSummaries": [
-      {
-        "course": null,
-        "phase": "Anticipata",
-        "school": "Urbanistica",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2021_20008_html/2021_20008_generale.html"
-        },
-        "year": 2021
-      }
-    ],
-    "singleCourseJsons": [
-      {
-        "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
-        "phase": "Anticipata",
-        "school": "Urbanistica",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2021_20008_html/2021_20008_generale.html"
-        },
-        "year": 2021
-      }
-    ]
-  },
   "7c9763bc27d54880c3b6": {
     "id": "7c9763bc27d54880c3b6",
     "inMeritTable": true,
@@ -5081,31 +5081,31 @@
       }
     ]
   },
-  "7c88899fb6ca96a1bfd1": {
-    "id": "7c88899fb6ca96a1bfd1",
+  "7c5528d3df4b4d3e02c7": {
+    "id": "7c5528d3df4b4d3e02c7",
     "inMeritTable": true,
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "Extra-ue",
-        "school": "Architettura",
+        "phase": "Anticipata",
+        "school": "Urbanistica",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2021_20008_html/2021_20008_generale.html"
         },
-        "year": 2023
+        "year": 2021
       }
     ],
     "singleCourseJsons": [
       {
-        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-        "phase": "Extra-ue",
-        "school": "Architettura",
+        "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+        "phase": "Anticipata",
+        "school": "Urbanistica",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2021_20008_html/2021_20008_generale.html"
         },
-        "year": 2023
+        "year": 2021
       }
     ]
   }

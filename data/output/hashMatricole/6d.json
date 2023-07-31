@@ -3053,6 +3053,34 @@
       }
     ]
   },
+  "6d26d70ed3f2df07d8f4": {
+    "id": "6d26d70ed3f2df07d8f4",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Extra-ue",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "6dd1d514101a85460a91": {
     "id": "6dd1d514101a85460a91",
     "inMeritTable": true,
@@ -5063,34 +5091,6 @@
       }
     ]
   },
-  "6df80b1af53098fe3bce": {
-    "id": "6df80b1af53098fe3bce",
-    "inMeritTable": true,
-    "rankingSummaries": [
-      {
-        "course": null,
-        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20054_2918_html/2023_20054_generale.html"
-        },
-        "year": 2023
-      }
-    ],
-    "singleCourseJsons": [
-      {
-        "course": "INGEGNERIA MECCANICA",
-        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20054_2918_html/2023_20054_generale.html"
-        },
-        "year": 2023
-      }
-    ]
-  },
   "6dedd59ec3e176940de0": {
     "id": "6dedd59ec3e176940de0",
     "inMeritTable": true,
@@ -5185,29 +5185,29 @@
       }
     ]
   },
-  "6d26d70ed3f2df07d8f4": {
-    "id": "6d26d70ed3f2df07d8f4",
+  "6df80b1af53098fe3bce": {
+    "id": "6df80b1af53098fe3bce",
     "inMeritTable": true,
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "Extra-ue",
-        "school": "Architettura",
+        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20054_2918_html/2023_20054_generale.html"
         },
         "year": 2023
       }
     ],
     "singleCourseJsons": [
       {
-        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-        "phase": "Extra-ue",
-        "school": "Architettura",
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20005_59fc_html/2023_20005_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20054_2918_html/2023_20054_generale.html"
         },
         "year": 2023
       }

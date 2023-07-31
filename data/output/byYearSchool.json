@@ -199,16 +199,6 @@
           "year": 2023
         }
       ],
-      "Design": [
-        {
-          "basePath": "Design/2023/",
-          "link": "Anticipato.json",
-          "location": "MILANO BOVISA",
-          "name": "Anticipato",
-          "school": "Design",
-          "year": 2023
-        }
-      ],
       "Architettura": [
         {
           "basePath": "Architettura/2023/",
@@ -224,6 +214,16 @@
           "location": "LECCO",
           "name": "Prima Graduatoria",
           "school": "Architettura",
+          "year": 2023
+        }
+      ],
+      "Design": [
+        {
+          "basePath": "Design/2023/",
+          "link": "Anticipato.json",
+          "location": "MILANO BOVISA",
+          "name": "Anticipato",
+          "school": "Design",
           "year": 2023
         }
       ]
