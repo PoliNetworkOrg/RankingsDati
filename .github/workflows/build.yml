@@ -56,6 +56,10 @@ jobs:
       - name: Build
         run: dotnet build --configuration Release --no-restore -o dist
 
+      - name: Save commit sha
+        run: |
+          git rev-parse HEAD > ./dist/last_sha
+
       - name: Upload build
         uses: actions/upload-artifact@v3
         with:

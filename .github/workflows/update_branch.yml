@@ -2,11 +2,6 @@ name: update_branch
 on:
   workflow_call:
     inputs:
-      reparse:
-        required: false
-        default: false
-        type: boolean
-
       ref:
         required: true
         type: string
@@ -35,24 +30,30 @@ jobs:
           path: ./local/
           ref: ${{ inputs.ref }}
 
+      - id: reparse
+        run: |
+          export REPARSE = ["$(cat ./local/last_sha)" = "$(cat ./dist/last_sha)" ] && echo "false" || echo "true"
+          echo "REPARSE=$REPARSE" >> "$GITHUB_OUTPUT"
+          cp ./dist/last_sha ./local/last_sha
+
       - name: make script executable
         run: chmod +x ./dist/PoliNetwork.Graduatorie.Parser
 
       - name: Run (schedule)
-        if: ${{ !inputs.reparse }}
+        if: ${{ steps.reparse.outputs.REPARSE == 'false' }}
         run: ./dist/PoliNetwork.Graduatorie.Parser
 
         ### REPARSE (push, manual trigger)
       - name: Run (reparse)
-        if: ${{ inputs.reparse }}
+        if: ${{ steps.reparse.outputs.REPARSE == 'true' }}
         run: ./dist/PoliNetwork.Graduatorie.Parser --reparse
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           cwd: "./local/"
-          add: "data"
-          message: ${{ inputs.reparse == 'true' && '[auto] update data with reparse' || '[auto] update data' }}
+          add: "data last_sha"
+          message: ${{ steps.reparse.outputs.REPARSE == 'true' && '[auto] update data with reparse' || '[auto] update data' }}
           author_name: PoliNetwork
           author_email: PoliNetwork@users.noreply.github.com
           pathspec_error_handling: exitImmediately
