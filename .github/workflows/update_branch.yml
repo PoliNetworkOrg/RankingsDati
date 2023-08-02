@@ -32,7 +32,6 @@ jobs:
 
       - name: put sha into env
         run: |
-          export REPARSE = ["" = "" ] && echo "false" || echo "true"
           echo "CURR_SHA=$(cat ./local/last_sha)" >> "$GITHUB_ENV"
           echo "NEW_SHA=$(cat ./dist/last_sha)" >> "$GITHUB_ENV"
           cp ./dist/last_sha ./local/last_sha
