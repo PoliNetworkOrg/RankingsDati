@@ -3643,16 +3643,6 @@
       },
       {
         "course": null,
-        "phase": "Prima Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
-        },
-        "year": 2022
-      },
-      {
-        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Architettura",
         "url": {
@@ -3660,6 +3650,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
+        },
+        "year": 2022
       }
     ],
     "singleCourseJsons": [
@@ -3684,16 +3684,6 @@
         "year": 2023
       },
       {
-        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-        "phase": "Prima Graduatoria Di Seconda Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
-        },
-        "year": 2022
-      },
-      {
         "course": "PROGETTAZIONE DELL'ARCHITETTURA",
         "phase": "Seconda Graduatoria",
         "school": "Architettura",
@@ -3712,6 +3702,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
+        },
+        "year": 2022
       }
     ]
   },
