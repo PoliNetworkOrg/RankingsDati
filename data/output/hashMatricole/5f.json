@@ -135,6 +135,44 @@
       }
     ]
   },
+  "5f05c422d144c4f82c36": {
+    "id": "5f05c422d144c4f82c36",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "5f092003fc03e9316d62": {
     "id": "5f092003fc03e9316d62",
     "inMeritTable": true,
@@ -3330,6 +3368,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -3390,6 +3438,26 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
       }

@@ -895,6 +895,34 @@
       }
     ]
   },
+  "66226a27bfd7e4a6f6d1": {
+    "id": "66226a27bfd7e4a6f6d1",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA ONLINE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "6622f7038f11d792f49d": {
     "id": "6622f7038f11d792f49d",
     "inMeritTable": true,
@@ -1226,6 +1254,44 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20041_html/2021_20041_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "66348c2db7744951d636": {
+    "id": "66348c2db7744951d636",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ]
   },

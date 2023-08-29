@@ -969,6 +969,34 @@
       }
     ]
   },
+  "002dd7130b83134fad67": {
+    "id": "002dd7130b83134fad67",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "003337885e50f6adf3bc": {
     "id": "003337885e50f6adf3bc",
     "inMeritTable": true,
@@ -2706,6 +2734,54 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20104_html/2021_20104_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "009c35c5f2d2d0d341a6": {
+    "id": "009c35c5f2d2d0d341a6",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA ELETTRONICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ]
   },

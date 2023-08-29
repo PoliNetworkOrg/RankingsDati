@@ -1195,6 +1195,44 @@
       }
     ]
   },
+  "0b4f788aba1d01c7ae9d": {
+    "id": "0b4f788aba1d01c7ae9d",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA MATEMATICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "0b531f5fd7138d119229": {
     "id": "0b531f5fd7138d119229",
     "inMeritTable": true,
@@ -2406,6 +2444,44 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20041_html/2021_20041_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "0b9ab4b3f60c342e8124": {
+    "id": "0b9ab4b3f60c342e8124",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
