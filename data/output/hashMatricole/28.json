@@ -3627,6 +3627,34 @@
       }
     ]
   },
+  "28a5d73d0a2eef79fd76": {
+    "id": "28a5d73d0a2eef79fd76",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA ENERGETICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ]
+  },
   "28a7ca9bae31674ec851": {
     "id": "28a7ca9bae31674ec851",
     "inMeritTable": true,
@@ -4168,6 +4196,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20064_html/2021_20064_generale.html"
         },
         "year": 2021
+      },
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -4190,6 +4228,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20064_html/2021_20064_generale.html"
         },
         "year": 2021
+      },
+      {
+        "course": "INGEGNERIA INFORMATICA ONLINE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ]
   },

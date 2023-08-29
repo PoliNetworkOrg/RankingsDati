@@ -1746,6 +1746,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -1786,6 +1796,26 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
       }
@@ -3354,6 +3384,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "04a3cf116561b316c7a8": {
+    "id": "04a3cf116561b316c7a8",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA ONLINE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
