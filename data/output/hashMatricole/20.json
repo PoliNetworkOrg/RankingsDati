@@ -4755,6 +4755,16 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": null,
         "phase": "Prima Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -4772,9 +4782,11 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20102_ab23_html/2022_20102_generale.html"
         },
         "year": 2022
-      },
+      }
+    ],
+    "singleCourseJsons": [
       {
-        "course": null,
+        "course": "INGEGNERIA DELL'AUTOMAZIONE",
         "phase": "Terza Fase",
         "school": "Ingegneria",
         "url": {
@@ -4782,9 +4794,27 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
-      }
-    ],
-    "singleCourseJsons": [
+      },
+      {
+        "course": "INGEGNERIA ELETTRICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA ELETTRONICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
       {
         "course": "INGEGNERIA DELL'AUTOMAZIONE",
         "phase": "Prima Graduatoria Di Seconda Fase",
@@ -4824,36 +4854,6 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20102_ab23_html/2022_20102_generale.html"
         },
         "year": 2022
-      },
-      {
-        "course": "INGEGNERIA DELL'AUTOMAZIONE",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA ELETTRICA",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA ELETTRONICA",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
       }
     ]
   },

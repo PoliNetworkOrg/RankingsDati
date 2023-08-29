@@ -1381,9 +1381,9 @@
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
-        "year": 2022
+        "year": 2023
       },
       {
         "course": null,
@@ -1391,12 +1391,22 @@
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
         },
-        "year": 2023
+        "year": 2022
       }
     ],
     "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
       {
         "course": "INGEGNERIA DELL'AUTOMAZIONE",
         "phase": "Terza Fase",
@@ -1436,16 +1446,6 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
         },
         "year": 2022
-      },
-      {
-        "course": "INGEGNERIA INFORMATICA",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
       }
     ]
   },
@@ -5897,16 +5897,6 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "Prima Graduatoria",
-        "school": "Architettura",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": null,
         "phase": "Terza Fase",
         "school": "Ingegneria",
         "url": {
@@ -5914,11 +5904,9 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
-      }
-    ],
-    "singleCourseJsons": [
+      },
       {
-        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "course": null,
         "phase": "Prima Graduatoria",
         "school": "Architettura",
         "url": {
@@ -5926,7 +5914,9 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
         },
         "year": 2023
-      },
+      }
+    ],
+    "singleCourseJsons": [
       {
         "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
         "phase": "Terza Fase",
@@ -5934,6 +5924,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+        "phase": "Prima Graduatoria",
+        "school": "Architettura",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20002_2fee_html/2023_20002_generale.html"
         },
         "year": 2023
       }

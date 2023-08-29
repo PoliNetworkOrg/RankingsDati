@@ -1467,6 +1467,16 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": null,
         "phase": "Prima Graduatoria",
         "school": "Architettura",
         "url": {
@@ -1504,9 +1514,11 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
         },
         "year": 2023
-      },
+      }
+    ],
+    "singleCourseJsons": [
       {
-        "course": null,
+        "course": "INGEGNERIA BIOMEDICA",
         "phase": "Terza Fase",
         "school": "Ingegneria",
         "url": {
@@ -1514,9 +1526,37 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
-      }
-    ],
-    "singleCourseJsons": [
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA DELL'AUTOMAZIONE",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
       {
         "course": "PROGETTAZIONE DELL'ARCHITETTURA",
         "phase": "Prima Graduatoria",
@@ -1584,46 +1624,6 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20060_3d31_html/2023_20060_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA BIOMEDICA",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA CIVILE",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA DELL'AUTOMAZIONE",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
-      },
-      {
-        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
         "year": 2023
       }

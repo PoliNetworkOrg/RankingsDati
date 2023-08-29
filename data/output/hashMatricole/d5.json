@@ -2409,9 +2409,9 @@
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
         },
-        "year": 2022
+        "year": 2023
       },
       {
         "course": null,
@@ -2419,12 +2419,22 @@
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+          "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
         },
-        "year": 2023
+        "year": 2022
       }
     ],
     "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
+        },
+        "year": 2023
+      },
       {
         "course": "INGEGNERIA BIOMEDICA",
         "phase": "Terza Fase",
@@ -2464,16 +2474,6 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20091_3bad_html/2022_20091_generale.html"
         },
         "year": 2022
-      },
-      {
-        "course": "INGEGNERIA INFORMATICA",
-        "phase": "Terza Fase",
-        "school": "Ingegneria",
-        "url": {
-          "pageEnum": 1,
-          "url": "http://www.risultati-ammissione.polimi.it/2023_20091_59fd_html/2023_20091_generale.html"
-        },
-        "year": 2023
       }
     ]
   },
