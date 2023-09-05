@@ -3566,6 +3566,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20041_4bfd_html/2023_20041_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Standard",
+        "school": "Urbanistica",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20006_2e49_html/2023_20006_generale.html"
+        },
+        "year": 2023
       }
     ],
     "singleCourseJsons": [
@@ -3596,6 +3606,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2023_20041_4bfd_html/2023_20041_generale.html"
+        },
+        "year": 2023
+      },
+      {
+        "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+        "phase": "Standard",
+        "school": "Urbanistica",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20006_2e49_html/2023_20006_generale.html"
         },
         "year": 2023
       }
@@ -5164,6 +5184,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20041_html/2021_20041_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "37fbc6987b1e5a079661": {
+    "id": "37fbc6987b1e5a079661",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Standard",
+        "school": "Urbanistica",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20006_2e49_html/2023_20006_generale.html"
+        },
+        "year": 2023
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+        "phase": "Standard",
+        "school": "Urbanistica",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2023_20006_2e49_html/2023_20006_generale.html"
+        },
+        "year": 2023
       }
     ]
   },
