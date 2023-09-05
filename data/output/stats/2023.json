@@ -1,5 +1,5 @@
 {
-  "numStudents": 14946,
+  "numStudents": 15017,
   "schools": {
     "Ingegneria": {
       "list": [
@@ -13617,9 +13617,79 @@
               "67": 1
             }
           }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Urbanistica/2023/",
+            "link": "Standard.json",
+            "location": null,
+            "name": "Standard",
+            "school": "Urbanistica",
+            "year": 2023
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.65258,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 66.95522,
+                "averagePartialScores": {
+                  "Colloquio": 33.01408,
+                  "Elaborato": 18.76056,
+                  "Lettera Motivazionale": 14.11268
+                },
+                "averageScoresOfAllStudents": 65.88732,
+                "howManyCanEnroll": 67,
+                "howManyOfa": {},
+                "howManyStudents": 71,
+                "location": null,
+                "minScoreToEnroll": 50.00,
+                "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
+              }
+            ],
+            "howManyCanEnroll": 67,
+            "howManyStudents": 71,
+            "resultsSummarized": {
+              "46": 1,
+              "48": 1,
+              "49": 2,
+              "50": 1,
+              "51": 3,
+              "52": 2,
+              "53": 2,
+              "54": 3,
+              "55": 2,
+              "56": 3,
+              "57": 1,
+              "58": 1,
+              "59": 5,
+              "60": 5,
+              "61": 2,
+              "62": 6,
+              "64": 2,
+              "66": 2,
+              "67": 1,
+              "68": 1,
+              "70": 1,
+              "71": 1,
+              "72": 1,
+              "73": 3,
+              "75": 2,
+              "80": 1,
+              "81": 1,
+              "82": 3,
+              "83": 3,
+              "84": 2,
+              "86": 1,
+              "88": 1,
+              "90": 2,
+              "91": 2,
+              "92": 1
+            }
+          }
         }
       ],
-      "numStudents": 152
+      "numStudents": 223
     },
     "Architettura": {
       "list": [
