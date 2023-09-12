@@ -1,0 +1,118 @@
+{
+  "byCourse": [
+    {
+      "location": null,
+      "sections": [
+        "Colloquio",
+        "Elaborato",
+        "Lettera Motivazionale"
+      ],
+      "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Colloquio",
+        "Elaborato",
+        "Lettera Motivazionale"
+      ],
+      "path": "http://www.risultati-ammissione.polimi.it/2023_20009_43b5_html/2023_20009_generale.html",
+      "rows": [
+        {
+          "birthDate": "2002-10-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": null
+          },
+          "id": "0fb458f36f8b9e131268",
+          "ofa": {},
+          "positionAbsolute": 1,
+          "positionCourse": 1,
+          "result": 50.00,
+          "sectionsResults": {
+            "Colloquio": 26.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 10.00
+          }
+        }
+      ],
+      "year": 2023
+    }
+  ],
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "http://www.risultati-ammissione.polimi.it/2023_20009_43b5_html/2023_20009_generale.html",
+    "rows": [
+      {
+        "birthDate": "2002-10-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": null
+        },
+        "id": "0fb458f36f8b9e131268",
+        "ofa": {},
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 50.00,
+        "sectionsResults": {
+          "Colloquio": 26.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 10.00
+        }
+      }
+    ],
+    "year": 2023
+  },
+  "extra": "Studenti Comunitari ed Equiparati",
+  "lastUpdate": "2023-09-12T09:07:24.6309709Z",
+  "rankingOrder": {
+    "anticipata": false,
+    "extraEu": false,
+    "phase": "Ripescaggio",
+    "primary": null,
+    "secondary": null
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2002.83333,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": 50.00,
+        "averagePartialScores": {
+          "Colloquio": 26.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 10.00
+        },
+        "averageScoresOfAllStudents": 50.00,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {},
+        "howManyStudents": 1,
+        "location": null,
+        "minScoreToEnroll": 50.00,
+        "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
+      }
+    ],
+    "howManyCanEnroll": 1,
+    "howManyStudents": 1,
+    "resultsSummarized": {
+      "50": 1
+    }
+  },
+  "school": "Urbanistica",
+  "url": {
+    "pageEnum": 1,
+    "url": "http://www.risultati-ammissione.polimi.it/2023_20009_43b5_html/2023_20009_generale.html"
+  },
+  "year": 2023
+}
