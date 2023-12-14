@@ -7,75 +7,75 @@
           "link": "Extra-ue.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue",
-          "school": "Ingegneria",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
           "link": "Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
           "link": "Seconda_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Seconda Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 2
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
           "link": "Terza_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Fase",
-          "school": "Ingegneria",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
             "secondary": null
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
           "link": "Terza_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 3
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2020
         }
       ],
       "2021": [
@@ -84,75 +84,75 @@
           "link": "Extra-ue_Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
           "link": "Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
           "link": "Seconda_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Seconda Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 2
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
           "link": "Terza_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Fase",
-          "school": "Ingegneria",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
             "secondary": null
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
           "link": "Terza_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Terza Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 3
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2021
         }
       ],
       "2022": [
@@ -161,75 +161,75 @@
           "link": "Extra-ue_Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
           "link": "Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
           "link": "Seconda_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Seconda Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 2
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
           "link": "Terza_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Fase",
-          "school": "Ingegneria",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
             "secondary": null
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
           "link": "Terza_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 3
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2022
         }
       ],
       "2023": [
@@ -238,90 +238,90 @@
           "link": "Extra-ue_Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
           "link": "Extra-ue_Seconda_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue Seconda Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 2
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
           "link": "Prima_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Prima Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 1
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
           "link": "Seconda_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO BOVISA",
           "name": "Seconda Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 2
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
           "link": "Terza_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
             "secondary": null
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
           "link": "Terza_Graduatoria_Di_Seconda_Fase.json",
           "location": "MILANO LEONARDO",
           "name": "Terza Graduatoria Di Seconda Fase",
-          "school": "Ingegneria",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 3
-          }
+          },
+          "school": "Ingegneria",
+          "year": 2023
         }
       ]
     },
@@ -332,45 +332,45 @@
           "link": "Anticipata.json",
           "location": null,
           "name": "Anticipata",
-          "school": "Urbanistica",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": true,
             "extraEu": false,
             "phase": "Anticipata",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2020
         },
         {
           "basePath": "Urbanistica/2020/",
           "link": "Extra-ue.json",
           "location": null,
           "name": "Extra-ue",
-          "school": "Urbanistica",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2020
         },
         {
           "basePath": "Urbanistica/2020/",
           "link": "Standard.json",
           "location": null,
           "name": "Standard",
-          "school": "Urbanistica",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2020
         }
       ],
       "2021": [
@@ -379,45 +379,45 @@
           "link": "Anticipata.json",
           "location": null,
           "name": "Anticipata",
-          "school": "Urbanistica",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": true,
             "extraEu": false,
             "phase": "Anticipata",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2021
         },
         {
           "basePath": "Urbanistica/2021/",
           "link": "Extra-ue.json",
           "location": null,
           "name": "Extra-ue",
-          "school": "Urbanistica",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2021
         },
         {
           "basePath": "Urbanistica/2021/",
           "link": "Standard.json",
           "location": null,
           "name": "Standard",
-          "school": "Urbanistica",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2021
         }
       ],
       "2022": [
@@ -426,45 +426,45 @@
           "link": "Anticipata.json",
           "location": null,
           "name": "Anticipata",
-          "school": "Urbanistica",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": true,
             "extraEu": false,
             "phase": "Anticipata",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2022
         },
         {
           "basePath": "Urbanistica/2022/",
           "link": "Extra-ue.json",
           "location": null,
           "name": "Extra-ue",
-          "school": "Urbanistica",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2022
         },
         {
           "basePath": "Urbanistica/2022/",
           "link": "Standard.json",
           "location": null,
           "name": "Standard",
-          "school": "Urbanistica",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2022
         }
       ],
       "2023": [
@@ -473,60 +473,60 @@
           "link": "Anticipata.json",
           "location": null,
           "name": "Anticipata",
-          "school": "Urbanistica",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": true,
             "extraEu": false,
             "phase": "Anticipata",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
           "link": "Extra-ue.json",
           "location": null,
           "name": "Extra-ue",
-          "school": "Urbanistica",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
           "link": "Ripescaggio.json",
           "location": null,
           "name": "Ripescaggio",
-          "school": "Urbanistica",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
           "link": "Standard.json",
           "location": null,
           "name": "Standard",
-          "school": "Urbanistica",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Urbanistica",
+          "year": 2023
         }
       ]
     },
@@ -537,75 +537,75 @@
           "link": "Extra-ue.json",
           "location": "LECCO",
           "name": "Extra-ue",
-          "school": "Architettura",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Architettura",
+          "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
           "link": "Extra-ue_Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Extra-ue Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
           "link": "Prima_Graduatoria.json",
           "location": "LECCO",
           "name": "Prima Graduatoria",
-          "school": "Architettura",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
             "secondary": 1
-          }
+          },
+          "school": "Architettura",
+          "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
           "link": "Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
           "link": "Terza_Graduatoria.json",
           "location": "LECCO",
           "name": "Terza Graduatoria",
-          "school": "Architettura",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
             "secondary": 3
-          }
+          },
+          "school": "Architettura",
+          "year": 2020
         }
       ],
       "2021": [
@@ -614,75 +614,75 @@
           "link": "Extra-ue.json",
           "location": "LECCO",
           "name": "Extra-ue",
-          "school": "Architettura",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Architettura",
+          "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
           "link": "Extra-ue_Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Extra-ue Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
           "link": "Prima_Graduatoria.json",
           "location": "LECCO",
           "name": "Prima Graduatoria",
-          "school": "Architettura",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
             "secondary": 1
-          }
+          },
+          "school": "Architettura",
+          "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
           "link": "Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
           "link": "Terza_Graduatoria.json",
           "location": "LECCO",
           "name": "Terza Graduatoria",
-          "school": "Architettura",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
             "secondary": 3
-          }
+          },
+          "school": "Architettura",
+          "year": 2021
         }
       ],
       "2022": [
@@ -691,75 +691,75 @@
           "link": "Extra-ue.json",
           "location": "LECCO",
           "name": "Extra-ue",
-          "school": "Architettura",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Architettura",
+          "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
           "link": "Extra-ue_Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Extra-ue Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
           "link": "Prima_Graduatoria.json",
           "location": "LECCO",
           "name": "Prima Graduatoria",
-          "school": "Architettura",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
             "secondary": 1
-          }
+          },
+          "school": "Architettura",
+          "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
           "link": "Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
           "link": "Terza_Graduatoria.json",
           "location": "LECCO",
           "name": "Terza Graduatoria",
-          "school": "Architettura",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
             "secondary": 3
-          }
+          },
+          "school": "Architettura",
+          "year": 2022
         }
       ],
       "2023": [
@@ -768,90 +768,90 @@
           "link": "Extra-ue.json",
           "location": "LECCO",
           "name": "Extra-ue",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
           "link": "Extra-ue_Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Extra-ue Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
           "link": "Extra-ue_Terza_Graduatoria.json",
           "location": "MILANO LEONARDO",
           "name": "Extra-ue Terza Graduatoria",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue Terza Graduatoria",
             "primary": null,
             "secondary": 3
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
           "link": "Prima_Graduatoria.json",
           "location": "LECCO",
           "name": "Prima Graduatoria",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
             "secondary": 1
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
           "link": "Seconda_Graduatoria.json",
           "location": "LECCO",
           "name": "Seconda Graduatoria",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
             "secondary": 2
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
           "link": "Terza_Graduatoria.json",
           "location": "LECCO",
           "name": "Terza Graduatoria",
-          "school": "Architettura",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
             "secondary": 3
-          }
+          },
+          "school": "Architettura",
+          "year": 2023
         }
       ]
     },
@@ -862,60 +862,60 @@
           "link": "Anticipato.json",
           "location": "MILANO BOVISA",
           "name": "Anticipato",
-          "school": "Design",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Anticipato",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2020
         },
         {
           "basePath": "Design/2020/",
           "link": "Extra-ue.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue",
-          "school": "Design",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2020
         },
         {
           "basePath": "Design/2020/",
           "link": "Ripescaggio.json",
           "location": "MILANO BOVISA",
           "name": "Ripescaggio",
-          "school": "Design",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2020
         },
         {
           "basePath": "Design/2020/",
           "link": "Standard.json",
           "location": "MILANO BOVISA",
           "name": "Standard",
-          "school": "Design",
-          "year": 2020,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2020
         }
       ],
       "2021": [
@@ -924,60 +924,60 @@
           "link": "Anticipato.json",
           "location": "MILANO BOVISA",
           "name": "Anticipato",
-          "school": "Design",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Anticipato",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2021
         },
         {
           "basePath": "Design/2021/",
           "link": "Extra-ue.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue",
-          "school": "Design",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2021
         },
         {
           "basePath": "Design/2021/",
           "link": "Ripescaggio.json",
           "location": "MILANO BOVISA",
           "name": "Ripescaggio",
-          "school": "Design",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2021
         },
         {
           "basePath": "Design/2021/",
           "link": "Standard.json",
           "location": "MILANO BOVISA",
           "name": "Standard",
-          "school": "Design",
-          "year": 2021,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2021
         }
       ],
       "2022": [
@@ -986,60 +986,60 @@
           "link": "Anticipato.json",
           "location": "MILANO BOVISA",
           "name": "Anticipato",
-          "school": "Design",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Anticipato",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2022
         },
         {
           "basePath": "Design/2022/",
           "link": "Extra-ue.json",
           "location": "MILANO BOVISA",
           "name": "Extra-ue",
-          "school": "Design",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": true,
             "phase": "Extra-ue",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2022
         },
         {
           "basePath": "Design/2022/",
           "link": "Ripescaggio.json",
           "location": "MILANO BOVISA",
           "name": "Ripescaggio",
-          "school": "Design",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2022
         },
         {
           "basePath": "Design/2022/",
           "link": "Standard.json",
           "location": "MILANO BOVISA",
           "name": "Standard",
-          "school": "Design",
-          "year": 2022,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2022
         }
       ],
       "2023": [
@@ -1048,48 +1048,48 @@
           "link": "Anticipato.json",
           "location": "MILANO BOVISA",
           "name": "Anticipato",
-          "school": "Design",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Anticipato",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2023
         },
         {
           "basePath": "Design/2023/",
           "link": "Ripescaggio.json",
           "location": "MILANO BOVISA",
           "name": "Ripescaggio",
-          "school": "Design",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2023
         },
         {
           "basePath": "Design/2023/",
           "link": "Standard.json",
           "location": "MILANO BOVISA",
           "name": "Standard",
-          "school": "Design",
-          "year": 2023,
           "rankingOrder": {
             "anticipata": false,
             "extraEu": false,
             "phase": "Standard",
             "primary": null,
             "secondary": null
-          }
+          },
+          "school": "Design",
+          "year": 2023
         }
       ]
     }
   },
-  "lastUpdate": "2023-12-13T00:21:26.5541624Z"
+  "lastUpdate": "2023-12-14T00:21:10.8587184Z"
 }
