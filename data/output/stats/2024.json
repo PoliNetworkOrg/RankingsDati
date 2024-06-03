@@ -1,74 +1,8 @@
 {
-  "numStudents": 3415,
+  "numStudents": 5014,
   "schools": {
     "Design": {
       "list": [
-        {
-          "singleCourseJson": {
-            "basePath": "Design/2024/",
-            "link": ".json",
-            "location": "LECCO",
-            "name": "",
-            "rankingOrder": {
-              "anticipata": null,
-              "extraEu": null,
-              "phase": "",
-              "primary": null,
-              "secondary": null
-            },
-            "school": "Design",
-            "year": 2024
-          },
-          "stats": {
-            "courseSummarized": [
-              {
-                "averageBirthYear": 2005.06463,
-                "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 39.85575,
-                "averagePartialScores": {
-                  "Comprensione Verbale": 2.06122,
-                  "Cultura Generale": 8.22449,
-                  "Geometria e Rappresentazione": 6.07653,
-                  "Logica": 3.77041,
-                  "Storia del Design, Storia dell'Arte": 5.06122
-                },
-                "averageScoresOfAllStudents": 37.79347,
-                "howManyCanEnroll": 40,
-                "howManyOfa": {},
-                "howManyStudents": 49,
-                "location": "LECCO",
-                "minScoreToEnroll": 31.13,
-                "title": "INTERACTION DESIGN"
-              }
-            ],
-            "howManyCanEnroll": 40,
-            "howManyStudents": 49,
-            "resultsSummarized": {
-              "27": 3,
-              "29": 3,
-              "30": 3,
-              "31": 1,
-              "32": 3,
-              "33": 5,
-              "34": 2,
-              "35": 2,
-              "37": 7,
-              "39": 1,
-              "40": 4,
-              "41": 1,
-              "42": 3,
-              "43": 1,
-              "44": 1,
-              "46": 3,
-              "48": 1,
-              "49": 1,
-              "50": 1,
-              "51": 1,
-              "53": 1,
-              "63": 1
-            }
-          }
-        },
         {
           "singleCourseJson": {
             "basePath": "Design/2024/",
@@ -238,9 +172,266 @@
               "86": 3
             }
           }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Design/2024/",
+            "link": ".json",
+            "location": "LECCO",
+            "name": "",
+            "rankingOrder": {
+              "anticipata": null,
+              "extraEu": null,
+              "phase": "",
+              "primary": null,
+              "secondary": null
+            },
+            "school": "Design",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2005.06463,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 39.85575,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.06122,
+                  "Cultura Generale": 8.22449,
+                  "Geometria e Rappresentazione": 6.07653,
+                  "Logica": 3.77041,
+                  "Storia del Design, Storia dell'Arte": 5.06122
+                },
+                "averageScoresOfAllStudents": 37.79347,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {},
+                "howManyStudents": 49,
+                "location": "LECCO",
+                "minScoreToEnroll": 31.13,
+                "title": "INTERACTION DESIGN"
+              }
+            ],
+            "howManyCanEnroll": 40,
+            "howManyStudents": 49,
+            "resultsSummarized": {
+              "27": 3,
+              "29": 3,
+              "30": 3,
+              "31": 1,
+              "32": 3,
+              "33": 5,
+              "34": 2,
+              "35": 2,
+              "37": 7,
+              "39": 1,
+              "40": 4,
+              "41": 1,
+              "42": 3,
+              "43": 1,
+              "44": 1,
+              "46": 3,
+              "48": 1,
+              "49": 1,
+              "50": 1,
+              "51": 1,
+              "53": 1,
+              "63": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Design/2024/",
+            "link": ".json",
+            "location": "LECCO",
+            "name": "",
+            "rankingOrder": {
+              "anticipata": null,
+              "extraEu": null,
+              "phase": "",
+              "primary": null,
+              "secondary": null
+            },
+            "school": "Design",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.79167,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 28.69,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 1.41667,
+                  "Cultura Generale": 6.375,
+                  "Geometria e Rappresentazione": 4.25,
+                  "Logica": 3.50,
+                  "Storia del Design, Storia dell'Arte": 3.58333
+                },
+                "averageScoresOfAllStudents": 28.69,
+                "howManyCanEnroll": 6,
+                "howManyOfa": {},
+                "howManyStudents": 6,
+                "location": "LECCO",
+                "minScoreToEnroll": 27.00,
+                "title": "INTERACTION DESIGN"
+              }
+            ],
+            "howManyCanEnroll": 6,
+            "howManyStudents": 6,
+            "resultsSummarized": {
+              "27": 2,
+              "29": 2,
+              "30": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Design/2024/",
+            "link": ".json",
+            "location": "MILANO BOVISA",
+            "name": "",
+            "rankingOrder": {
+              "anticipata": null,
+              "extraEu": null,
+              "phase": "",
+              "primary": null,
+              "secondary": null
+            },
+            "school": "Design",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.9261,
+                "averageEnglishCorrectAnswers": 23.63166,
+                "averageOfWhoPassed": 56.68778,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.97818,
+                  "Cultura Generale": 9.28236,
+                  "Geometria e Rappresentazione": 4.75777,
+                  "Inglese": 22.25240,
+                  "Logica": 3.25259,
+                  "Storia del Design, Storia dell'Arte": 5.30603
+                },
+                "averageScoresOfAllStudents": 45.78363,
+                "howManyCanEnroll": 36,
+                "howManyOfa": {
+                  "ENG": 533
+                },
+                "howManyStudents": 1352,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.25,
+                "title": "DESIGN DEGLI INTERNI"
+              },
+              {
+                "averageBirthYear": 2004.90448,
+                "averageEnglishCorrectAnswers": 23.56291,
+                "averageOfWhoPassed": 56.36432,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.95752,
+                  "Cultura Generale": 9.34886,
+                  "Geometria e Rappresentazione": 4.79820,
+                  "Inglese": 22.16953,
+                  "Logica": 3.27042,
+                  "Storia del Design, Storia dell'Arte": 5.35519
+                },
+                "averageScoresOfAllStudents": 45.98592,
+                "howManyCanEnroll": 37,
+                "howManyOfa": {
+                  "ENG": 485
+                },
+                "howManyStudents": 1224,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 55.96,
+                "title": "DESIGN DEL PRODOTTO INDUSTRIALE"
+              },
+              {
+                "averageBirthYear": 2004.93198,
+                "averageEnglishCorrectAnswers": 23.68909,
+                "averageOfWhoPassed": 58.23654,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.99979,
+                  "Cultura Generale": 9.31214,
+                  "Geometria e Rappresentazione": 4.75841,
+                  "Inglese": 22.31358,
+                  "Logica": 3.24364,
+                  "Storia del Design, Storia dell'Arte": 5.32116
+                },
+                "averageScoresOfAllStudents": 45.89138,
+                "howManyCanEnroll": 26,
+                "howManyOfa": {
+                  "ENG": 471
+                },
+                "howManyStudents": 1219,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.79,
+                "title": "DESIGN DELLA COMUNICAZIONE"
+              },
+              {
+                "averageBirthYear": 2004.89977,
+                "averageEnglishCorrectAnswers": 23.64595,
+                "averageOfWhoPassed": 56.82625,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.99167,
+                  "Cultura Generale": 9.24459,
+                  "Geometria e Rappresentazione": 4.69752,
+                  "Inglese": 22.26982,
+                  "Logica": 3.25878,
+                  "Storia del Design, Storia dell'Arte": 5.34302
+                },
+                "averageScoresOfAllStudents": 45.72741,
+                "howManyCanEnroll": 16,
+                "howManyOfa": {
+                  "ENG": 432
+                },
+                "howManyStudents": 1110,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.00,
+                "title": "DESIGN DELLA MODA"
+              }
+            ],
+            "howManyCanEnroll": 115,
+            "howManyStudents": 1593,
+            "resultsSummarized": {
+              "30": 12,
+              "31": 21,
+              "32": 34,
+              "33": 20,
+              "34": 26,
+              "35": 38,
+              "36": 41,
+              "37": 32,
+              "38": 47,
+              "39": 56,
+              "40": 60,
+              "41": 63,
+              "42": 56,
+              "43": 53,
+              "44": 65,
+              "45": 68,
+              "46": 62,
+              "47": 58,
+              "48": 88,
+              "49": 81,
+              "50": 86,
+              "51": 69,
+              "52": 82,
+              "53": 91,
+              "54": 68,
+              "55": 64,
+              "56": 77,
+              "57": 57,
+              "58": 7,
+              "59": 4,
+              "60": 7
+            }
+          }
         }
       ],
-      "numStudents": 3415
+      "numStudents": 5014
     }
   }
 }
