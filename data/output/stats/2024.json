@@ -1,5 +1,5 @@
 {
-  "numStudents": 5014,
+  "numStudents": 6176,
   "schools": {
     "Design": {
       "list": [
@@ -243,6 +243,53 @@
           "singleCourseJson": {
             "basePath": "Design/2024/",
             "link": ".json",
+            "location": "LECCO",
+            "name": "",
+            "rankingOrder": {
+              "anticipata": null,
+              "extraEu": null,
+              "phase": "",
+              "primary": null,
+              "secondary": null
+            },
+            "school": "Design",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.79167,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 28.69,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 1.41667,
+                  "Cultura Generale": 6.375,
+                  "Geometria e Rappresentazione": 4.25,
+                  "Logica": 3.50,
+                  "Storia del Design, Storia dell'Arte": 3.58333
+                },
+                "averageScoresOfAllStudents": 28.69,
+                "howManyCanEnroll": 6,
+                "howManyOfa": {},
+                "howManyStudents": 6,
+                "location": "LECCO",
+                "minScoreToEnroll": 27.00,
+                "title": "INTERACTION DESIGN"
+              }
+            ],
+            "howManyCanEnroll": 6,
+            "howManyStudents": 6,
+            "resultsSummarized": {
+              "27": 2,
+              "29": 2,
+              "30": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Design/2024/",
+            "link": ".json",
             "location": "MILANO BOVISA",
             "name": "",
             "rankingOrder": {
@@ -387,7 +434,7 @@
           "singleCourseJson": {
             "basePath": "Design/2024/",
             "link": ".json",
-            "location": "LECCO",
+            "location": "MILANO BOVISA",
             "name": "",
             "rankingOrder": {
               "anticipata": null,
@@ -402,36 +449,130 @@
           "stats": {
             "courseSummarized": [
               {
-                "averageBirthYear": 2003.79167,
-                "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 28.69,
+                "averageBirthYear": 2004.95523,
+                "averageEnglishCorrectAnswers": 23.52838,
+                "averageOfWhoPassed": 56.18833,
                 "averagePartialScores": {
-                  "Comprensione Verbale": 1.41667,
-                  "Cultura Generale": 6.375,
-                  "Geometria e Rappresentazione": 4.25,
-                  "Logica": 3.50,
-                  "Storia del Design, Storia dell'Arte": 3.58333
+                  "Comprensione Verbale": 2.96111,
+                  "Cultura Generale": 9.25832,
+                  "Geometria e Rappresentazione": 4.81213,
+                  "Inglese": 22.13748,
+                  "Logica": 3.23704,
+                  "Storia del Design, Storia dell'Arte": 5.39212
                 },
-                "averageScoresOfAllStudents": 28.69,
+                "averageScoresOfAllStudents": 45.87104,
                 "howManyCanEnroll": 6,
-                "howManyOfa": {},
-                "howManyStudents": 6,
-                "location": "LECCO",
-                "minScoreToEnroll": 27.00,
-                "title": "INTERACTION DESIGN"
+                "howManyOfa": {
+                  "ENG": 413
+                },
+                "howManyStudents": 1022,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.00,
+                "title": "DESIGN DEGLI INTERNI"
+              },
+              {
+                "averageBirthYear": 2004.91215,
+                "averageEnglishCorrectAnswers": 23.4766,
+                "averageOfWhoPassed": 56.08455,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.95452,
+                  "Cultura Generale": 9.33989,
+                  "Geometria e Rappresentazione": 4.825,
+                  "Inglese": 22.075,
+                  "Logica": 3.25372,
+                  "Storia del Design, Storia dell'Arte": 5.44202
+                },
+                "averageScoresOfAllStudents": 46.08193,
+                "howManyCanEnroll": 11,
+                "howManyOfa": {
+                  "ENG": 380
+                },
+                "howManyStudents": 940,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 55.79,
+                "title": "DESIGN DEL PRODOTTO INDUSTRIALE"
+              },
+              {
+                "averageBirthYear": 2004.94412,
+                "averageEnglishCorrectAnswers": 23.5912,
+                "averageOfWhoPassed": 56.75,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.99678,
+                  "Cultura Generale": 9.26448,
+                  "Geometria e Rappresentazione": 4.73632,
+                  "Inglese": 22.20091,
+                  "Logica": 3.23149,
+                  "Storia del Design, Storia dell'Arte": 5.44474
+                },
+                "averageScoresOfAllStudents": 45.91187,
+                "howManyCanEnroll": 1,
+                "howManyOfa": {
+                  "ENG": 368
+                },
+                "howManyStudents": 932,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.75,
+                "title": "DESIGN DELLA COMUNICAZIONE"
+              },
+              {
+                "averageBirthYear": 2004.9189,
+                "averageEnglishCorrectAnswers": 23.59302,
+                "averageOfWhoPassed": 56.46,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 2.98140,
+                  "Cultura Generale": 9.23459,
+                  "Geometria e Rappresentazione": 4.71948,
+                  "Inglese": 22.21744,
+                  "Logica": 3.23837,
+                  "Storia del Design, Storia dell'Arte": 5.46134
+                },
+                "averageScoresOfAllStudents": 45.85933,
+                "howManyCanEnroll": 1,
+                "howManyOfa": {
+                  "ENG": 334
+                },
+                "howManyStudents": 860,
+                "location": "MILANO BOVISA",
+                "minScoreToEnroll": 56.46,
+                "title": "DESIGN DELLA MODA"
               }
             ],
-            "howManyCanEnroll": 6,
-            "howManyStudents": 6,
+            "howManyCanEnroll": 19,
+            "howManyStudents": 1162,
             "resultsSummarized": {
-              "27": 2,
-              "29": 2,
-              "30": 2
+              "30": 8,
+              "31": 14,
+              "32": 24,
+              "33": 18,
+              "34": 18,
+              "35": 30,
+              "36": 30,
+              "37": 25,
+              "38": 32,
+              "39": 40,
+              "40": 48,
+              "41": 40,
+              "42": 41,
+              "43": 41,
+              "44": 50,
+              "45": 55,
+              "46": 45,
+              "47": 41,
+              "48": 69,
+              "49": 65,
+              "50": 69,
+              "51": 57,
+              "52": 66,
+              "53": 75,
+              "54": 60,
+              "55": 54,
+              "56": 44,
+              "57": 3
             }
           }
         }
       ],
-      "numStudents": 5014
+      "numStudents": 6176
     }
   }
 }
