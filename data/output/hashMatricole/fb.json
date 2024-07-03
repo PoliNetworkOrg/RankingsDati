@@ -33,7 +33,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -45,7 +45,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1105,6 +1105,34 @@
       }
     ]
   },
+  "fb2afca594ee4c2582ed": {
+    "id": "fb2afca594ee4c2582ed",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "fb2b2294163e2fe1710e": {
     "id": "fb2b2294163e2fe1710e",
     "inMeritTable": true,
@@ -1243,7 +1271,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1255,7 +1283,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1579,7 +1607,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1589,7 +1617,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1599,7 +1627,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1611,7 +1639,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1621,7 +1649,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1631,7 +1659,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1641,7 +1669,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1651,7 +1679,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1661,7 +1689,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1671,7 +1699,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1681,7 +1709,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1691,7 +1719,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1701,7 +1729,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1711,7 +1739,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1721,7 +1749,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1871,7 +1899,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1881,7 +1909,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1891,7 +1919,17 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1903,7 +1941,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1913,7 +1951,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1923,7 +1961,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1933,7 +1971,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1943,7 +1981,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1953,7 +1991,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1963,7 +2001,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1973,7 +2011,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -1983,11 +2021,31 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       }
@@ -2451,7 +2509,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2461,7 +2519,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2473,7 +2531,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2483,7 +2541,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2493,7 +2551,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2503,7 +2561,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2513,7 +2571,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2523,7 +2581,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2533,7 +2591,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2543,7 +2601,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2823,7 +2881,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2833,7 +2891,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2845,7 +2903,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2855,7 +2913,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2865,7 +2923,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2875,7 +2933,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2885,7 +2943,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2895,7 +2953,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2905,7 +2963,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2915,7 +2973,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2987,7 +3045,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -2999,7 +3057,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3559,7 +3617,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3569,7 +3627,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3579,7 +3637,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3591,7 +3649,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3601,7 +3659,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3611,7 +3669,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3621,7 +3679,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3631,7 +3689,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3641,7 +3699,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3651,7 +3709,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3661,7 +3719,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3671,7 +3729,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3681,7 +3739,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3691,7 +3749,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -3701,11 +3759,39 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
+  "fb881d9671da0e5e2cf4": {
+    "id": "fb881d9671da0e5e2cf4",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA MATEMATICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       }
@@ -5229,7 +5315,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5241,7 +5327,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5257,7 +5343,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5269,7 +5355,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5279,7 +5365,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5289,7 +5375,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5315,7 +5401,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5325,7 +5411,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5335,7 +5421,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5387,7 +5473,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5397,7 +5483,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5407,7 +5493,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5417,7 +5503,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5427,7 +5513,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5437,7 +5523,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5447,7 +5533,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5457,7 +5543,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5467,7 +5553,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5477,7 +5563,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5487,7 +5573,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5497,7 +5583,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -5738,6 +5824,54 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "fbd73fae9a10a3e1af06": {
+    "id": "fbd73fae9a10a3e1af06",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA AEROSPAZIALE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MATEMATICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -5997,7 +6131,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6007,7 +6141,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6017,7 +6151,7 @@
       },
       {
         "course": null,
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6029,7 +6163,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6039,7 +6173,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6049,7 +6183,7 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6059,7 +6193,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6069,7 +6203,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6079,7 +6213,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Terza Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6133,7 +6267,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6145,7 +6279,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6183,13 +6317,41 @@
       }
     ]
   },
+  "fbeb42a7842c64f6748c": {
+    "id": "fbeb42a7842c64f6748c",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA ELETTRONICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "fbed346b6a00a1d0e2cd": {
     "id": "fbed346b6a00a1d0e2cd",
     "inMeritTable": true,
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6201,7 +6363,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6543,7 +6705,7 @@
     "rankingSummaries": [
       {
         "course": null,
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6555,7 +6717,7 @@
     "singleCourseJsons": [
       {
         "course": "DESIGN DEGLI INTERNI",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6565,7 +6727,7 @@
       },
       {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6575,7 +6737,7 @@
       },
       {
         "course": "DESIGN DELLA COMUNICAZIONE",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
@@ -6585,7 +6747,7 @@
       },
       {
         "course": "DESIGN DELLA MODA",
-        "phase": "",
+        "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
