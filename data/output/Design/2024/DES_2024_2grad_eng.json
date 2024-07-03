@@ -1,0 +1,341 @@
+{
+  "byCourse": [
+    {
+      "location": "LECCO",
+      "sections": [
+        "Geometria e Rappresentazione",
+        "Comprensione Verbale",
+        "Storia del Design, Storia dell'Arte",
+        "Logica",
+        "Cultura Generale"
+      ],
+      "title": "INTERACTION DESIGN",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Geometria e Rappresentazione",
+        "Comprensione Verbale",
+        "Storia del Design, Storia dell'Arte",
+        "Logica",
+        "Cultura Generale"
+      ],
+      "path": "http://www.risultati-ammissione.polimi.it/2024_20083_4b52_html/2024_20083_generale.html",
+      "rows": [
+        {
+          "birthDate": "2003-09-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "02ef2176a1c93d3cdac6",
+          "ofa": {},
+          "positionAbsolute": 1,
+          "positionCourse": 1,
+          "result": 30.38,
+          "sectionsResults": {
+            "Comprensione Verbale": 0.25,
+            "Cultura Generale": 7.75,
+            "Geometria e Rappresentazione": 1.75,
+            "Logica": 3.50,
+            "Storia del Design, Storia dell'Arte": 7.00
+          }
+        },
+        {
+          "birthDate": "2005-06-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "a8d225d71e6c17b57ea4",
+          "ofa": {},
+          "positionAbsolute": 2,
+          "positionCourse": 2,
+          "result": 30.00,
+          "sectionsResults": {
+            "Comprensione Verbale": 3.50,
+            "Cultura Generale": 3.75,
+            "Geometria e Rappresentazione": 6.50,
+            "Logica": 3.50,
+            "Storia del Design, Storia dell'Arte": 2.75
+          }
+        },
+        {
+          "birthDate": "2003-09-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "e82d962b1503fec43408",
+          "ofa": {},
+          "positionAbsolute": 3,
+          "positionCourse": 3,
+          "result": 28.88,
+          "sectionsResults": {
+            "Comprensione Verbale": 1.50,
+            "Cultura Generale": 5.25,
+            "Geometria e Rappresentazione": 6.25,
+            "Logica": 5.00,
+            "Storia del Design, Storia dell'Arte": 1.25
+          }
+        },
+        {
+          "birthDate": "2005-07-12",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "0043d06c7428bf2f7cc9",
+          "ofa": {},
+          "positionAbsolute": 4,
+          "positionCourse": 4,
+          "result": 28.88,
+          "sectionsResults": {
+            "Comprensione Verbale": 0.50,
+            "Cultura Generale": 6.75,
+            "Geometria e Rappresentazione": 5.25,
+            "Logica": 4.00,
+            "Storia del Design, Storia dell'Arte": 2.75
+          }
+        },
+        {
+          "birthDate": "2004-08-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "32069477b572d0b4d8cf",
+          "ofa": {},
+          "positionAbsolute": 5,
+          "positionCourse": 5,
+          "result": 27.00,
+          "sectionsResults": {
+            "Comprensione Verbale": 2.75,
+            "Cultura Generale": 6.50,
+            "Geometria e Rappresentazione": 3.25,
+            "Logica": 4.00,
+            "Storia del Design, Storia dell'Arte": 1.50
+          }
+        },
+        {
+          "birthDate": "1999-06-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INTERACTION DESIGN (LECCO)",
+            "type": "Assegnato"
+          },
+          "id": "6a853310f11f97d8254d",
+          "ofa": {},
+          "positionAbsolute": 6,
+          "positionCourse": 6,
+          "result": 27.00,
+          "sectionsResults": {
+            "Comprensione Verbale": 0.00,
+            "Cultura Generale": 8.25,
+            "Geometria e Rappresentazione": 2.50,
+            "Logica": 1.00,
+            "Storia del Design, Storia dell'Arte": 6.25
+          }
+        }
+      ],
+      "year": 2024
+    }
+  ],
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "http://www.risultati-ammissione.polimi.it/2024_20083_4b52_html/2024_20083_generale.html",
+    "rows": [
+      {
+        "birthDate": "2003-09-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "02ef2176a1c93d3cdac6",
+        "ofa": {},
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 30.38,
+        "sectionsResults": {
+          "Comprensione Verbale": 0.25,
+          "Cultura Generale": 7.75,
+          "Geometria e Rappresentazione": 1.75,
+          "Logica": 3.50,
+          "Storia del Design, Storia dell'Arte": 7.00
+        }
+      },
+      {
+        "birthDate": "2005-06-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "a8d225d71e6c17b57ea4",
+        "ofa": {},
+        "positionAbsolute": 2,
+        "positionCourse": 2,
+        "result": 30.00,
+        "sectionsResults": {
+          "Comprensione Verbale": 3.50,
+          "Cultura Generale": 3.75,
+          "Geometria e Rappresentazione": 6.50,
+          "Logica": 3.50,
+          "Storia del Design, Storia dell'Arte": 2.75
+        }
+      },
+      {
+        "birthDate": "2003-09-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "e82d962b1503fec43408",
+        "ofa": {},
+        "positionAbsolute": 3,
+        "positionCourse": 3,
+        "result": 28.88,
+        "sectionsResults": {
+          "Comprensione Verbale": 1.50,
+          "Cultura Generale": 5.25,
+          "Geometria e Rappresentazione": 6.25,
+          "Logica": 5.00,
+          "Storia del Design, Storia dell'Arte": 1.25
+        }
+      },
+      {
+        "birthDate": "2005-07-12",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "0043d06c7428bf2f7cc9",
+        "ofa": {},
+        "positionAbsolute": 4,
+        "positionCourse": 4,
+        "result": 28.88,
+        "sectionsResults": {
+          "Comprensione Verbale": 0.50,
+          "Cultura Generale": 6.75,
+          "Geometria e Rappresentazione": 5.25,
+          "Logica": 4.00,
+          "Storia del Design, Storia dell'Arte": 2.75
+        }
+      },
+      {
+        "birthDate": "2004-08-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "32069477b572d0b4d8cf",
+        "ofa": {},
+        "positionAbsolute": 5,
+        "positionCourse": 5,
+        "result": 27.00,
+        "sectionsResults": {
+          "Comprensione Verbale": 2.75,
+          "Cultura Generale": 6.50,
+          "Geometria e Rappresentazione": 3.25,
+          "Logica": 4.00,
+          "Storia del Design, Storia dell'Arte": 1.50
+        }
+      },
+      {
+        "birthDate": "1999-06-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INTERACTION DESIGN (LECCO)",
+          "type": "Assegnato"
+        },
+        "id": "6a853310f11f97d8254d",
+        "ofa": {},
+        "positionAbsolute": 6,
+        "positionCourse": 6,
+        "result": 27.00,
+        "sectionsResults": {
+          "Comprensione Verbale": 0.00,
+          "Cultura Generale": 8.25,
+          "Geometria e Rappresentazione": 2.50,
+          "Logica": 1.00,
+          "Storia del Design, Storia dell'Arte": 6.25
+        }
+      }
+    ],
+    "year": 2024
+  },
+  "extra": "Studenti Comunitari ed Equiparati",
+  "lastUpdate": "2024-07-03T23:45:45.9635522Z",
+  "rankingOrder": {
+    "anticipata": false,
+    "extraEu": false,
+    "phase": "Seconda Graduatoria",
+    "primary": null,
+    "secondary": 2,
+    "isEnglish": true
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2003.79167,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": 28.69,
+        "averagePartialScores": {
+          "Comprensione Verbale": 1.41667,
+          "Cultura Generale": 6.375,
+          "Geometria e Rappresentazione": 4.25,
+          "Logica": 3.50,
+          "Storia del Design, Storia dell'Arte": 3.58333
+        },
+        "averageScoresOfAllStudents": 28.69,
+        "howManyCanEnroll": 6,
+        "howManyOfa": {},
+        "howManyStudents": 6,
+        "location": "LECCO",
+        "minScoreToEnroll": 27.00,
+        "title": "INTERACTION DESIGN"
+      }
+    ],
+    "howManyCanEnroll": 6,
+    "howManyStudents": 6,
+    "resultsSummarized": {
+      "27": 2,
+      "29": 2,
+      "30": 2
+    }
+  },
+  "school": "Design",
+  "url": {
+    "pageEnum": 1,
+    "url": "http://www.risultati-ammissione.polimi.it/2024_20083_4b52_html/2024_20083_generale.html"
+  },
+  "year": 2024
+}
