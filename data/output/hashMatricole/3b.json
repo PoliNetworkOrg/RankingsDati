@@ -477,6 +477,26 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -489,6 +509,26 @@
     "singleCourseJsons": [
       {
         "course": "INGEGNERIA AEROSPAZIALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA AEROSPAZIALE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA AEROSPAZIALE",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -499,11 +539,61 @@
       },
       {
         "course": "INGEGNERIA DELL'AUTOMAZIONE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA DELL'AUTOMAZIONE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA DELL'AUTOMAZIONE",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA FISICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       },
@@ -519,11 +609,97 @@
       },
       {
         "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
+  "3b239adf5a8ad7c5a10c": {
+    "id": "3b239adf5a8ad7c5a10c",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA ONLINE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
+  "3b25299d1174f0d67f7d": {
+    "id": "3b25299d1174f0d67f7d",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
         },
         "year": 2024
       }
@@ -1037,6 +1213,26 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20019_4118_html/2024_20019_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20020_27ba_html/2024_20020_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -1047,6 +1243,26 @@
       }
     ],
     "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20019_4118_html/2024_20019_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20020_27ba_html/2024_20020_generale.html"
+        },
+        "year": 2024
+      },
       {
         "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
         "phase": "Seconda Graduatoria Di Seconda Fase",
@@ -1326,6 +1542,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20041_html/2021_20041_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "3b4391a7f7d277ef6d2f": {
+    "id": "3b4391a7f7d277ef6d2f",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA MATEMATICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -2559,6 +2803,34 @@
       }
     ]
   },
+  "3b66d79519db947a710f": {
+    "id": "3b66d79519db947a710f",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "3b6754785a559d9866aa": {
     "id": "3b6754785a559d9866aa",
     "inMeritTable": true,
@@ -2865,6 +3137,26 @@
       },
       {
         "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -2882,6 +3174,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
       }
     ],
     "singleCourseJsons": [
@@ -2897,6 +3199,26 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -2916,12 +3238,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -2946,12 +3298,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -2976,12 +3358,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA MODA",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -3002,6 +3414,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -3199,6 +3621,26 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -3211,11 +3653,51 @@
     "singleCourseJsons": [
       {
         "course": "INGEGNERIA CIVILE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       },
@@ -3256,6 +3738,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "3b73cabb61d99a494e17": {
+    "id": "3b73cabb61d99a494e17",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -3420,6 +3930,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "3b7edd5bf266d606e496": {
+    "id": "3b7edd5bf266d606e496",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -3931,6 +4469,26 @@
       },
       {
         "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -3946,6 +4504,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -4033,6 +4601,26 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -4052,12 +4640,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4082,12 +4700,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4112,12 +4760,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA MODA",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4138,6 +4816,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -4159,6 +4847,26 @@
       },
       {
         "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -4176,6 +4884,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
       }
     ],
     "singleCourseJsons": [
@@ -4191,6 +4909,26 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -4210,12 +4948,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4240,12 +5008,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4270,12 +5068,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA MODA",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4296,6 +5124,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -4326,6 +5164,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2021_20091_html/2021_20091_generale.html"
         },
         "year": 2021
+      }
+    ]
+  },
+  "3b93becdff25a5cebe5d": {
+    "id": "3b93becdff25a5cebe5d",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -4537,6 +5403,26 @@
       },
       {
         "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -4554,6 +5440,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
       }
     ],
     "singleCourseJsons": [
@@ -4569,6 +5465,26 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -4588,12 +5504,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4618,12 +5564,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -4644,6 +5620,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -5233,6 +6219,64 @@
       }
     ]
   },
+  "3baa559ca937baac2da0": {
+    "id": "3baa559ca937baac2da0",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA AEROSPAZIALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA INFORMATICA ONLINE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "3bace18eaa40a3d2b6a0": {
     "id": "3bace18eaa40a3d2b6a0",
     "inMeritTable": true,
@@ -5244,6 +6288,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
         },
         "year": 2024
       },
@@ -5264,6 +6318,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -5281,6 +6345,16 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -5300,12 +6374,32 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
         },
         "year": 2024
       },
@@ -5330,12 +6424,32 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
         },
         "year": 2024
       },
@@ -5360,12 +6474,32 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA MODA",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
         },
         "year": 2024
       },
@@ -5386,6 +6520,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }
@@ -5697,6 +6841,26 @@
     "rankingSummaries": [
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -5707,6 +6871,36 @@
       }
     ],
     "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA AEROSPAZIALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
       {
         "course": "INGEGNERIA BIOMEDICA",
         "phase": "Seconda Graduatoria Di Seconda Fase",
@@ -5966,6 +7160,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20064_html/2022_20064_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "3bc5ae3d2b03c93c26a0": {
+    "id": "3bc5ae3d2b03c93c26a0",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
@@ -6281,6 +7503,44 @@
       }
     ]
   },
+  "3bd3cd0d8737debd819e": {
+    "id": "3bd3cd0d8737debd819e",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "3bd4409f222ed39ca540": {
     "id": "3bd4409f222ed39ca540",
     "inMeritTable": true,
@@ -6342,6 +7602,26 @@
           "url": "http://www.risultati-ammissione.polimi.it/2023_20069_3b7f_html/2023_20069_generale.html"
         },
         "year": 2023
+      },
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
       },
       {
         "course": null,
@@ -6417,11 +7697,51 @@
       },
       {
         "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA BIOMEDICA",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CHIMICA",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       },
@@ -6437,11 +7757,51 @@
       },
       {
         "course": "INGEGNERIA CIVILE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
         "phase": "Seconda Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20102_491d_html/2024_20102_generale.html"
         },
         "year": 2024
       },
@@ -7019,6 +8379,54 @@
       }
     ]
   },
+  "3be71192147baad808a9": {
+    "id": "3be71192147baad808a9",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA BIOMEDICA",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA CIVILE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "3be72dee2a0a59415fce": {
     "id": "3be72dee2a0a59415fce",
     "inMeritTable": true,
@@ -7451,6 +8859,34 @@
       }
     ]
   },
+  "3bf959574cfa8896e0d6": {
+    "id": "3bf959574cfa8896e0d6",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "3bf97315dcea65773835": {
     "id": "3bf97315dcea65773835",
     "inMeritTable": true,
@@ -7653,6 +9089,26 @@
       },
       {
         "course": null,
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -7670,6 +9126,16 @@
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
+      },
+      {
+        "course": null,
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
       }
     ],
     "singleCourseJsons": [
@@ -7685,6 +9151,26 @@
       },
       {
         "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEGLI INTERNI",
         "phase": "Seconda Graduatoria",
         "school": "Design",
         "url": {
@@ -7704,12 +9190,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEGLI INTERNI",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -7734,12 +9250,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DEL PRODOTTO INDUSTRIALE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA COMUNICAZIONE",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -7764,12 +9310,42 @@
         "year": 2024
       },
       {
+        "course": "DESIGN DELLA COMUNICAZIONE",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
         "course": "DESIGN DELLA MODA",
         "phase": "Prima Graduatoria",
         "school": "Design",
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20039_29f1_html/2024_20039_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quarta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20042_4dc5_html/2024_20042_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Quinta Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "http://www.risultati-ammissione.polimi.it/2024_20043_5d35_html/2024_20043_generale.html"
         },
         "year": 2024
       },
@@ -7790,6 +9366,16 @@
         "url": {
           "pageEnum": 1,
           "url": "http://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "DESIGN DELLA MODA",
+        "phase": "Terza Graduatoria",
+        "school": "Design",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20041_338e_html/2024_20041_generale.html"
         },
         "year": 2024
       }

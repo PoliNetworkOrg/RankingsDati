@@ -348,6 +348,38 @@
       "2024": [
         {
           "basePath": "Ingegneria/2024/",
+          "link": "ENG_2024_2fase_1grad_eng.json",
+          "location": "MILANO LEONARDO",
+          "id": "ENG_2024_2fase_1grad_eng",
+          "rankingOrder": {
+            "anticipata": false,
+            "extraEu": false,
+            "phase": "Prima Graduatoria Di Seconda Fase",
+            "primary": 2,
+            "secondary": 1,
+            "isEnglish": true
+          },
+          "school": "Ingegneria",
+          "year": 2024
+        },
+        {
+          "basePath": "Ingegneria/2024/",
+          "link": "ENG_2024_2fase_1grad_ita.json",
+          "location": "MILANO BOVISA",
+          "id": "ENG_2024_2fase_1grad_ita",
+          "rankingOrder": {
+            "anticipata": false,
+            "extraEu": false,
+            "phase": "Prima Graduatoria Di Seconda Fase",
+            "primary": 2,
+            "secondary": 1,
+            "isEnglish": false
+          },
+          "school": "Ingegneria",
+          "year": 2024
+        },
+        {
+          "basePath": "Ingegneria/2024/",
           "link": "ENG_2024_2fase_2grad_eng.json",
           "location": "MILANO LEONARDO",
           "id": "ENG_2024_2fase_2grad_eng",
@@ -1273,9 +1305,41 @@
           },
           "school": "Design",
           "year": 2024
+        },
+        {
+          "basePath": "Design/2024/",
+          "link": "DES_2024_4grad_ita.json",
+          "location": "MILANO BOVISA",
+          "id": "DES_2024_4grad_ita",
+          "rankingOrder": {
+            "anticipata": false,
+            "extraEu": false,
+            "phase": "Quarta Graduatoria",
+            "primary": null,
+            "secondary": 4,
+            "isEnglish": false
+          },
+          "school": "Design",
+          "year": 2024
+        },
+        {
+          "basePath": "Design/2024/",
+          "link": "DES_2024_5grad_ita.json",
+          "location": "MILANO BOVISA",
+          "id": "DES_2024_5grad_ita",
+          "rankingOrder": {
+            "anticipata": false,
+            "extraEu": false,
+            "phase": "Quinta Graduatoria",
+            "primary": null,
+            "secondary": 5,
+            "isEnglish": false
+          },
+          "school": "Design",
+          "year": 2024
         }
       ]
     }
   },
-  "lastUpdate": "2024-07-03T20:06:33.5340449Z"
+  "lastUpdate": "2024-07-03T23:45:37.1630298Z"
 }
