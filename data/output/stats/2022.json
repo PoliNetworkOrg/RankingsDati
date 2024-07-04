@@ -10,11 +10,11 @@
             "location": "MILANO BOVISA",
             "id": "ENG_2022_2fase_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -455,11 +455,11 @@
             "location": "MILANO LEONARDO",
             "id": "ENG_2022_2fase_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -900,11 +900,11 @@
             "location": "LECCO",
             "id": "ENG_2022_2fase_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -1345,11 +1345,11 @@
             "location": "CREMONA",
             "id": "ENG_2022_2fase_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -1790,11 +1790,11 @@
             "location": "PIACENZA",
             "id": "ENG_2022_2fase_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -2235,11 +2235,11 @@
             "location": "MILANO BOVISA",
             "id": "ENG_2022_2fase_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -2784,11 +2784,11 @@
             "location": "MILANO LEONARDO",
             "id": "ENG_2022_2fase_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -3333,11 +3333,11 @@
             "location": "LECCO",
             "id": "ENG_2022_2fase_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -3882,11 +3882,11 @@
             "location": "CREMONA",
             "id": "ENG_2022_2fase_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -4431,11 +4431,11 @@
             "location": "PIACENZA",
             "id": "ENG_2022_2fase_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -4980,11 +4980,11 @@
             "location": "MILANO BOVISA",
             "id": "ENG_2022_2fase_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -5494,11 +5494,11 @@
             "location": "MILANO LEONARDO",
             "id": "ENG_2022_2fase_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -6008,11 +6008,11 @@
             "location": "LECCO",
             "id": "ENG_2022_2fase_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -6522,11 +6522,11 @@
             "location": "CREMONA",
             "id": "ENG_2022_2fase_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -7036,11 +7036,11 @@
             "location": "PIACENZA",
             "id": "ENG_2022_2fase_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -7550,11 +7550,11 @@
             "location": "MILANO LEONARDO",
             "id": "ENG_2022_2fase_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -7976,11 +7976,11 @@
             "location": "LECCO",
             "id": "ENG_2022_2fase_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -8402,11 +8402,11 @@
             "location": "MILANO BOVISA",
             "id": "ENG_2022_2fase_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -8828,11 +8828,11 @@
             "location": "CREMONA",
             "id": "ENG_2022_2fase_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -9254,11 +9254,11 @@
             "location": "PIACENZA",
             "id": "ENG_2022_2fase_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria Di Seconda Fase",
               "primary": 2,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -9680,11 +9680,11 @@
             "location": "MILANO LEONARDO",
             "id": "ENG_2022_3fase_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Fase",
               "primary": 3,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -10179,11 +10179,11 @@
             "location": "LECCO",
             "id": "ENG_2022_3fase_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Fase",
               "primary": 3,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -10678,11 +10678,11 @@
             "location": "MILANO BOVISA",
             "id": "ENG_2022_3fase_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Fase",
               "primary": 3,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -11177,11 +11177,11 @@
             "location": "CREMONA",
             "id": "ENG_2022_3fase_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Fase",
               "primary": 3,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -11676,11 +11676,11 @@
             "location": "PIACENZA",
             "id": "ENG_2022_3fase_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Fase",
               "primary": 3,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Ingegneria",
@@ -12180,11 +12180,11 @@
             "location": null,
             "id": "URB_2022_anticipata_ita",
             "rankingOrder": {
-              "anticipata": true,
-              "extraEu": false,
               "phase": "Anticipata",
               "primary": null,
               "secondary": null,
+              "isAnticipata": true,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Urbanistica",
@@ -12273,11 +12273,11 @@
             "location": null,
             "id": "URB_2022_extraeu_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Urbanistica",
@@ -12317,11 +12317,11 @@
             "location": null,
             "id": "URB_2022_standard_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Standard",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Urbanistica",
@@ -12397,11 +12397,11 @@
             "location": "LECCO",
             "id": "ARC_2022_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -12596,11 +12596,11 @@
             "location": "MANTOVA",
             "id": "ARC_2022_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -12795,11 +12795,11 @@
             "location": "MILANO LEONARDO",
             "id": "ARC_2022_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -12994,11 +12994,11 @@
             "location": "PIACENZA",
             "id": "ARC_2022_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -13193,11 +13193,11 @@
             "location": "MI LEONARDO",
             "id": "ARC_2022_1grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -13392,11 +13392,11 @@
             "location": "LECCO",
             "id": "ARC_2022_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -13591,11 +13591,11 @@
             "location": "MANTOVA",
             "id": "ARC_2022_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -13790,11 +13790,11 @@
             "location": "MILANO LEONARDO",
             "id": "ARC_2022_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -13989,11 +13989,11 @@
             "location": "PIACENZA",
             "id": "ARC_2022_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -14188,11 +14188,11 @@
             "location": "MI LEONARDO",
             "id": "ARC_2022_1grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Prima Graduatoria",
               "primary": null,
               "secondary": 1,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -14387,11 +14387,11 @@
             "location": "LECCO",
             "id": "ARC_2022_2grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -14571,11 +14571,11 @@
             "location": "MANTOVA",
             "id": "ARC_2022_2grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -14755,11 +14755,11 @@
             "location": "MILANO LEONARDO",
             "id": "ARC_2022_2grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -14939,11 +14939,11 @@
             "location": "PIACENZA",
             "id": "ARC_2022_2grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -15123,11 +15123,11 @@
             "location": "MI LEONARDO",
             "id": "ARC_2022_2grad_ita_extraeu",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -15307,11 +15307,11 @@
             "location": "LECCO",
             "id": "ARC_2022_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -15490,11 +15490,11 @@
             "location": "MANTOVA",
             "id": "ARC_2022_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -15673,11 +15673,11 @@
             "location": "MILANO LEONARDO",
             "id": "ARC_2022_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -15856,11 +15856,11 @@
             "location": "PIACENZA",
             "id": "ARC_2022_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16039,11 +16039,11 @@
             "location": "MI LEONARDO",
             "id": "ARC_2022_2grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Seconda Graduatoria",
               "primary": null,
               "secondary": 2,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16222,11 +16222,11 @@
             "location": "LECCO",
             "id": "ARC_2022_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria",
               "primary": null,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16401,11 +16401,11 @@
             "location": "MANTOVA",
             "id": "ARC_2022_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria",
               "primary": null,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16580,11 +16580,11 @@
             "location": "MILANO LEONARDO",
             "id": "ARC_2022_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria",
               "primary": null,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16759,11 +16759,11 @@
             "location": "PIACENZA",
             "id": "ARC_2022_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria",
               "primary": null,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -16938,11 +16938,11 @@
             "location": "MI LEONARDO",
             "id": "ARC_2022_3grad_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Terza Graduatoria",
               "primary": null,
               "secondary": 3,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Architettura",
@@ -17122,11 +17122,11 @@
             "location": "MILANO BOVISA",
             "id": "DES_2022_anticipato_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Anticipato",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Design",
@@ -17301,11 +17301,11 @@
             "location": "MILANO BOVISA",
             "id": "DES_2022_extraeu_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": true,
               "phase": "Extra-ue",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": true,
               "isEnglish": false
             },
             "school": "Design",
@@ -17453,11 +17453,11 @@
             "location": "MILANO BOVISA",
             "id": "DES_2022_ripescaggio_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Ripescaggio",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Design",
@@ -17548,11 +17548,11 @@
             "location": "MILANO BOVISA",
             "id": "DES_2022_standard_ita",
             "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
               "phase": "Standard",
               "primary": null,
               "secondary": null,
+              "isAnticipata": false,
+              "isExtraEu": false,
               "isEnglish": false
             },
             "school": "Design",
