@@ -1,8 +1,70 @@
 {
-  "numStudents": 13901,
+  "numStudents": 13922,
   "schools": {
     "Ingegneria": {
       "list": [
+        {
+          "singleCourseJson": {
+            "basePath": "Ingegneria/2024/",
+            "link": "ENG_2024_2fase_1grad_eng.json",
+            "location": "MILANO LEONARDO",
+            "id": "ENG_2024_2fase_1grad_eng",
+            "rankingOrder": {
+              "anticipata": false,
+              "extraEu": false,
+              "phase": "Prima Graduatoria Di Seconda Fase",
+              "primary": 2,
+              "secondary": 1,
+              "isEnglish": true
+            },
+            "school": "Ingegneria",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.36992,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 78.6525,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 12.81220,
+                  "Fisica": 7.62098,
+                  "Matematica": 53.40707
+                },
+                "averageScoresOfAllStudents": 73.84024,
+                "howManyCanEnroll": 36,
+                "howManyOfa": {},
+                "howManyStudents": 41,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 49.28,
+                "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
+              }
+            ],
+            "howManyCanEnroll": 36,
+            "howManyStudents": 41,
+            "resultsSummarized": {
+              "30": 1,
+              "33": 1,
+              "42": 2,
+              "48": 1,
+              "49": 1,
+              "50": 2,
+              "55": 1,
+              "59": 1,
+              "65": 1,
+              "72": 3,
+              "73": 1,
+              "77": 1,
+              "79": 3,
+              "81": 2,
+              "83": 2,
+              "85": 9,
+              "86": 1,
+              "88": 1,
+              "90": 7
+            }
+          }
+        },
         {
           "singleCourseJson": {
             "basePath": "Ingegneria/2024/",
@@ -100,107 +162,60 @@
           "stats": {
             "courseSummarized": [
               {
-                "averageBirthYear": 2004.36992,
+                "averageBirthYear": 2005.1303,
                 "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 78.6525,
+                "averageOfWhoPassed": 67.8745,
                 "averagePartialScores": {
-                  "Comprensione Verbale": 12.81220,
-                  "Fisica": 7.62098,
-                  "Matematica": 53.40707
+                  "Comprensione Verbale": 11.60073,
+                  "Fisica": 5.99382,
+                  "Matematica": 42.67727
                 },
-                "averageScoresOfAllStudents": 73.84024,
-                "howManyCanEnroll": 36,
+                "averageScoresOfAllStudents": 60.27182,
+                "howManyCanEnroll": 40,
                 "howManyOfa": {},
-                "howManyStudents": 41,
+                "howManyStudents": 55,
                 "location": "MILANO LEONARDO",
-                "minScoreToEnroll": 49.28,
+                "minScoreToEnroll": 49.78,
                 "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
               }
             ],
-            "howManyCanEnroll": 36,
-            "howManyStudents": 41,
+            "howManyCanEnroll": 40,
+            "howManyStudents": 55,
             "resultsSummarized": {
               "30": 1,
+              "31": 1,
+              "32": 1,
               "33": 1,
-              "42": 2,
+              "36": 1,
+              "38": 1,
+              "40": 3,
+              "43": 1,
+              "45": 1,
+              "47": 2,
               "48": 1,
               "49": 1,
-              "50": 2,
-              "55": 1,
-              "59": 1,
-              "65": 1,
-              "72": 3,
-              "73": 1,
-              "77": 1,
-              "79": 3,
-              "81": 2,
-              "83": 2,
-              "85": 9,
-              "86": 1,
-              "88": 1,
-              "90": 7
-            }
-          }
-        },
-        {
-          "singleCourseJson": {
-            "basePath": "Ingegneria/2024/",
-            "link": "ENG_2024_2fase_1grad_eng.json",
-            "location": "MILANO LEONARDO",
-            "id": "ENG_2024_2fase_1grad_eng",
-            "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
-              "phase": "Prima Graduatoria Di Seconda Fase",
-              "primary": 2,
-              "secondary": 1,
-              "isEnglish": true
-            },
-            "school": "Ingegneria",
-            "year": 2024
-          },
-          "stats": {
-            "courseSummarized": [
-              {
-                "averageBirthYear": 2004.36992,
-                "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 78.6525,
-                "averagePartialScores": {
-                  "Comprensione Verbale": 12.81220,
-                  "Fisica": 7.62098,
-                  "Matematica": 53.40707
-                },
-                "averageScoresOfAllStudents": 73.84024,
-                "howManyCanEnroll": 36,
-                "howManyOfa": {},
-                "howManyStudents": 41,
-                "location": "MILANO LEONARDO",
-                "minScoreToEnroll": 49.28,
-                "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
-              }
-            ],
-            "howManyCanEnroll": 36,
-            "howManyStudents": 41,
-            "resultsSummarized": {
-              "30": 1,
-              "33": 1,
-              "42": 2,
-              "48": 1,
-              "49": 1,
-              "50": 2,
-              "55": 1,
-              "59": 1,
-              "65": 1,
-              "72": 3,
-              "73": 1,
-              "77": 1,
-              "79": 3,
-              "81": 2,
-              "83": 2,
-              "85": 9,
-              "86": 1,
-              "88": 1,
-              "90": 7
+              "50": 1,
+              "52": 3,
+              "53": 2,
+              "54": 1,
+              "56": 2,
+              "58": 2,
+              "59": 2,
+              "60": 1,
+              "61": 4,
+              "62": 1,
+              "63": 1,
+              "66": 2,
+              "67": 1,
+              "70": 1,
+              "72": 1,
+              "75": 1,
+              "76": 1,
+              "77": 2,
+              "81": 5,
+              "83": 1,
+              "85": 2,
+              "90": 3
             }
           }
         },
@@ -2804,6 +2819,52 @@
           "stats": {
             "courseSummarized": [
               {
+                "averageBirthYear": 2005.4375,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 44.11,
+                "averagePartialScores": {
+                  "Comprensione Verbale": 6.9075,
+                  "Fisica": 3.2375,
+                  "Matematica": 31.2675
+                },
+                "averageScoresOfAllStudents": 41.4125,
+                "howManyCanEnroll": 3,
+                "howManyOfa": {},
+                "howManyStudents": 4,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 42.12,
+                "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
+              }
+            ],
+            "howManyCanEnroll": 3,
+            "howManyStudents": 4,
+            "resultsSummarized": {
+              "33": 1,
+              "42": 2,
+              "48": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Ingegneria/2024/",
+            "link": "ENG_2024_2fase_2grad_eng.json",
+            "location": "MILANO LEONARDO",
+            "id": "ENG_2024_2fase_2grad_eng",
+            "rankingOrder": {
+              "anticipata": false,
+              "extraEu": false,
+              "phase": "Seconda Graduatoria Di Seconda Fase",
+              "primary": 2,
+              "secondary": 2,
+              "isEnglish": true
+            },
+            "school": "Ingegneria",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
                 "averageBirthYear": 2005.29545,
                 "averageEnglishCorrectAnswers": null,
                 "averageOfWhoPassed": 40.73182,
@@ -2855,75 +2916,34 @@
           "stats": {
             "courseSummarized": [
               {
-                "averageBirthYear": 2005.4375,
+                "averageBirthYear": 2005.29545,
                 "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 44.11,
+                "averageOfWhoPassed": 40.73182,
                 "averagePartialScores": {
-                  "Comprensione Verbale": 6.9075,
-                  "Fisica": 3.2375,
-                  "Matematica": 31.2675
+                  "Comprensione Verbale": 10.68818,
+                  "Fisica": 3.35273,
+                  "Matematica": 26.69091
                 },
-                "averageScoresOfAllStudents": 41.4125,
-                "howManyCanEnroll": 3,
+                "averageScoresOfAllStudents": 40.73182,
+                "howManyCanEnroll": 11,
                 "howManyOfa": {},
-                "howManyStudents": 4,
+                "howManyStudents": 11,
                 "location": "MILANO LEONARDO",
-                "minScoreToEnroll": 42.12,
+                "minScoreToEnroll": 29.89,
                 "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
               }
             ],
-            "howManyCanEnroll": 3,
-            "howManyStudents": 4,
+            "howManyCanEnroll": 11,
+            "howManyStudents": 11,
             "resultsSummarized": {
+              "30": 1,
+              "31": 1,
               "33": 1,
-              "42": 2,
-              "48": 1
-            }
-          }
-        },
-        {
-          "singleCourseJson": {
-            "basePath": "Ingegneria/2024/",
-            "link": "ENG_2024_2fase_2grad_eng.json",
-            "location": "MILANO LEONARDO",
-            "id": "ENG_2024_2fase_2grad_eng",
-            "rankingOrder": {
-              "anticipata": false,
-              "extraEu": false,
-              "phase": "Seconda Graduatoria Di Seconda Fase",
-              "primary": 2,
-              "secondary": 2,
-              "isEnglish": true
-            },
-            "school": "Ingegneria",
-            "year": 2024
-          },
-          "stats": {
-            "courseSummarized": [
-              {
-                "averageBirthYear": 2005.4375,
-                "averageEnglishCorrectAnswers": null,
-                "averageOfWhoPassed": 44.11,
-                "averagePartialScores": {
-                  "Comprensione Verbale": 6.9075,
-                  "Fisica": 3.2375,
-                  "Matematica": 31.2675
-                },
-                "averageScoresOfAllStudents": 41.4125,
-                "howManyCanEnroll": 3,
-                "howManyOfa": {},
-                "howManyStudents": 4,
-                "location": "MILANO LEONARDO",
-                "minScoreToEnroll": 42.12,
-                "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
-              }
-            ],
-            "howManyCanEnroll": 3,
-            "howManyStudents": 4,
-            "resultsSummarized": {
-              "33": 1,
-              "42": 2,
-              "48": 1
+              "40": 3,
+              "43": 1,
+              "47": 2,
+              "48": 1,
+              "49": 1
             }
           }
         },
@@ -5438,7 +5458,7 @@
           }
         }
       ],
-      "numStudents": 5777
+      "numStudents": 5798
     },
     "Design": {
       "list": [
