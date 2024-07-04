@@ -18,82 +18,215 @@
         "Comprensione Verbale",
         "Fisica"
       ],
-      "path": "https://www.risultati-ammissione.polimi.it/2024_20057_6475_html/2024_20057_generale.html",
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20020_27ba_html/2024_20020_generale.html",
       "rows": [
         {
-          "birthDate": "2005-08-08",
+          "birthDate": "2006-11-14",
           "englishCorrectAnswers": null,
           "enrollType": {
             "canEnroll": true,
             "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
             "type": "Assegnato"
           },
-          "id": "cd92435e314fa19c40d0",
+          "id": "746c5b2196929796951f",
           "ofa": {},
           "positionAbsolute": 1,
           "positionCourse": 1,
-          "result": 48.08,
+          "result": 48.84,
           "sectionsResults": {
-            "Comprensione Verbale": 12.76,
+            "Comprensione Verbale": 10.53,
             "Fisica": 4.20,
-            "Matematica": 31.12
+            "Matematica": 34.11
           }
         },
         {
-          "birthDate": "2005-03-14",
+          "birthDate": "2006-09-15",
           "englishCorrectAnswers": null,
           "enrollType": {
             "canEnroll": true,
             "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
             "type": "Assegnato"
           },
-          "id": "2a8e041e72ca35c5b984",
+          "id": "1bd038488eaf85a023e3",
           "ofa": {},
           "positionAbsolute": 2,
           "positionCourse": 2,
-          "result": 42.13,
+          "result": 47.71,
           "sectionsResults": {
-            "Comprensione Verbale": 5.95,
-            "Fisica": 3.17,
-            "Matematica": 33.01
+            "Comprensione Verbale": 12.76,
+            "Fisica": 3.47,
+            "Matematica": 31.48
           }
         },
         {
-          "birthDate": "2005-09-19",
+          "birthDate": "1999-01-05",
           "englishCorrectAnswers": null,
           "enrollType": {
             "canEnroll": true,
             "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
             "type": "Assegnato"
           },
-          "id": "171ede8aa5602ba7c70c",
+          "id": "3b2c074d7fc51caeb3f9",
           "ofa": {},
           "positionAbsolute": 3,
           "positionCourse": 3,
-          "result": 42.12,
+          "result": 46.97,
           "sectionsResults": {
-            "Comprensione Verbale": 6.61,
-            "Fisica": 2.41,
-            "Matematica": 33.10
+            "Comprensione Verbale": 10.97,
+            "Fisica": 6.13,
+            "Matematica": 29.87
           }
         },
         {
-          "birthDate": "2005-01-01",
+          "birthDate": "2004-05-13",
           "englishCorrectAnswers": null,
           "enrollType": {
-            "canEnroll": false,
-            "course": null,
-            "type": null
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
           },
-          "id": "0bff84f2329ba3ab9011",
+          "id": "63f66644673b3cbcefdf",
           "ofa": {},
           "positionAbsolute": 4,
           "positionCourse": 4,
-          "result": 33.32,
+          "result": 46.88,
           "sectionsResults": {
-            "Comprensione Verbale": 2.31,
-            "Fisica": 3.17,
-            "Matematica": 27.84
+            "Comprensione Verbale": 9.63,
+            "Fisica": 4.58,
+            "Matematica": 32.67
+          }
+        },
+        {
+          "birthDate": "2006-01-15",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "cd9491db8031be3ba7fd",
+          "ofa": {},
+          "positionAbsolute": 5,
+          "positionCourse": 5,
+          "result": 43.21,
+          "sectionsResults": {
+            "Comprensione Verbale": 12.76,
+            "Fisica": 0.15,
+            "Matematica": 30.30
+          }
+        },
+        {
+          "birthDate": "2005-11-09",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "01984e6d610c2a983894",
+          "ofa": {},
+          "positionAbsolute": 6,
+          "positionCourse": 6,
+          "result": 40.47,
+          "sectionsResults": {
+            "Comprensione Verbale": 15.00,
+            "Fisica": 3.47,
+            "Matematica": 22.00
+          }
+        },
+        {
+          "birthDate": "2005-07-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "2f22c477d46774642cfc",
+          "ofa": {},
+          "positionAbsolute": 7,
+          "positionCourse": 7,
+          "result": 40.38,
+          "sectionsResults": {
+            "Comprensione Verbale": 8.29,
+            "Fisica": 1.96,
+            "Matematica": 30.13
+          }
+        },
+        {
+          "birthDate": "2005-05-11",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "f692a870267922342bb8",
+          "ofa": {},
+          "positionAbsolute": 8,
+          "positionCourse": 8,
+          "result": 40.08,
+          "sectionsResults": {
+            "Comprensione Verbale": 11.42,
+            "Fisica": 6.90,
+            "Matematica": 21.76
+          }
+        },
+        {
+          "birthDate": "2006-06-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "7249ac7f824397109f79",
+          "ofa": {},
+          "positionAbsolute": 9,
+          "positionCourse": 9,
+          "result": 32.95,
+          "sectionsResults": {
+            "Comprensione Verbale": 10.53,
+            "Fisica": 4.20,
+            "Matematica": 18.22
+          }
+        },
+        {
+          "birthDate": "2005-07-07",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "a82340c0485d4555f4a3",
+          "ofa": {},
+          "positionAbsolute": 10,
+          "positionCourse": 10,
+          "result": 30.67,
+          "sectionsResults": {
+            "Comprensione Verbale": 6.94,
+            "Fisica": 0.91,
+            "Matematica": 22.82
+          }
+        },
+        {
+          "birthDate": "2005-12-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+            "type": "Assegnato"
+          },
+          "id": "77d7ded13728d4775a4a",
+          "ofa": {},
+          "positionAbsolute": 11,
+          "positionCourse": 11,
+          "result": 29.89,
+          "sectionsResults": {
+            "Comprensione Verbale": 8.74,
+            "Fisica": 0.91,
+            "Matematica": 20.24
           }
         }
       ],
@@ -107,89 +240,222 @@
       "Posizione Assoluta",
       "Corso di Studi per il quale è consentita l'immatricolazione"
     ],
-    "path": "https://www.risultati-ammissione.polimi.it/2024_20057_6475_html/2024_20057_generale.html",
+    "path": "https://www.risultati-ammissione.polimi.it/2024_20020_27ba_html/2024_20020_generale.html",
     "rows": [
       {
-        "birthDate": "2005-08-08",
+        "birthDate": "2006-11-14",
         "englishCorrectAnswers": null,
         "enrollType": {
           "canEnroll": true,
           "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
           "type": "Assegnato"
         },
-        "id": "cd92435e314fa19c40d0",
+        "id": "746c5b2196929796951f",
         "ofa": {},
         "positionAbsolute": 1,
         "positionCourse": 1,
-        "result": 48.08,
+        "result": 48.84,
         "sectionsResults": {
-          "Comprensione Verbale": 12.76,
+          "Comprensione Verbale": 10.53,
           "Fisica": 4.20,
-          "Matematica": 31.12
+          "Matematica": 34.11
         }
       },
       {
-        "birthDate": "2005-03-14",
+        "birthDate": "2006-09-15",
         "englishCorrectAnswers": null,
         "enrollType": {
           "canEnroll": true,
           "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
           "type": "Assegnato"
         },
-        "id": "2a8e041e72ca35c5b984",
+        "id": "1bd038488eaf85a023e3",
         "ofa": {},
         "positionAbsolute": 2,
         "positionCourse": 2,
-        "result": 42.13,
+        "result": 47.71,
         "sectionsResults": {
-          "Comprensione Verbale": 5.95,
-          "Fisica": 3.17,
-          "Matematica": 33.01
+          "Comprensione Verbale": 12.76,
+          "Fisica": 3.47,
+          "Matematica": 31.48
         }
       },
       {
-        "birthDate": "2005-09-19",
+        "birthDate": "1999-01-05",
         "englishCorrectAnswers": null,
         "enrollType": {
           "canEnroll": true,
           "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
           "type": "Assegnato"
         },
-        "id": "171ede8aa5602ba7c70c",
+        "id": "3b2c074d7fc51caeb3f9",
         "ofa": {},
         "positionAbsolute": 3,
         "positionCourse": 3,
-        "result": 42.12,
+        "result": 46.97,
         "sectionsResults": {
-          "Comprensione Verbale": 6.61,
-          "Fisica": 2.41,
-          "Matematica": 33.10
+          "Comprensione Verbale": 10.97,
+          "Fisica": 6.13,
+          "Matematica": 29.87
         }
       },
       {
-        "birthDate": "2005-01-01",
+        "birthDate": "2004-05-13",
         "englishCorrectAnswers": null,
         "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
         },
-        "id": "0bff84f2329ba3ab9011",
+        "id": "63f66644673b3cbcefdf",
         "ofa": {},
         "positionAbsolute": 4,
         "positionCourse": 4,
-        "result": 33.32,
+        "result": 46.88,
         "sectionsResults": {
-          "Comprensione Verbale": 2.31,
-          "Fisica": 3.17,
-          "Matematica": 27.84
+          "Comprensione Verbale": 9.63,
+          "Fisica": 4.58,
+          "Matematica": 32.67
+        }
+      },
+      {
+        "birthDate": "2006-01-15",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "cd9491db8031be3ba7fd",
+        "ofa": {},
+        "positionAbsolute": 5,
+        "positionCourse": 5,
+        "result": 43.21,
+        "sectionsResults": {
+          "Comprensione Verbale": 12.76,
+          "Fisica": 0.15,
+          "Matematica": 30.30
+        }
+      },
+      {
+        "birthDate": "2005-11-09",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "01984e6d610c2a983894",
+        "ofa": {},
+        "positionAbsolute": 6,
+        "positionCourse": 6,
+        "result": 40.47,
+        "sectionsResults": {
+          "Comprensione Verbale": 15.00,
+          "Fisica": 3.47,
+          "Matematica": 22.00
+        }
+      },
+      {
+        "birthDate": "2005-07-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "2f22c477d46774642cfc",
+        "ofa": {},
+        "positionAbsolute": 7,
+        "positionCourse": 7,
+        "result": 40.38,
+        "sectionsResults": {
+          "Comprensione Verbale": 8.29,
+          "Fisica": 1.96,
+          "Matematica": 30.13
+        }
+      },
+      {
+        "birthDate": "2005-05-11",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "f692a870267922342bb8",
+        "ofa": {},
+        "positionAbsolute": 8,
+        "positionCourse": 8,
+        "result": 40.08,
+        "sectionsResults": {
+          "Comprensione Verbale": 11.42,
+          "Fisica": 6.90,
+          "Matematica": 21.76
+        }
+      },
+      {
+        "birthDate": "2006-06-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "7249ac7f824397109f79",
+        "ofa": {},
+        "positionAbsolute": 9,
+        "positionCourse": 9,
+        "result": 32.95,
+        "sectionsResults": {
+          "Comprensione Verbale": 10.53,
+          "Fisica": 4.20,
+          "Matematica": 18.22
+        }
+      },
+      {
+        "birthDate": "2005-07-07",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "a82340c0485d4555f4a3",
+        "ofa": {},
+        "positionAbsolute": 10,
+        "positionCourse": 10,
+        "result": 30.67,
+        "sectionsResults": {
+          "Comprensione Verbale": 6.94,
+          "Fisica": 0.91,
+          "Matematica": 22.82
+        }
+      },
+      {
+        "birthDate": "2005-12-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "77d7ded13728d4775a4a",
+        "ofa": {},
+        "positionAbsolute": 11,
+        "positionCourse": 11,
+        "result": 29.89,
+        "sectionsResults": {
+          "Comprensione Verbale": 8.74,
+          "Fisica": 0.91,
+          "Matematica": 20.24
         }
       }
     ],
     "year": 2024
   },
-  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
-  "lastUpdate": "2024-07-04T02:19:33.9664199Z",
+  "extra": "Studenti Comunitari ed Equiparati",
+  "lastUpdate": "2024-07-04T03:07:18.5322984Z",
   "rankingOrder": {
     "anticipata": false,
     "extraEu": false,
@@ -201,35 +467,40 @@
   "rankingSummary": {
     "courseSummarized": [
       {
-        "averageBirthYear": 2005.4375,
+        "averageBirthYear": 2005.29545,
         "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": 44.11,
+        "averageOfWhoPassed": 40.73182,
         "averagePartialScores": {
-          "Comprensione Verbale": 6.9075,
-          "Fisica": 3.2375,
-          "Matematica": 31.2675
+          "Comprensione Verbale": 10.68818,
+          "Fisica": 3.35273,
+          "Matematica": 26.69091
         },
-        "averageScoresOfAllStudents": 41.4125,
-        "howManyCanEnroll": 3,
+        "averageScoresOfAllStudents": 40.73182,
+        "howManyCanEnroll": 11,
         "howManyOfa": {},
-        "howManyStudents": 4,
+        "howManyStudents": 11,
         "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 42.12,
+        "minScoreToEnroll": 29.89,
         "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
       }
     ],
-    "howManyCanEnroll": 3,
-    "howManyStudents": 4,
+    "howManyCanEnroll": 11,
+    "howManyStudents": 11,
     "resultsSummarized": {
+      "30": 1,
+      "31": 1,
       "33": 1,
-      "42": 2,
-      "48": 1
+      "40": 3,
+      "43": 1,
+      "47": 2,
+      "48": 1,
+      "49": 1
     }
   },
   "school": "Ingegneria",
   "url": {
     "pageEnum": 1,
-    "url": "https://www.risultati-ammissione.polimi.it/2024_20057_6475_html/2024_20057_generale.html"
+    "url": "https://www.risultati-ammissione.polimi.it/2024_20020_27ba_html/2024_20020_generale.html"
   },
   "year": 2024
 }
