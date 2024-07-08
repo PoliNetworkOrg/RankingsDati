@@ -1,4 +1,2107 @@
 {
+  "lastUpdate": "2024-07-08T17:06:36.512585Z",
+  "school": "Ingegneria",
+  "year": 2020,
+  "url": {
+    "pageEnum": 1,
+    "url": "http://www.risultati-ammissione.polimi.it/2020_20103_html/2020_20103_generale.html"
+  },
+  "extra": "Studenti Comunitari ed Equiparati",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": false,
+    "isExtraEu": false,
+    "phase": "Terza Graduatoria Di Seconda Fase",
+    "primary": 2,
+    "secondary": 3
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2001.03448,
+        "averageEnglishCorrectAnswers": 25.58621,
+        "averageOfWhoPassed": 83.04,
+        "averagePartialScores": {
+          "Comprensione Verbale": 10.72034,
+          "Fisica": 4.90517,
+          "Inglese": 8.19862,
+          "Matematica": 40.90552
+        },
+        "averageScoresOfAllStudents": 64.72862,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 7,
+          "TEST": 0
+        },
+        "howManyStudents": 29,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 82.58,
+        "title": "INGEGNERIA BIOMEDICA"
+      },
+      {
+        "averageBirthYear": 2000.37037,
+        "averageEnglishCorrectAnswers": 25.16667,
+        "averageOfWhoPassed": 65.79714,
+        "averagePartialScores": {
+          "Comprensione Verbale": 10.35444,
+          "Fisica": 4.33333,
+          "Inglese": 8.04222,
+          "Matematica": 39.95722
+        },
+        "averageScoresOfAllStudents": 62.68667,
+        "howManyCanEnroll": 7,
+        "howManyOfa": {
+          "ENG": 5,
+          "TEST": 0
+        },
+        "howManyStudents": 18,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 64.35,
+        "title": "INGEGNERIA CHIMICA"
+      },
+      {
+        "averageBirthYear": 2001.0,
+        "averageEnglishCorrectAnswers": 25.0,
+        "averageOfWhoPassed": 62.4175,
+        "averagePartialScores": {
+          "Comprensione Verbale": 9.00,
+          "Fisica": 4.00,
+          "Inglese": 7.98,
+          "Matematica": 41.4375
+        },
+        "averageScoresOfAllStudents": 62.4175,
+        "howManyCanEnroll": 4,
+        "howManyOfa": {
+          "ENG": 0,
+          "TEST": 0
+        },
+        "howManyStudents": 4,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 60.90,
+        "title": "INGEGNERIA CIVILE"
+      },
+      {
+        "averageBirthYear": 2001.09848,
+        "averageEnglishCorrectAnswers": 24.18182,
+        "averageOfWhoPassed": 61.64333,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.28455,
+          "Fisica": 5.25,
+          "Inglese": 7.61455,
+          "Matematica": 36.72545
+        },
+        "averageScoresOfAllStudents": 60.87364,
+        "howManyCanEnroll": 6,
+        "howManyOfa": {
+          "ENG": 4,
+          "TEST": 0
+        },
+        "howManyStudents": 11,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 60.77,
+        "title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE"
+      },
+      {
+        "averageBirthYear": 2000.83333,
+        "averageEnglishCorrectAnswers": 24.5,
+        "averageOfWhoPassed": 63.93,
+        "averagePartialScores": {
+          "Comprensione Verbale": 9.09375,
+          "Fisica": 4.25,
+          "Inglese": 7.76,
+          "Matematica": 39.8125
+        },
+        "averageScoresOfAllStudents": 60.91625,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {
+          "ENG": 2,
+          "TEST": 0
+        },
+        "howManyStudents": 8,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 63.93,
+        "title": "INGEGNERIA DELL'AUTOMAZIONE"
+      },
+      {
+        "averageBirthYear": 2001.375,
+        "averageEnglishCorrectAnswers": 27.5,
+        "averageOfWhoPassed": 64.61,
+        "averagePartialScores": {
+          "Comprensione Verbale": 3.75,
+          "Fisica": 5.75,
+          "Inglese": 8.96,
+          "Matematica": 46.15
+        },
+        "averageScoresOfAllStudents": 64.61,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 0,
+          "TEST": 0
+        },
+        "howManyStudents": 2,
+        "location": "LECCO",
+        "minScoreToEnroll": 63.95,
+        "title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE"
+      },
+      {
+        "averageBirthYear": 2001.41667,
+        "averageEnglishCorrectAnswers": 30.0,
+        "averageOfWhoPassed": 60.45,
+        "averagePartialScores": {
+          "Comprensione Verbale": 7.50,
+          "Fisica": 2.00,
+          "Inglese": 10.00,
+          "Matematica": 40.95
+        },
+        "averageScoresOfAllStudents": 60.45,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {
+          "ENG": 0,
+          "TEST": 0
+        },
+        "howManyStudents": 1,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 60.45,
+        "title": "INGEGNERIA EDILE E DELLE COSTRUZIONI"
+      },
+      {
+        "averageBirthYear": 2001.51667,
+        "averageEnglishCorrectAnswers": 24.8,
+        "averageOfWhoPassed": 60.152,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.55,
+          "Fisica": 5.80,
+          "Inglese": 7.832,
+          "Matematica": 34.97
+        },
+        "averageScoresOfAllStudents": 60.152,
+        "howManyCanEnroll": 5,
+        "howManyOfa": {
+          "ENG": 1,
+          "TEST": 0
+        },
+        "howManyStudents": 5,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 59.50,
+        "title": "INGEGNERIA ELETTRICA"
+      },
+      {
+        "averageBirthYear": 2001.0625,
+        "averageEnglishCorrectAnswers": 25.25,
+        "averageOfWhoPassed": 61.65714,
+        "averagePartialScores": {
+          "Comprensione Verbale": 8.15625,
+          "Fisica": 4.46875,
+          "Inglese": 8.0625,
+          "Matematica": 40.7875
+        },
+        "averageScoresOfAllStudents": 61.475,
+        "howManyCanEnroll": 7,
+        "howManyOfa": {
+          "ENG": 2,
+          "TEST": 0
+        },
+        "howManyStudents": 8,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 60.20,
+        "title": "INGEGNERIA ELETTRONICA"
+      },
+      {
+        "averageBirthYear": 2001.21667,
+        "averageEnglishCorrectAnswers": 26.0,
+        "averageOfWhoPassed": 64.62,
+        "averagePartialScores": {
+          "Comprensione Verbale": 8.625,
+          "Fisica": 6.20,
+          "Inglese": 8.375,
+          "Matematica": 38.74
+        },
+        "averageScoresOfAllStudents": 61.94,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {
+          "ENG": 3,
+          "TEST": 0
+        },
+        "howManyStudents": 10,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": 64.62,
+        "title": "INGEGNERIA ENERGETICA"
+      },
+      {
+        "averageBirthYear": 2000.95833,
+        "averageEnglishCorrectAnswers": 25.5,
+        "averageOfWhoPassed": 61.00,
+        "averagePartialScores": {
+          "Comprensione Verbale": 10.50,
+          "Fisica": 5.00,
+          "Inglese": 8.125,
+          "Matematica": 37.375
+        },
+        "averageScoresOfAllStudents": 61.00,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 1,
+          "TEST": 0
+        },
+        "howManyStudents": 2,
+        "location": "CREMONA",
+        "minScoreToEnroll": 60.73,
+        "title": "INGEGNERIA GESTIONALE"
+      },
+      {
+        "averageBirthYear": 2001.11905,
+        "averageEnglishCorrectAnswers": 25.47619,
+        "averageOfWhoPassed": 63.776,
+        "averagePartialScores": {
+          "Comprensione Verbale": 10.08952,
+          "Fisica": 4.71429,
+          "Inglese": 8.18619,
+          "Matematica": 38.53571
+        },
+        "averageScoresOfAllStudents": 61.52524,
+        "howManyCanEnroll": 5,
+        "howManyOfa": {
+          "ENG": 7,
+          "TEST": 0
+        },
+        "howManyStudents": 21,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": 61.83,
+        "title": "INGEGNERIA GESTIONALE"
+      },
+      {
+        "averageBirthYear": 2003.0,
+        "averageEnglishCorrectAnswers": 21.0,
+        "averageOfWhoPassed": 67.25,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.25,
+          "Fisica": 1.00,
+          "Inglese": 6.25,
+          "Matematica": 48.75
+        },
+        "averageScoresOfAllStudents": 67.25,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {
+          "ENG": 1,
+          "TEST": 0
+        },
+        "howManyStudents": 1,
+        "location": "CREMONA",
+        "minScoreToEnroll": 67.25,
+        "title": "INGEGNERIA INFORMATICA"
+      },
+      {
+        "averageBirthYear": 2001.30392,
+        "averageEnglishCorrectAnswers": 25.35294,
+        "averageOfWhoPassed": 66.80,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.42706,
+          "Fisica": 4.22059,
+          "Inglese": 8.08706,
+          "Matematica": 38.33118
+        },
+        "averageScoresOfAllStudents": 62.06529,
+        "howManyCanEnroll": 4,
+        "howManyOfa": {
+          "ENG": 4,
+          "TEST": 0
+        },
+        "howManyStudents": 17,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 63.73,
+        "title": "INGEGNERIA INFORMATICA"
+      },
+      {
+        "averageBirthYear": 1988.16667,
+        "averageEnglishCorrectAnswers": 29.5,
+        "averageOfWhoPassed": 70.165,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.25,
+          "Fisica": 5.25,
+          "Inglese": 9.79,
+          "Matematica": 43.875
+        },
+        "averageScoresOfAllStudents": 70.165,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 0,
+          "TEST": 0
+        },
+        "howManyStudents": 2,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 67.33,
+        "title": "INGEGNERIA INFORMATICA ONLINE"
+      },
+      {
+        "averageBirthYear": 2001.13889,
+        "averageEnglishCorrectAnswers": 24.96296,
+        "averageOfWhoPassed": 69.126,
+        "averagePartialScores": {
+          "Comprensione Verbale": 9.11111,
+          "Fisica": 5.05556,
+          "Inglese": 7.99407,
+          "Matematica": 40.39630
+        },
+        "averageScoresOfAllStudents": 62.55704,
+        "howManyCanEnroll": 5,
+        "howManyOfa": {
+          "ENG": 7,
+          "TEST": 0
+        },
+        "howManyStudents": 27,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": 64.92,
+        "title": "INGEGNERIA MECCANICA"
+      },
+      {
+        "averageBirthYear": 2001.71429,
+        "averageEnglishCorrectAnswers": 26.14286,
+        "averageOfWhoPassed": 62.13857,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.57143,
+          "Fisica": 5.71429,
+          "Inglese": 8.45286,
+          "Matematica": 36.40
+        },
+        "averageScoresOfAllStudents": 62.13857,
+        "howManyCanEnroll": 7,
+        "howManyOfa": {
+          "ENG": 1,
+          "TEST": 0
+        },
+        "howManyStudents": 7,
+        "location": "PIACENZA",
+        "minScoreToEnroll": 60.02,
+        "title": "INGEGNERIA MECCANICA"
+      },
+      {
+        "averageBirthYear": 2001.375,
+        "averageEnglishCorrectAnswers": 20.0,
+        "averageOfWhoPassed": 60.615,
+        "averagePartialScores": {
+          "Comprensione Verbale": 11.25,
+          "Fisica": 5.75,
+          "Inglese": 5.915,
+          "Matematica": 37.70
+        },
+        "averageScoresOfAllStudents": 60.615,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 1,
+          "TEST": 0
+        },
+        "howManyStudents": 2,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 59.63,
+        "title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO"
+      }
+    ],
+    "howManyCanEnroll": 64,
+    "howManyStudents": 93,
+    "resultsSummarized": {
+      "60": 20,
+      "61": 22,
+      "62": 13,
+      "63": 3,
+      "64": 8,
+      "65": 10,
+      "66": 6,
+      "67": 4,
+      "71": 1,
+      "72": 1,
+      "73": 1,
+      "78": 1,
+      "83": 1,
+      "84": 2
+    }
+  },
+  "byMerit": {
+    "headers": [
+      "Voto Test",
+      "OFA Test",
+      "OFA Inglese",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "http://www.risultati-ammissione.polimi.it/2020_20103_html/2020_20103_generale.html",
+    "rows": [
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 1,
+        "positionCourse": null,
+        "result": 83.75,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA BIOMEDICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 2,
+        "positionCourse": null,
+        "result": 83.50,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA BIOMEDICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 3,
+        "positionCourse": null,
+        "result": 82.58,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 4,
+        "positionCourse": null,
+        "result": 78.02,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA ONLINE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 5,
+        "positionCourse": null,
+        "result": 73.00,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 6,
+        "positionCourse": null,
+        "result": 71.51,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 7,
+        "positionCourse": null,
+        "result": 71.07,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 8,
+        "positionCourse": null,
+        "result": 67.42,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA ONLINE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 9,
+        "positionCourse": null,
+        "result": 67.33,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (CREMONA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 10,
+        "positionCourse": null,
+        "result": 67.25,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 11,
+        "positionCourse": null,
+        "result": 67.15,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 12,
+        "positionCourse": null,
+        "result": 66.43,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 13,
+        "positionCourse": null,
+        "result": 66.28,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 14,
+        "positionCourse": null,
+        "result": 66.10,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 15,
+        "positionCourse": null,
+        "result": 66.07,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 16,
+        "positionCourse": null,
+        "result": 66.05,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 17,
+        "positionCourse": null,
+        "result": 65.73,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE (LECCO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 18,
+        "positionCourse": null,
+        "result": 65.27,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 19,
+        "positionCourse": null,
+        "result": 65.13,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 20,
+        "positionCourse": null,
+        "result": 65.05,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 21,
+        "positionCourse": null,
+        "result": 64.92,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 22,
+        "positionCourse": null,
+        "result": 64.83,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 23,
+        "positionCourse": null,
+        "result": 64.82,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 24,
+        "positionCourse": null,
+        "result": 64.81,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 25,
+        "positionCourse": null,
+        "result": 64.67,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ENERGETICA (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 26,
+        "positionCourse": null,
+        "result": 64.62,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 27,
+        "positionCourse": null,
+        "result": 64.56,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 28,
+        "positionCourse": null,
+        "result": 64.50,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 29,
+        "positionCourse": null,
+        "result": 64.45,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 30,
+        "positionCourse": null,
+        "result": 64.35,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 31,
+        "positionCourse": null,
+        "result": 64.15,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE (LECCO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 32,
+        "positionCourse": null,
+        "result": 63.95,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DELL'AUTOMAZIONE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 33,
+        "positionCourse": null,
+        "result": 63.93,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 34,
+        "positionCourse": null,
+        "result": 63.73,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 35,
+        "positionCourse": null,
+        "result": 63.50,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 36,
+        "positionCourse": null,
+        "result": 62.95,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 37,
+        "positionCourse": null,
+        "result": 62.55,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 38,
+        "positionCourse": null,
+        "result": 62.53,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 39,
+        "positionCourse": null,
+        "result": 62.47,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 40,
+        "positionCourse": null,
+        "result": 62.45,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 41,
+        "positionCourse": null,
+        "result": 62.45,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 42,
+        "positionCourse": null,
+        "result": 62.07,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 43,
+        "positionCourse": null,
+        "result": 62.03,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 44,
+        "positionCourse": null,
+        "result": 61.83,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 45,
+        "positionCourse": null,
+        "result": 61.80,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 46,
+        "positionCourse": null,
+        "result": 61.80,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 47,
+        "positionCourse": null,
+        "result": 61.77,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 48,
+        "positionCourse": null,
+        "result": 61.68,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 49,
+        "positionCourse": null,
+        "result": 61.60,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 50,
+        "positionCourse": null,
+        "result": 61.58,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 51,
+        "positionCourse": null,
+        "result": 61.54,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 52,
+        "positionCourse": null,
+        "result": 61.42,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 53,
+        "positionCourse": null,
+        "result": 61.40,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 54,
+        "positionCourse": null,
+        "result": 61.27,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (CREMONA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 55,
+        "positionCourse": null,
+        "result": 61.27,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 56,
+        "positionCourse": null,
+        "result": 61.25,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 57,
+        "positionCourse": null,
+        "result": 61.20,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 58,
+        "positionCourse": null,
+        "result": 61.15,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 59,
+        "positionCourse": null,
+        "result": 61.15,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 60,
+        "positionCourse": null,
+        "result": 61.12,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 61,
+        "positionCourse": null,
+        "result": 61.12,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 62,
+        "positionCourse": null,
+        "result": 61.10,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 63,
+        "positionCourse": null,
+        "result": 60.97,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 64,
+        "positionCourse": null,
+        "result": 60.90,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 65,
+        "positionCourse": null,
+        "result": 60.77,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 66,
+        "positionCourse": null,
+        "result": 60.75,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 67,
+        "positionCourse": null,
+        "result": 60.75,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA GESTIONALE (CREMONA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 68,
+        "positionCourse": null,
+        "result": 60.73,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 69,
+        "positionCourse": null,
+        "result": 60.63,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 70,
+        "positionCourse": null,
+        "result": 60.60,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 71,
+        "positionCourse": null,
+        "result": 60.60,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 72,
+        "positionCourse": null,
+        "result": 60.57,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 73,
+        "positionCourse": null,
+        "result": 60.53,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 74,
+        "positionCourse": null,
+        "result": 60.48,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 75,
+        "positionCourse": null,
+        "result": 60.48,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 76,
+        "positionCourse": null,
+        "result": 60.45,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 77,
+        "positionCourse": null,
+        "result": 60.45,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 78,
+        "positionCourse": null,
+        "result": 60.33,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 79,
+        "positionCourse": null,
+        "result": 60.25,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 80,
+        "positionCourse": null,
+        "result": 60.23,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 81,
+        "positionCourse": null,
+        "result": 60.22,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 82,
+        "positionCourse": null,
+        "result": 60.20,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 83,
+        "positionCourse": null,
+        "result": 60.20,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA MECCANICA (PIACENZA)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 84,
+        "positionCourse": null,
+        "result": 60.02,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 85,
+        "positionCourse": null,
+        "result": 60.02,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 86,
+        "positionCourse": null,
+        "result": 60.00,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 87,
+        "positionCourse": null,
+        "result": 59.82,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 88,
+        "positionCourse": null,
+        "result": 59.80,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 89,
+        "positionCourse": null,
+        "result": 59.73,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 90,
+        "positionCourse": null,
+        "result": 59.65,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 91,
+        "positionCourse": null,
+        "result": 59.63,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": true,
+          "TEST": false
+        },
+        "positionAbsolute": 92,
+        "positionCourse": null,
+        "result": 59.53,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": null,
+        "ofa": {
+          "ENG": false,
+          "TEST": false
+        },
+        "positionAbsolute": 93,
+        "positionCourse": null,
+        "result": 59.50,
+        "sectionsResults": null
+      }
+    ],
+    "year": 2020
+  },
   "byCourse": [
     {
       "location": "MILANO LEONARDO",
@@ -4511,2108 +6614,5 @@
       ],
       "year": 2020
     }
-  ],
-  "byMerit": {
-    "headers": [
-      "Voto Test",
-      "OFA Test",
-      "OFA Inglese",
-      "Posizione Assoluta",
-      "Corso di Studi per il quale è consentita l'immatricolazione"
-    ],
-    "path": "http://www.risultati-ammissione.polimi.it/2020_20103_html/2020_20103_generale.html",
-    "rows": [
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 1,
-        "positionCourse": null,
-        "result": 83.75,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA BIOMEDICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 2,
-        "positionCourse": null,
-        "result": 83.50,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA BIOMEDICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 3,
-        "positionCourse": null,
-        "result": 82.58,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 4,
-        "positionCourse": null,
-        "result": 78.02,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA ONLINE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 5,
-        "positionCourse": null,
-        "result": 73.00,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 6,
-        "positionCourse": null,
-        "result": 71.51,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 7,
-        "positionCourse": null,
-        "result": 71.07,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 8,
-        "positionCourse": null,
-        "result": 67.42,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA ONLINE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 9,
-        "positionCourse": null,
-        "result": 67.33,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (CREMONA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 10,
-        "positionCourse": null,
-        "result": 67.25,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 11,
-        "positionCourse": null,
-        "result": 67.15,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 12,
-        "positionCourse": null,
-        "result": 66.43,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 13,
-        "positionCourse": null,
-        "result": 66.28,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 14,
-        "positionCourse": null,
-        "result": 66.10,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 15,
-        "positionCourse": null,
-        "result": 66.07,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 16,
-        "positionCourse": null,
-        "result": 66.05,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 17,
-        "positionCourse": null,
-        "result": 65.73,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE (LECCO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 18,
-        "positionCourse": null,
-        "result": 65.27,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 19,
-        "positionCourse": null,
-        "result": 65.13,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 20,
-        "positionCourse": null,
-        "result": 65.05,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 21,
-        "positionCourse": null,
-        "result": 64.92,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 22,
-        "positionCourse": null,
-        "result": 64.83,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 23,
-        "positionCourse": null,
-        "result": 64.82,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 24,
-        "positionCourse": null,
-        "result": 64.81,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 25,
-        "positionCourse": null,
-        "result": 64.67,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ENERGETICA (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 26,
-        "positionCourse": null,
-        "result": 64.62,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 27,
-        "positionCourse": null,
-        "result": 64.56,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 28,
-        "positionCourse": null,
-        "result": 64.50,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 29,
-        "positionCourse": null,
-        "result": 64.45,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CHIMICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 30,
-        "positionCourse": null,
-        "result": 64.35,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 31,
-        "positionCourse": null,
-        "result": 64.15,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE (LECCO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 32,
-        "positionCourse": null,
-        "result": 63.95,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DELL'AUTOMAZIONE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 33,
-        "positionCourse": null,
-        "result": 63.93,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 34,
-        "positionCourse": null,
-        "result": 63.73,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 35,
-        "positionCourse": null,
-        "result": 63.50,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 36,
-        "positionCourse": null,
-        "result": 62.95,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 37,
-        "positionCourse": null,
-        "result": 62.55,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 38,
-        "positionCourse": null,
-        "result": 62.53,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 39,
-        "positionCourse": null,
-        "result": 62.47,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 40,
-        "positionCourse": null,
-        "result": 62.45,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 41,
-        "positionCourse": null,
-        "result": 62.45,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 42,
-        "positionCourse": null,
-        "result": 62.07,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 43,
-        "positionCourse": null,
-        "result": 62.03,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (MILANO BOVISA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 44,
-        "positionCourse": null,
-        "result": 61.83,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 45,
-        "positionCourse": null,
-        "result": 61.80,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 46,
-        "positionCourse": null,
-        "result": 61.80,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 47,
-        "positionCourse": null,
-        "result": 61.77,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 48,
-        "positionCourse": null,
-        "result": 61.68,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 49,
-        "positionCourse": null,
-        "result": 61.60,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 50,
-        "positionCourse": null,
-        "result": 61.58,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 51,
-        "positionCourse": null,
-        "result": 61.54,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 52,
-        "positionCourse": null,
-        "result": 61.42,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 53,
-        "positionCourse": null,
-        "result": 61.40,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 54,
-        "positionCourse": null,
-        "result": 61.27,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (CREMONA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 55,
-        "positionCourse": null,
-        "result": 61.27,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 56,
-        "positionCourse": null,
-        "result": 61.25,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 57,
-        "positionCourse": null,
-        "result": 61.20,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 58,
-        "positionCourse": null,
-        "result": 61.15,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 59,
-        "positionCourse": null,
-        "result": 61.15,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 60,
-        "positionCourse": null,
-        "result": 61.12,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 61,
-        "positionCourse": null,
-        "result": 61.12,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 62,
-        "positionCourse": null,
-        "result": 61.10,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 63,
-        "positionCourse": null,
-        "result": 60.97,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CIVILE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 64,
-        "positionCourse": null,
-        "result": 60.90,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 65,
-        "positionCourse": null,
-        "result": 60.77,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 66,
-        "positionCourse": null,
-        "result": 60.75,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 67,
-        "positionCourse": null,
-        "result": 60.75,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA GESTIONALE (CREMONA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 68,
-        "positionCourse": null,
-        "result": 60.73,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 69,
-        "positionCourse": null,
-        "result": 60.63,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 70,
-        "positionCourse": null,
-        "result": 60.60,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 71,
-        "positionCourse": null,
-        "result": 60.60,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 72,
-        "positionCourse": null,
-        "result": 60.57,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 73,
-        "positionCourse": null,
-        "result": 60.53,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 74,
-        "positionCourse": null,
-        "result": 60.48,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 75,
-        "positionCourse": null,
-        "result": 60.48,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA EDILE E DELLE COSTRUZIONI (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 76,
-        "positionCourse": null,
-        "result": 60.45,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 77,
-        "positionCourse": null,
-        "result": 60.45,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 78,
-        "positionCourse": null,
-        "result": 60.33,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 79,
-        "positionCourse": null,
-        "result": 60.25,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 80,
-        "positionCourse": null,
-        "result": 60.23,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 81,
-        "positionCourse": null,
-        "result": 60.22,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRONICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 82,
-        "positionCourse": null,
-        "result": 60.20,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 83,
-        "positionCourse": null,
-        "result": 60.20,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA MECCANICA (PIACENZA)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 84,
-        "positionCourse": null,
-        "result": 60.02,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 85,
-        "positionCourse": null,
-        "result": 60.02,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 86,
-        "positionCourse": null,
-        "result": 60.00,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 87,
-        "positionCourse": null,
-        "result": 59.82,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 88,
-        "positionCourse": null,
-        "result": 59.80,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 89,
-        "positionCourse": null,
-        "result": 59.73,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 90,
-        "positionCourse": null,
-        "result": 59.65,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 91,
-        "positionCourse": null,
-        "result": 59.63,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": false,
-          "course": null,
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": true,
-          "TEST": false
-        },
-        "positionAbsolute": 92,
-        "positionCourse": null,
-        "result": 59.53,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA ELETTRICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": null,
-        "ofa": {
-          "ENG": false,
-          "TEST": false
-        },
-        "positionAbsolute": 93,
-        "positionCourse": null,
-        "result": 59.50,
-        "sectionsResults": null
-      }
-    ],
-    "year": 2020
-  },
-  "extra": "Studenti Comunitari ed Equiparati",
-  "lastUpdate": "2024-07-08T14:06:36.6568957Z",
-  "rankingOrder": {
-    "isAnticipata": false,
-    "isEnglish": false,
-    "isExtraEu": false,
-    "phase": "Terza Graduatoria Di Seconda Fase",
-    "primary": 2,
-    "secondary": 3
-  },
-  "rankingSummary": {
-    "courseSummarized": [
-      {
-        "averageBirthYear": 2001.03448,
-        "averageEnglishCorrectAnswers": 25.58621,
-        "averageOfWhoPassed": 83.04,
-        "averagePartialScores": {
-          "Comprensione Verbale": 10.72034,
-          "Fisica": 4.90517,
-          "Inglese": 8.19862,
-          "Matematica": 40.90552
-        },
-        "averageScoresOfAllStudents": 64.72862,
-        "howManyCanEnroll": 2,
-        "howManyOfa": {
-          "ENG": 7,
-          "TEST": 0
-        },
-        "howManyStudents": 29,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 82.58,
-        "title": "INGEGNERIA BIOMEDICA"
-      },
-      {
-        "averageBirthYear": 2000.37037,
-        "averageEnglishCorrectAnswers": 25.16667,
-        "averageOfWhoPassed": 65.79714,
-        "averagePartialScores": {
-          "Comprensione Verbale": 10.35444,
-          "Fisica": 4.33333,
-          "Inglese": 8.04222,
-          "Matematica": 39.95722
-        },
-        "averageScoresOfAllStudents": 62.68667,
-        "howManyCanEnroll": 7,
-        "howManyOfa": {
-          "ENG": 5,
-          "TEST": 0
-        },
-        "howManyStudents": 18,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 64.35,
-        "title": "INGEGNERIA CHIMICA"
-      },
-      {
-        "averageBirthYear": 2001.0,
-        "averageEnglishCorrectAnswers": 25.0,
-        "averageOfWhoPassed": 62.4175,
-        "averagePartialScores": {
-          "Comprensione Verbale": 9.00,
-          "Fisica": 4.00,
-          "Inglese": 7.98,
-          "Matematica": 41.4375
-        },
-        "averageScoresOfAllStudents": 62.4175,
-        "howManyCanEnroll": 4,
-        "howManyOfa": {
-          "ENG": 0,
-          "TEST": 0
-        },
-        "howManyStudents": 4,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 60.90,
-        "title": "INGEGNERIA CIVILE"
-      },
-      {
-        "averageBirthYear": 2001.09848,
-        "averageEnglishCorrectAnswers": 24.18182,
-        "averageOfWhoPassed": 61.64333,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.28455,
-          "Fisica": 5.25,
-          "Inglese": 7.61455,
-          "Matematica": 36.72545
-        },
-        "averageScoresOfAllStudents": 60.87364,
-        "howManyCanEnroll": 6,
-        "howManyOfa": {
-          "ENG": 4,
-          "TEST": 0
-        },
-        "howManyStudents": 11,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 60.77,
-        "title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE"
-      },
-      {
-        "averageBirthYear": 2000.83333,
-        "averageEnglishCorrectAnswers": 24.5,
-        "averageOfWhoPassed": 63.93,
-        "averagePartialScores": {
-          "Comprensione Verbale": 9.09375,
-          "Fisica": 4.25,
-          "Inglese": 7.76,
-          "Matematica": 39.8125
-        },
-        "averageScoresOfAllStudents": 60.91625,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {
-          "ENG": 2,
-          "TEST": 0
-        },
-        "howManyStudents": 8,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 63.93,
-        "title": "INGEGNERIA DELL'AUTOMAZIONE"
-      },
-      {
-        "averageBirthYear": 2001.375,
-        "averageEnglishCorrectAnswers": 27.5,
-        "averageOfWhoPassed": 64.61,
-        "averagePartialScores": {
-          "Comprensione Verbale": 3.75,
-          "Fisica": 5.75,
-          "Inglese": 8.96,
-          "Matematica": 46.15
-        },
-        "averageScoresOfAllStudents": 64.61,
-        "howManyCanEnroll": 2,
-        "howManyOfa": {
-          "ENG": 0,
-          "TEST": 0
-        },
-        "howManyStudents": 2,
-        "location": "LECCO",
-        "minScoreToEnroll": 63.95,
-        "title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE"
-      },
-      {
-        "averageBirthYear": 2001.41667,
-        "averageEnglishCorrectAnswers": 30.0,
-        "averageOfWhoPassed": 60.45,
-        "averagePartialScores": {
-          "Comprensione Verbale": 7.50,
-          "Fisica": 2.00,
-          "Inglese": 10.00,
-          "Matematica": 40.95
-        },
-        "averageScoresOfAllStudents": 60.45,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {
-          "ENG": 0,
-          "TEST": 0
-        },
-        "howManyStudents": 1,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 60.45,
-        "title": "INGEGNERIA EDILE E DELLE COSTRUZIONI"
-      },
-      {
-        "averageBirthYear": 2001.51667,
-        "averageEnglishCorrectAnswers": 24.8,
-        "averageOfWhoPassed": 60.152,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.55,
-          "Fisica": 5.80,
-          "Inglese": 7.832,
-          "Matematica": 34.97
-        },
-        "averageScoresOfAllStudents": 60.152,
-        "howManyCanEnroll": 5,
-        "howManyOfa": {
-          "ENG": 1,
-          "TEST": 0
-        },
-        "howManyStudents": 5,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 59.50,
-        "title": "INGEGNERIA ELETTRICA"
-      },
-      {
-        "averageBirthYear": 2001.0625,
-        "averageEnglishCorrectAnswers": 25.25,
-        "averageOfWhoPassed": 61.65714,
-        "averagePartialScores": {
-          "Comprensione Verbale": 8.15625,
-          "Fisica": 4.46875,
-          "Inglese": 8.0625,
-          "Matematica": 40.7875
-        },
-        "averageScoresOfAllStudents": 61.475,
-        "howManyCanEnroll": 7,
-        "howManyOfa": {
-          "ENG": 2,
-          "TEST": 0
-        },
-        "howManyStudents": 8,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 60.20,
-        "title": "INGEGNERIA ELETTRONICA"
-      },
-      {
-        "averageBirthYear": 2001.21667,
-        "averageEnglishCorrectAnswers": 26.0,
-        "averageOfWhoPassed": 64.62,
-        "averagePartialScores": {
-          "Comprensione Verbale": 8.625,
-          "Fisica": 6.20,
-          "Inglese": 8.375,
-          "Matematica": 38.74
-        },
-        "averageScoresOfAllStudents": 61.94,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {
-          "ENG": 3,
-          "TEST": 0
-        },
-        "howManyStudents": 10,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": 64.62,
-        "title": "INGEGNERIA ENERGETICA"
-      },
-      {
-        "averageBirthYear": 2000.95833,
-        "averageEnglishCorrectAnswers": 25.5,
-        "averageOfWhoPassed": 61.00,
-        "averagePartialScores": {
-          "Comprensione Verbale": 10.50,
-          "Fisica": 5.00,
-          "Inglese": 8.125,
-          "Matematica": 37.375
-        },
-        "averageScoresOfAllStudents": 61.00,
-        "howManyCanEnroll": 2,
-        "howManyOfa": {
-          "ENG": 1,
-          "TEST": 0
-        },
-        "howManyStudents": 2,
-        "location": "CREMONA",
-        "minScoreToEnroll": 60.73,
-        "title": "INGEGNERIA GESTIONALE"
-      },
-      {
-        "averageBirthYear": 2001.11905,
-        "averageEnglishCorrectAnswers": 25.47619,
-        "averageOfWhoPassed": 63.776,
-        "averagePartialScores": {
-          "Comprensione Verbale": 10.08952,
-          "Fisica": 4.71429,
-          "Inglese": 8.18619,
-          "Matematica": 38.53571
-        },
-        "averageScoresOfAllStudents": 61.52524,
-        "howManyCanEnroll": 5,
-        "howManyOfa": {
-          "ENG": 7,
-          "TEST": 0
-        },
-        "howManyStudents": 21,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": 61.83,
-        "title": "INGEGNERIA GESTIONALE"
-      },
-      {
-        "averageBirthYear": 2003.0,
-        "averageEnglishCorrectAnswers": 21.0,
-        "averageOfWhoPassed": 67.25,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.25,
-          "Fisica": 1.00,
-          "Inglese": 6.25,
-          "Matematica": 48.75
-        },
-        "averageScoresOfAllStudents": 67.25,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {
-          "ENG": 1,
-          "TEST": 0
-        },
-        "howManyStudents": 1,
-        "location": "CREMONA",
-        "minScoreToEnroll": 67.25,
-        "title": "INGEGNERIA INFORMATICA"
-      },
-      {
-        "averageBirthYear": 2001.30392,
-        "averageEnglishCorrectAnswers": 25.35294,
-        "averageOfWhoPassed": 66.80,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.42706,
-          "Fisica": 4.22059,
-          "Inglese": 8.08706,
-          "Matematica": 38.33118
-        },
-        "averageScoresOfAllStudents": 62.06529,
-        "howManyCanEnroll": 4,
-        "howManyOfa": {
-          "ENG": 4,
-          "TEST": 0
-        },
-        "howManyStudents": 17,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 63.73,
-        "title": "INGEGNERIA INFORMATICA"
-      },
-      {
-        "averageBirthYear": 1988.16667,
-        "averageEnglishCorrectAnswers": 29.5,
-        "averageOfWhoPassed": 70.165,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.25,
-          "Fisica": 5.25,
-          "Inglese": 9.79,
-          "Matematica": 43.875
-        },
-        "averageScoresOfAllStudents": 70.165,
-        "howManyCanEnroll": 2,
-        "howManyOfa": {
-          "ENG": 0,
-          "TEST": 0
-        },
-        "howManyStudents": 2,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 67.33,
-        "title": "INGEGNERIA INFORMATICA ONLINE"
-      },
-      {
-        "averageBirthYear": 2001.13889,
-        "averageEnglishCorrectAnswers": 24.96296,
-        "averageOfWhoPassed": 69.126,
-        "averagePartialScores": {
-          "Comprensione Verbale": 9.11111,
-          "Fisica": 5.05556,
-          "Inglese": 7.99407,
-          "Matematica": 40.39630
-        },
-        "averageScoresOfAllStudents": 62.55704,
-        "howManyCanEnroll": 5,
-        "howManyOfa": {
-          "ENG": 7,
-          "TEST": 0
-        },
-        "howManyStudents": 27,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": 64.92,
-        "title": "INGEGNERIA MECCANICA"
-      },
-      {
-        "averageBirthYear": 2001.71429,
-        "averageEnglishCorrectAnswers": 26.14286,
-        "averageOfWhoPassed": 62.13857,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.57143,
-          "Fisica": 5.71429,
-          "Inglese": 8.45286,
-          "Matematica": 36.40
-        },
-        "averageScoresOfAllStudents": 62.13857,
-        "howManyCanEnroll": 7,
-        "howManyOfa": {
-          "ENG": 1,
-          "TEST": 0
-        },
-        "howManyStudents": 7,
-        "location": "PIACENZA",
-        "minScoreToEnroll": 60.02,
-        "title": "INGEGNERIA MECCANICA"
-      },
-      {
-        "averageBirthYear": 2001.375,
-        "averageEnglishCorrectAnswers": 20.0,
-        "averageOfWhoPassed": 60.615,
-        "averagePartialScores": {
-          "Comprensione Verbale": 11.25,
-          "Fisica": 5.75,
-          "Inglese": 5.915,
-          "Matematica": 37.70
-        },
-        "averageScoresOfAllStudents": 60.615,
-        "howManyCanEnroll": 2,
-        "howManyOfa": {
-          "ENG": 1,
-          "TEST": 0
-        },
-        "howManyStudents": 2,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 59.63,
-        "title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO"
-      }
-    ],
-    "howManyCanEnroll": 64,
-    "howManyStudents": 93,
-    "resultsSummarized": {
-      "60": 20,
-      "61": 22,
-      "62": 13,
-      "63": 3,
-      "64": 8,
-      "65": 10,
-      "66": 6,
-      "67": 4,
-      "71": 1,
-      "72": 1,
-      "73": 1,
-      "78": 1,
-      "83": 1,
-      "84": 2
-    }
-  },
-  "school": "Ingegneria",
-  "url": {
-    "pageEnum": 1,
-    "url": "http://www.risultati-ammissione.polimi.it/2020_20103_html/2020_20103_generale.html"
-  },
-  "year": 2020
+  ]
 }

@@ -1,4 +1,347 @@
 {
+  "lastUpdate": "2024-07-08T17:06:34.3402717Z",
+  "school": "Ingegneria",
+  "year": 2023,
+  "url": {
+    "pageEnum": 1,
+    "url": "http://www.risultati-ammissione.polimi.it/2023_20055_46ea_html/2023_20055_generale.html"
+  },
+  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": false,
+    "isExtraEu": true,
+    "phase": "Extra-ue Seconda Graduatoria Di Seconda Fase",
+    "primary": 2,
+    "secondary": 2
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA AEROSPAZIALE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA BIOMEDICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA CHIMICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA CIVILE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "LECCO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA DELL'AUTOMAZIONE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "LECCO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA EDILE E DELLE COSTRUZIONI"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA ELETTRICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA ELETTRONICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA ENERGETICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA FISICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "CREMONA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA GESTIONALE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA GESTIONALE"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "CREMONA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA INFORMATICA"
+      },
+      {
+        "averageBirthYear": 2004.5,
+        "averageEnglishCorrectAnswers": 27.0,
+        "averageOfWhoPassed": 39.70,
+        "averagePartialScores": {
+          "Comprensione Verbale": 0.75,
+          "Fisica": 5.50,
+          "Inglese": 8.75,
+          "Matematica": 24.70
+        },
+        "averageScoresOfAllStudents": 39.70,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {
+          "ENG": 0,
+          "TEST": 1
+        },
+        "howManyStudents": 1,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 39.70,
+        "title": "INGEGNERIA INFORMATICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA MATEMATICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO BOVISA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA MECCANICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "PIACENZA",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA MECCANICA"
+      },
+      {
+        "averageBirthYear": null,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": null,
+        "averageScoresOfAllStudents": null,
+        "howManyCanEnroll": null,
+        "howManyOfa": null,
+        "howManyStudents": null,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO"
+      }
+    ],
+    "howManyCanEnroll": 1,
+    "howManyStudents": 1,
+    "resultsSummarized": {
+      "40": 1
+    }
+  },
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "OFA Test",
+      "OFA Inglese",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "http://www.risultati-ammissione.polimi.it/2023_20055_46ea_html/2023_20055_generale.html",
+    "rows": [
+      {
+        "birthDate": "2004-06-13",
+        "englishCorrectAnswers": 27,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
+          "type": null
+        },
+        "id": "77e026cc9f3cd254d6ae",
+        "ofa": {
+          "ENG": false,
+          "TEST": true
+        },
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 39.70,
+        "sectionsResults": {
+          "Comprensione Verbale": 0.75,
+          "Fisica": 5.50,
+          "Inglese": 8.75,
+          "Matematica": 24.70
+        }
+      }
+    ],
+    "year": 2023
+  },
   "byCourse": [
     {
       "location": "MILANO BOVISA",
@@ -591,348 +934,5 @@
       "rows": [],
       "year": 2023
     }
-  ],
-  "byMerit": {
-    "headers": [
-      "Matricola",
-      "Voto Test",
-      "OFA Test",
-      "OFA Inglese",
-      "Posizione Assoluta",
-      "Corso di Studi per il quale è consentita l'immatricolazione"
-    ],
-    "path": "http://www.risultati-ammissione.polimi.it/2023_20055_46ea_html/2023_20055_generale.html",
-    "rows": [
-      {
-        "birthDate": "2004-06-13",
-        "englishCorrectAnswers": 27,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA INFORMATICA (MILANO LEONARDO)",
-          "type": null
-        },
-        "id": "77e026cc9f3cd254d6ae",
-        "ofa": {
-          "ENG": false,
-          "TEST": true
-        },
-        "positionAbsolute": 1,
-        "positionCourse": 1,
-        "result": 39.70,
-        "sectionsResults": {
-          "Comprensione Verbale": 0.75,
-          "Fisica": 5.50,
-          "Inglese": 8.75,
-          "Matematica": 24.70
-        }
-      }
-    ],
-    "year": 2023
-  },
-  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
-  "lastUpdate": "2024-07-08T14:06:34.4739026Z",
-  "rankingOrder": {
-    "isAnticipata": false,
-    "isEnglish": false,
-    "isExtraEu": true,
-    "phase": "Extra-ue Seconda Graduatoria Di Seconda Fase",
-    "primary": 2,
-    "secondary": 2
-  },
-  "rankingSummary": {
-    "courseSummarized": [
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA AEROSPAZIALE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA BIOMEDICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA CHIMICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA CIVILE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "LECCO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA DELL'AUTOMAZIONE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "LECCO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA EDILE E DELLE COSTRUZIONI"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA ELETTRICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA ELETTRONICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA ENERGETICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA FISICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "CREMONA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA GESTIONALE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA GESTIONALE"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "CREMONA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA INFORMATICA"
-      },
-      {
-        "averageBirthYear": 2004.5,
-        "averageEnglishCorrectAnswers": 27.0,
-        "averageOfWhoPassed": 39.70,
-        "averagePartialScores": {
-          "Comprensione Verbale": 0.75,
-          "Fisica": 5.50,
-          "Inglese": 8.75,
-          "Matematica": 24.70
-        },
-        "averageScoresOfAllStudents": 39.70,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {
-          "ENG": 0,
-          "TEST": 1
-        },
-        "howManyStudents": 1,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 39.70,
-        "title": "INGEGNERIA INFORMATICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA MATEMATICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO BOVISA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA MECCANICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "PIACENZA",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA MECCANICA"
-      },
-      {
-        "averageBirthYear": null,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": null,
-        "averagePartialScores": null,
-        "averageScoresOfAllStudents": null,
-        "howManyCanEnroll": null,
-        "howManyOfa": null,
-        "howManyStudents": null,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": null,
-        "title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO"
-      }
-    ],
-    "howManyCanEnroll": 1,
-    "howManyStudents": 1,
-    "resultsSummarized": {
-      "40": 1
-    }
-  },
-  "school": "Ingegneria",
-  "url": {
-    "pageEnum": 1,
-    "url": "http://www.risultati-ammissione.polimi.it/2023_20055_46ea_html/2023_20055_generale.html"
-  },
-  "year": 2023
+  ]
 }

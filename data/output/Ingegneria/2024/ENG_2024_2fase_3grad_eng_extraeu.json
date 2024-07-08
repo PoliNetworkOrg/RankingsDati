@@ -1,4 +1,77 @@
 {
+  "lastUpdate": "2024-07-08T17:06:53.1779237Z",
+  "school": "Ingegneria",
+  "year": 2024,
+  "url": {
+    "pageEnum": 1,
+    "url": "https://www.risultati-ammissione.polimi.it/2024_20058_3aa3_html/2024_20058_generale.html"
+  },
+  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": true,
+    "isExtraEu": true,
+    "phase": "Terza Graduatoria Di Seconda Fase",
+    "primary": 2,
+    "secondary": 3
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2005.08333,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": 33.32,
+        "averagePartialScores": {
+          "Comprensione Verbale": 2.31,
+          "Fisica": 3.17,
+          "Matematica": 27.84
+        },
+        "averageScoresOfAllStudents": 33.32,
+        "howManyCanEnroll": 1,
+        "howManyOfa": {},
+        "howManyStudents": 1,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": 33.32,
+        "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
+      }
+    ],
+    "howManyCanEnroll": 1,
+    "howManyStudents": 1,
+    "resultsSummarized": {
+      "33": 1
+    }
+  },
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "https://www.risultati-ammissione.polimi.it/2024_20058_3aa3_html/2024_20058_generale.html",
+    "rows": [
+      {
+        "birthDate": "2005-01-01",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
+          "type": "Assegnato"
+        },
+        "id": "0bff84f2329ba3ab9011",
+        "ofa": {},
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 33.32,
+        "sectionsResults": {
+          "Comprensione Verbale": 2.31,
+          "Fisica": 3.17,
+          "Matematica": 27.84
+        }
+      }
+    ],
+    "year": 2024
+  },
   "byCourse": [
     {
       "location": "MILANO LEONARDO",
@@ -42,78 +115,5 @@
       ],
       "year": 2024
     }
-  ],
-  "byMerit": {
-    "headers": [
-      "Matricola",
-      "Voto Test",
-      "Posizione Assoluta",
-      "Corso di Studi per il quale è consentita l'immatricolazione"
-    ],
-    "path": "https://www.risultati-ammissione.polimi.it/2024_20058_3aa3_html/2024_20058_generale.html",
-    "rows": [
-      {
-        "birthDate": "2005-01-01",
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "INGEGNERIA CIVILE - CIVIL ENGINEERING (MILANO LEONARDO)",
-          "type": "Assegnato"
-        },
-        "id": "0bff84f2329ba3ab9011",
-        "ofa": {},
-        "positionAbsolute": 1,
-        "positionCourse": 1,
-        "result": 33.32,
-        "sectionsResults": {
-          "Comprensione Verbale": 2.31,
-          "Fisica": 3.17,
-          "Matematica": 27.84
-        }
-      }
-    ],
-    "year": 2024
-  },
-  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
-  "lastUpdate": "2024-07-08T14:06:53.2347742Z",
-  "rankingOrder": {
-    "isAnticipata": false,
-    "isEnglish": true,
-    "isExtraEu": true,
-    "phase": "Terza Graduatoria Di Seconda Fase",
-    "primary": 2,
-    "secondary": 3
-  },
-  "rankingSummary": {
-    "courseSummarized": [
-      {
-        "averageBirthYear": 2005.08333,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": 33.32,
-        "averagePartialScores": {
-          "Comprensione Verbale": 2.31,
-          "Fisica": 3.17,
-          "Matematica": 27.84
-        },
-        "averageScoresOfAllStudents": 33.32,
-        "howManyCanEnroll": 1,
-        "howManyOfa": {},
-        "howManyStudents": 1,
-        "location": "MILANO LEONARDO",
-        "minScoreToEnroll": 33.32,
-        "title": "INGEGNERIA CIVILE - CIVIL ENGINEERING"
-      }
-    ],
-    "howManyCanEnroll": 1,
-    "howManyStudents": 1,
-    "resultsSummarized": {
-      "33": 1
-    }
-  },
-  "school": "Ingegneria",
-  "url": {
-    "pageEnum": 1,
-    "url": "https://www.risultati-ammissione.polimi.it/2024_20058_3aa3_html/2024_20058_generale.html"
-  },
-  "year": 2024
+  ]
 }

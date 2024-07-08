@@ -1,4 +1,104 @@
 {
+  "lastUpdate": "2024-07-08T17:06:31.5343019Z",
+  "school": "Urbanistica",
+  "year": 2020,
+  "url": {
+    "pageEnum": 1,
+    "url": "http://www.risultati-ammissione.polimi.it/2020_20007_html/2020_20007_generale.html"
+  },
+  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": false,
+    "isExtraEu": true,
+    "phase": "Extra-ue",
+    "primary": null,
+    "secondary": null
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2001.5,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": 75.66667,
+        "averagePartialScores": {
+          "Colloquio": 40.33333,
+          "Elaborato": 18.66667,
+          "Lettera Motivazionale": 16.66667
+        },
+        "averageScoresOfAllStudents": 75.66667,
+        "howManyCanEnroll": 3,
+        "howManyOfa": {},
+        "howManyStudents": 3,
+        "location": null,
+        "minScoreToEnroll": 64.00,
+        "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
+      }
+    ],
+    "howManyCanEnroll": 3,
+    "howManyStudents": 3,
+    "resultsSummarized": {
+      "64": 1,
+      "79": 1,
+      "84": 1
+    }
+  },
+  "byMerit": {
+    "headers": [
+      "Voto Test",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "http://www.risultati-ammissione.polimi.it/2020_20007_html/2020_20007_generale.html",
+    "rows": [
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": null
+        },
+        "id": null,
+        "ofa": {},
+        "positionAbsolute": 1,
+        "positionCourse": null,
+        "result": 84.00,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": null
+        },
+        "id": null,
+        "ofa": {},
+        "positionAbsolute": 2,
+        "positionCourse": null,
+        "result": 79.00,
+        "sectionsResults": null
+      },
+      {
+        "birthDate": null,
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": null
+        },
+        "id": null,
+        "ofa": {},
+        "positionAbsolute": 3,
+        "positionCourse": null,
+        "result": 64.00,
+        "sectionsResults": null
+      }
+    ],
+    "year": 2020
+  },
   "byCourse": [
     {
       "location": null,
@@ -79,105 +179,5 @@
       ],
       "year": 2020
     }
-  ],
-  "byMerit": {
-    "headers": [
-      "Voto Test",
-      "Posizione Assoluta",
-      "Corso di Studi per il quale è consentita l'immatricolazione"
-    ],
-    "path": "http://www.risultati-ammissione.polimi.it/2020_20007_html/2020_20007_generale.html",
-    "rows": [
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
-          "type": null
-        },
-        "id": null,
-        "ofa": {},
-        "positionAbsolute": 1,
-        "positionCourse": null,
-        "result": 84.00,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
-          "type": null
-        },
-        "id": null,
-        "ofa": {},
-        "positionAbsolute": 2,
-        "positionCourse": null,
-        "result": 79.00,
-        "sectionsResults": null
-      },
-      {
-        "birthDate": null,
-        "englishCorrectAnswers": null,
-        "enrollType": {
-          "canEnroll": true,
-          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
-          "type": null
-        },
-        "id": null,
-        "ofa": {},
-        "positionAbsolute": 3,
-        "positionCourse": null,
-        "result": 64.00,
-        "sectionsResults": null
-      }
-    ],
-    "year": 2020
-  },
-  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
-  "lastUpdate": "2024-07-08T14:06:31.6750319Z",
-  "rankingOrder": {
-    "isAnticipata": false,
-    "isEnglish": false,
-    "isExtraEu": true,
-    "phase": "Extra-ue",
-    "primary": null,
-    "secondary": null
-  },
-  "rankingSummary": {
-    "courseSummarized": [
-      {
-        "averageBirthYear": 2001.5,
-        "averageEnglishCorrectAnswers": null,
-        "averageOfWhoPassed": 75.66667,
-        "averagePartialScores": {
-          "Colloquio": 40.33333,
-          "Elaborato": 18.66667,
-          "Lettera Motivazionale": 16.66667
-        },
-        "averageScoresOfAllStudents": 75.66667,
-        "howManyCanEnroll": 3,
-        "howManyOfa": {},
-        "howManyStudents": 3,
-        "location": null,
-        "minScoreToEnroll": 64.00,
-        "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
-      }
-    ],
-    "howManyCanEnroll": 3,
-    "howManyStudents": 3,
-    "resultsSummarized": {
-      "64": 1,
-      "79": 1,
-      "84": 1
-    }
-  },
-  "school": "Urbanistica",
-  "url": {
-    "pageEnum": 1,
-    "url": "http://www.risultati-ammissione.polimi.it/2020_20007_html/2020_20007_generale.html"
-  },
-  "year": 2020
+  ]
 }
