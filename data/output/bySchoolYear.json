@@ -1,83 +1,1445 @@
 {
+  "all": [
+    {
+      "basePath": "Ingegneria/2020/",
+      "id": "ENG_2020_2fase_1grad_ita",
+      "link": "ENG_2020_2fase_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2020
+    },
+    {
+      "basePath": "Ingegneria/2020/",
+      "id": "ENG_2020_2fase_2grad_ita",
+      "link": "ENG_2020_2fase_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2020
+    },
+    {
+      "basePath": "Ingegneria/2020/",
+      "id": "ENG_2020_2fase_3grad_ita",
+      "link": "ENG_2020_2fase_3grad_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2020
+    },
+    {
+      "basePath": "Ingegneria/2020/",
+      "id": "ENG_2020_3fase_ita",
+      "link": "ENG_2020_3fase_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Fase",
+        "primary": 3,
+        "secondary": null
+      },
+      "school": "Ingegneria",
+      "year": 2020
+    },
+    {
+      "basePath": "Ingegneria/2020/",
+      "id": "ENG_2020_extraeu_ita",
+      "link": "ENG_2020_extraeu_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Ingegneria",
+      "year": 2020
+    },
+    {
+      "basePath": "Urbanistica/2020/",
+      "id": "URB_2020_anticipata_ita",
+      "link": "URB_2020_anticipata_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": true,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipata",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2020
+    },
+    {
+      "basePath": "Urbanistica/2020/",
+      "id": "URB_2020_extraeu_ita",
+      "link": "URB_2020_extraeu_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2020
+    },
+    {
+      "basePath": "Urbanistica/2020/",
+      "id": "URB_2020_standard_ita",
+      "link": "URB_2020_standard_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2020
+    },
+    {
+      "basePath": "Architettura/2020/",
+      "id": "ARC_2020_1grad_ita_extraeu",
+      "link": "ARC_2020_1grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2020
+    },
+    {
+      "basePath": "Architettura/2020/",
+      "id": "ARC_2020_1grad_ita",
+      "link": "ARC_2020_1grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2020
+    },
+    {
+      "basePath": "Architettura/2020/",
+      "id": "ARC_2020_2grad_ita_extraeu",
+      "link": "ARC_2020_2grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2020
+    },
+    {
+      "basePath": "Architettura/2020/",
+      "id": "ARC_2020_2grad_ita",
+      "link": "ARC_2020_2grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2020
+    },
+    {
+      "basePath": "Architettura/2020/",
+      "id": "ARC_2020_3grad_ita",
+      "link": "ARC_2020_3grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2020
+    },
+    {
+      "basePath": "Design/2020/",
+      "id": "DES_2020_anticipato_ita",
+      "link": "DES_2020_anticipato_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipato",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2020
+    },
+    {
+      "basePath": "Design/2020/",
+      "id": "DES_2020_extraeu_ita",
+      "link": "DES_2020_extraeu_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2020
+    },
+    {
+      "basePath": "Design/2020/",
+      "id": "DES_2020_ripescaggio_ita",
+      "link": "DES_2020_ripescaggio_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Ripescaggio",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2020
+    },
+    {
+      "basePath": "Design/2020/",
+      "id": "DES_2020_standard_ita",
+      "link": "DES_2020_standard_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2020
+    },
+    {
+      "basePath": "Ingegneria/2021/",
+      "id": "ENG_2021_2fase_1grad_ita_extraeu",
+      "link": "ENG_2021_2fase_1grad_ita_extraeu.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2021
+    },
+    {
+      "basePath": "Ingegneria/2021/",
+      "id": "ENG_2021_2fase_1grad_ita",
+      "link": "ENG_2021_2fase_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2021
+    },
+    {
+      "basePath": "Ingegneria/2021/",
+      "id": "ENG_2021_2fase_2grad_ita",
+      "link": "ENG_2021_2fase_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2021
+    },
+    {
+      "basePath": "Ingegneria/2021/",
+      "id": "ENG_2021_2fase_3grad_ita",
+      "link": "ENG_2021_2fase_3grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2021
+    },
+    {
+      "basePath": "Ingegneria/2021/",
+      "id": "ENG_2021_3fase_ita",
+      "link": "ENG_2021_3fase_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Fase",
+        "primary": 3,
+        "secondary": null
+      },
+      "school": "Ingegneria",
+      "year": 2021
+    },
+    {
+      "basePath": "Urbanistica/2021/",
+      "id": "URB_2021_anticipata_ita",
+      "link": "URB_2021_anticipata_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": true,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipata",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2021
+    },
+    {
+      "basePath": "Urbanistica/2021/",
+      "id": "URB_2021_extraeu_ita",
+      "link": "URB_2021_extraeu_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2021
+    },
+    {
+      "basePath": "Urbanistica/2021/",
+      "id": "URB_2021_standard_ita",
+      "link": "URB_2021_standard_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2021
+    },
+    {
+      "basePath": "Architettura/2021/",
+      "id": "ARC_2021_1grad_ita_extraeu",
+      "link": "ARC_2021_1grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2021
+    },
+    {
+      "basePath": "Architettura/2021/",
+      "id": "ARC_2021_1grad_ita",
+      "link": "ARC_2021_1grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2021
+    },
+    {
+      "basePath": "Architettura/2021/",
+      "id": "ARC_2021_2grad_ita_extraeu",
+      "link": "ARC_2021_2grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2021
+    },
+    {
+      "basePath": "Architettura/2021/",
+      "id": "ARC_2021_2grad_ita",
+      "link": "ARC_2021_2grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2021
+    },
+    {
+      "basePath": "Architettura/2021/",
+      "id": "ARC_2021_3grad_ita",
+      "link": "ARC_2021_3grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2021
+    },
+    {
+      "basePath": "Design/2021/",
+      "id": "DES_2021_anticipato_ita",
+      "link": "DES_2021_anticipato_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipato",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2021
+    },
+    {
+      "basePath": "Design/2021/",
+      "id": "DES_2021_extraeu_ita",
+      "link": "DES_2021_extraeu_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2021
+    },
+    {
+      "basePath": "Design/2021/",
+      "id": "DES_2021_ripescaggio_ita",
+      "link": "DES_2021_ripescaggio_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Ripescaggio",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2021
+    },
+    {
+      "basePath": "Design/2021/",
+      "id": "DES_2021_standard_ita",
+      "link": "DES_2021_standard_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2021
+    },
+    {
+      "basePath": "Ingegneria/2022/",
+      "id": "ENG_2022_2fase_1grad_ita_extraeu",
+      "link": "ENG_2022_2fase_1grad_ita_extraeu.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2022
+    },
+    {
+      "basePath": "Ingegneria/2022/",
+      "id": "ENG_2022_2fase_1grad_ita",
+      "link": "ENG_2022_2fase_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2022
+    },
+    {
+      "basePath": "Ingegneria/2022/",
+      "id": "ENG_2022_2fase_2grad_ita",
+      "link": "ENG_2022_2fase_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2022
+    },
+    {
+      "basePath": "Ingegneria/2022/",
+      "id": "ENG_2022_2fase_3grad_ita",
+      "link": "ENG_2022_2fase_3grad_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2022
+    },
+    {
+      "basePath": "Ingegneria/2022/",
+      "id": "ENG_2022_3fase_ita",
+      "link": "ENG_2022_3fase_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Fase",
+        "primary": 3,
+        "secondary": null
+      },
+      "school": "Ingegneria",
+      "year": 2022
+    },
+    {
+      "basePath": "Urbanistica/2022/",
+      "id": "URB_2022_anticipata_ita",
+      "link": "URB_2022_anticipata_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": true,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipata",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2022
+    },
+    {
+      "basePath": "Urbanistica/2022/",
+      "id": "URB_2022_extraeu_ita",
+      "link": "URB_2022_extraeu_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2022
+    },
+    {
+      "basePath": "Urbanistica/2022/",
+      "id": "URB_2022_standard_ita",
+      "link": "URB_2022_standard_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2022
+    },
+    {
+      "basePath": "Architettura/2022/",
+      "id": "ARC_2022_1grad_ita_extraeu",
+      "link": "ARC_2022_1grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2022
+    },
+    {
+      "basePath": "Architettura/2022/",
+      "id": "ARC_2022_1grad_ita",
+      "link": "ARC_2022_1grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2022
+    },
+    {
+      "basePath": "Architettura/2022/",
+      "id": "ARC_2022_2grad_ita_extraeu",
+      "link": "ARC_2022_2grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2022
+    },
+    {
+      "basePath": "Architettura/2022/",
+      "id": "ARC_2022_2grad_ita",
+      "link": "ARC_2022_2grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2022
+    },
+    {
+      "basePath": "Architettura/2022/",
+      "id": "ARC_2022_3grad_ita",
+      "link": "ARC_2022_3grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2022
+    },
+    {
+      "basePath": "Design/2022/",
+      "id": "DES_2022_anticipato_ita",
+      "link": "DES_2022_anticipato_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipato",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2022
+    },
+    {
+      "basePath": "Design/2022/",
+      "id": "DES_2022_extraeu_ita",
+      "link": "DES_2022_extraeu_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2022
+    },
+    {
+      "basePath": "Design/2022/",
+      "id": "DES_2022_ripescaggio_ita",
+      "link": "DES_2022_ripescaggio_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Ripescaggio",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2022
+    },
+    {
+      "basePath": "Design/2022/",
+      "id": "DES_2022_standard_ita",
+      "link": "DES_2022_standard_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2022
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_2fase_1grad_ita_extraeu",
+      "link": "ENG_2023_2fase_1grad_ita_extraeu.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_2fase_1grad_ita",
+      "link": "ENG_2023_2fase_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_2fase_2grad_ita_extraeu",
+      "link": "ENG_2023_2fase_2grad_ita_extraeu.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_2fase_2grad_ita",
+      "link": "ENG_2023_2fase_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_2fase_3grad_ita",
+      "link": "ENG_2023_2fase_3grad_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2023/",
+      "id": "ENG_2023_3fase_ita",
+      "link": "ENG_2023_3fase_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Fase",
+        "primary": 3,
+        "secondary": null
+      },
+      "school": "Ingegneria",
+      "year": 2023
+    },
+    {
+      "basePath": "Urbanistica/2023/",
+      "id": "URB_2023_anticipata_ita",
+      "link": "URB_2023_anticipata_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": true,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipata",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2023
+    },
+    {
+      "basePath": "Urbanistica/2023/",
+      "id": "URB_2023_extraeu_ita",
+      "link": "URB_2023_extraeu_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2023
+    },
+    {
+      "basePath": "Urbanistica/2023/",
+      "id": "URB_2023_ripescaggio_ita",
+      "link": "URB_2023_ripescaggio_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Ripescaggio",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2023
+    },
+    {
+      "basePath": "Urbanistica/2023/",
+      "id": "URB_2023_standard_ita",
+      "link": "URB_2023_standard_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Urbanistica",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_1grad_ita_extraeu",
+      "link": "ARC_2023_1grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_1grad_ita",
+      "link": "ARC_2023_1grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_2grad_ita_extraeu",
+      "link": "ARC_2023_2grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_2grad_ita",
+      "link": "ARC_2023_2grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_3grad_ita_extraeu",
+      "link": "ARC_2023_3grad_ita_extraeu.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Extra-ue Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Architettura/2023/",
+      "id": "ARC_2023_3grad_ita",
+      "link": "ARC_2023_3grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2023
+    },
+    {
+      "basePath": "Design/2023/",
+      "id": "DES_2023_anticipato_ita",
+      "link": "DES_2023_anticipato_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Anticipato",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2023
+    },
+    {
+      "basePath": "Design/2023/",
+      "id": "DES_2023_ripescaggio_ita",
+      "link": "DES_2023_ripescaggio_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Ripescaggio",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2023
+    },
+    {
+      "basePath": "Design/2023/",
+      "id": "DES_2023_standard_ita",
+      "link": "DES_2023_standard_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Standard",
+        "primary": null,
+        "secondary": null
+      },
+      "school": "Design",
+      "year": 2023
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_1grad_eng_extraeu",
+      "link": "ENG_2024_2fase_1grad_eng_extraeu.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": true,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_1grad_eng",
+      "link": "ENG_2024_2fase_1grad_eng.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_1grad_ita",
+      "link": "ENG_2024_2fase_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_2grad_eng_extraeu",
+      "link": "ENG_2024_2fase_2grad_eng_extraeu.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": true,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_2grad_eng",
+      "link": "ENG_2024_2fase_2grad_eng.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_2grad_ita",
+      "link": "ENG_2024_2fase_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_3grad_eng_extraeu",
+      "link": "ENG_2024_2fase_3grad_eng_extraeu.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": true,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_3grad_ita",
+      "link": "ENG_2024_2fase_3grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 3
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_1grad_eng",
+      "link": "DES_2024_1grad_eng.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_1grad_ita",
+      "link": "DES_2024_1grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria",
+        "primary": null,
+        "secondary": 1
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_2grad_eng",
+      "link": "DES_2024_2grad_eng.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_2grad_ita",
+      "link": "DES_2024_2grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Seconda Graduatoria",
+        "primary": null,
+        "secondary": 2
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_3grad_ita",
+      "link": "DES_2024_3grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_4grad_ita",
+      "link": "DES_2024_4grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Quarta Graduatoria",
+        "primary": null,
+        "secondary": 4
+      },
+      "school": "Design",
+      "year": 2024
+    },
+    {
+      "basePath": "Design/2024/",
+      "id": "DES_2024_5grad_ita",
+      "link": "DES_2024_5grad_ita.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Quinta Graduatoria",
+        "primary": null,
+        "secondary": 5
+      },
+      "school": "Design",
+      "year": 2024
+    }
+  ],
   "schools": {
     "Ingegneria": {
       "2020": [
         {
           "basePath": "Ingegneria/2020/",
+          "id": "ENG_2020_2fase_1grad_ita",
           "link": "ENG_2020_2fase_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2020_2fase_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
+          "id": "ENG_2020_2fase_2grad_ita",
           "link": "ENG_2020_2fase_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2020_2fase_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
+          "id": "ENG_2020_2fase_3grad_ita",
           "link": "ENG_2020_2fase_3grad_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2020_2fase_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
+          "id": "ENG_2020_3fase_ita",
           "link": "ENG_2020_3fase_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2020_3fase_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Ingegneria",
           "year": 2020
         },
         {
           "basePath": "Ingegneria/2020/",
+          "id": "ENG_2020_extraeu_ita",
           "link": "ENG_2020_extraeu_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2020_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Ingegneria",
           "year": 2020
@@ -86,80 +1448,80 @@
       "2021": [
         {
           "basePath": "Ingegneria/2021/",
+          "id": "ENG_2021_2fase_1grad_ita",
           "link": "ENG_2021_2fase_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2021_2fase_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
+          "id": "ENG_2021_2fase_1grad_ita_extraeu",
           "link": "ENG_2021_2fase_1grad_ita_extraeu.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2021_2fase_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
+          "id": "ENG_2021_2fase_2grad_ita",
           "link": "ENG_2021_2fase_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2021_2fase_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
+          "id": "ENG_2021_2fase_3grad_ita",
           "link": "ENG_2021_2fase_3grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2021_2fase_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2021
         },
         {
           "basePath": "Ingegneria/2021/",
+          "id": "ENG_2021_3fase_ita",
           "link": "ENG_2021_3fase_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2021_3fase_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Ingegneria",
           "year": 2021
@@ -168,80 +1530,80 @@
       "2022": [
         {
           "basePath": "Ingegneria/2022/",
+          "id": "ENG_2022_2fase_1grad_ita",
           "link": "ENG_2022_2fase_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2022_2fase_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
+          "id": "ENG_2022_2fase_1grad_ita_extraeu",
           "link": "ENG_2022_2fase_1grad_ita_extraeu.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2022_2fase_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
+          "id": "ENG_2022_2fase_2grad_ita",
           "link": "ENG_2022_2fase_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2022_2fase_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
+          "id": "ENG_2022_2fase_3grad_ita",
           "link": "ENG_2022_2fase_3grad_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2022_2fase_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2022
         },
         {
           "basePath": "Ingegneria/2022/",
+          "id": "ENG_2022_3fase_ita",
           "link": "ENG_2022_3fase_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2022_3fase_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Ingegneria",
           "year": 2022
@@ -250,96 +1612,96 @@
       "2023": [
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_2fase_1grad_ita",
           "link": "ENG_2023_2fase_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2023_2fase_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_2fase_1grad_ita_extraeu",
           "link": "ENG_2023_2fase_1grad_ita_extraeu.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2023_2fase_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_2fase_2grad_ita",
           "link": "ENG_2023_2fase_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2023_2fase_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_2fase_2grad_ita_extraeu",
           "link": "ENG_2023_2fase_2grad_ita_extraeu.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2023_2fase_2grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_2fase_3grad_ita",
           "link": "ENG_2023_2fase_3grad_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2023_2fase_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2023
         },
         {
           "basePath": "Ingegneria/2023/",
+          "id": "ENG_2023_3fase_ita",
           "link": "ENG_2023_3fase_ita.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2023_3fase_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Fase",
             "primary": 3,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Ingegneria",
           "year": 2023
@@ -348,128 +1710,128 @@
       "2024": [
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_1grad_eng",
           "link": "ENG_2024_2fase_1grad_eng.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2024_2fase_1grad_eng",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": true
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_1grad_eng_extraeu",
           "link": "ENG_2024_2fase_1grad_eng_extraeu.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2024_2fase_1grad_eng_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": true,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": true
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_1grad_ita",
           "link": "ENG_2024_2fase_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2024_2fase_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_2grad_eng",
           "link": "ENG_2024_2fase_2grad_eng.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2024_2fase_2grad_eng",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": true
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_2grad_eng_extraeu",
           "link": "ENG_2024_2fase_2grad_eng_extraeu.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2024_2fase_2grad_eng_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": true,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": true
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_2grad_ita",
           "link": "ENG_2024_2fase_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2024_2fase_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_3grad_eng_extraeu",
           "link": "ENG_2024_2fase_3grad_eng_extraeu.json",
           "location": "MILANO LEONARDO",
-          "id": "ENG_2024_2fase_3grad_eng_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": true,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": true
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2024
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_3grad_ita",
           "link": "ENG_2024_2fase_3grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "ENG_2024_2fase_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria Di Seconda Fase",
             "primary": 2,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Ingegneria",
           "year": 2024
@@ -480,48 +1842,48 @@
       "2020": [
         {
           "basePath": "Urbanistica/2020/",
+          "id": "URB_2020_anticipata_ita",
           "link": "URB_2020_anticipata_ita.json",
           "location": null,
-          "id": "URB_2020_anticipata_ita",
           "rankingOrder": {
+            "isAnticipata": true,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipata",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": true,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2020
         },
         {
           "basePath": "Urbanistica/2020/",
+          "id": "URB_2020_extraeu_ita",
           "link": "URB_2020_extraeu_ita.json",
           "location": null,
-          "id": "URB_2020_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2020
         },
         {
           "basePath": "Urbanistica/2020/",
+          "id": "URB_2020_standard_ita",
           "link": "URB_2020_standard_ita.json",
           "location": null,
-          "id": "URB_2020_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2020
@@ -530,48 +1892,48 @@
       "2021": [
         {
           "basePath": "Urbanistica/2021/",
+          "id": "URB_2021_anticipata_ita",
           "link": "URB_2021_anticipata_ita.json",
           "location": null,
-          "id": "URB_2021_anticipata_ita",
           "rankingOrder": {
+            "isAnticipata": true,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipata",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": true,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2021
         },
         {
           "basePath": "Urbanistica/2021/",
+          "id": "URB_2021_extraeu_ita",
           "link": "URB_2021_extraeu_ita.json",
           "location": null,
-          "id": "URB_2021_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2021
         },
         {
           "basePath": "Urbanistica/2021/",
+          "id": "URB_2021_standard_ita",
           "link": "URB_2021_standard_ita.json",
           "location": null,
-          "id": "URB_2021_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2021
@@ -580,48 +1942,48 @@
       "2022": [
         {
           "basePath": "Urbanistica/2022/",
+          "id": "URB_2022_anticipata_ita",
           "link": "URB_2022_anticipata_ita.json",
           "location": null,
-          "id": "URB_2022_anticipata_ita",
           "rankingOrder": {
+            "isAnticipata": true,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipata",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": true,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2022
         },
         {
           "basePath": "Urbanistica/2022/",
+          "id": "URB_2022_extraeu_ita",
           "link": "URB_2022_extraeu_ita.json",
           "location": null,
-          "id": "URB_2022_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2022
         },
         {
           "basePath": "Urbanistica/2022/",
+          "id": "URB_2022_standard_ita",
           "link": "URB_2022_standard_ita.json",
           "location": null,
-          "id": "URB_2022_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2022
@@ -630,64 +1992,64 @@
       "2023": [
         {
           "basePath": "Urbanistica/2023/",
+          "id": "URB_2023_anticipata_ita",
           "link": "URB_2023_anticipata_ita.json",
           "location": null,
-          "id": "URB_2023_anticipata_ita",
           "rankingOrder": {
+            "isAnticipata": true,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipata",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": true,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
+          "id": "URB_2023_extraeu_ita",
           "link": "URB_2023_extraeu_ita.json",
           "location": null,
-          "id": "URB_2023_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
+          "id": "URB_2023_ripescaggio_ita",
           "link": "URB_2023_ripescaggio_ita.json",
           "location": null,
-          "id": "URB_2023_ripescaggio_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2023
         },
         {
           "basePath": "Urbanistica/2023/",
+          "id": "URB_2023_standard_ita",
           "link": "URB_2023_standard_ita.json",
           "location": null,
-          "id": "URB_2023_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Urbanistica",
           "year": 2023
@@ -698,80 +2060,80 @@
       "2020": [
         {
           "basePath": "Architettura/2020/",
+          "id": "ARC_2020_1grad_ita",
           "link": "ARC_2020_1grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2020_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
+          "id": "ARC_2020_1grad_ita_extraeu",
           "link": "ARC_2020_1grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2020_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
+          "id": "ARC_2020_2grad_ita",
           "link": "ARC_2020_2grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2020_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
+          "id": "ARC_2020_2grad_ita_extraeu",
           "link": "ARC_2020_2grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2020_2grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2020
         },
         {
           "basePath": "Architettura/2020/",
+          "id": "ARC_2020_3grad_ita",
           "link": "ARC_2020_3grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2020_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Architettura",
           "year": 2020
@@ -780,80 +2142,80 @@
       "2021": [
         {
           "basePath": "Architettura/2021/",
+          "id": "ARC_2021_1grad_ita",
           "link": "ARC_2021_1grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2021_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
+          "id": "ARC_2021_1grad_ita_extraeu",
           "link": "ARC_2021_1grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2021_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
+          "id": "ARC_2021_2grad_ita",
           "link": "ARC_2021_2grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2021_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
+          "id": "ARC_2021_2grad_ita_extraeu",
           "link": "ARC_2021_2grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2021_2grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2021
         },
         {
           "basePath": "Architettura/2021/",
+          "id": "ARC_2021_3grad_ita",
           "link": "ARC_2021_3grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2021_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Architettura",
           "year": 2021
@@ -862,80 +2224,80 @@
       "2022": [
         {
           "basePath": "Architettura/2022/",
+          "id": "ARC_2022_1grad_ita",
           "link": "ARC_2022_1grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2022_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
+          "id": "ARC_2022_1grad_ita_extraeu",
           "link": "ARC_2022_1grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2022_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
+          "id": "ARC_2022_2grad_ita",
           "link": "ARC_2022_2grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2022_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
+          "id": "ARC_2022_2grad_ita_extraeu",
           "link": "ARC_2022_2grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2022_2grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2022
         },
         {
           "basePath": "Architettura/2022/",
+          "id": "ARC_2022_3grad_ita",
           "link": "ARC_2022_3grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2022_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Architettura",
           "year": 2022
@@ -944,96 +2306,96 @@
       "2023": [
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_1grad_ita",
           "link": "ARC_2023_1grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2023_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_1grad_ita_extraeu",
           "link": "ARC_2023_1grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2023_1grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Architettura",
           "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_2grad_ita",
           "link": "ARC_2023_2grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2023_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_2grad_ita_extraeu",
           "link": "ARC_2023_2grad_ita_extraeu.json",
           "location": "LECCO",
-          "id": "ARC_2023_2grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Architettura",
           "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_3grad_ita",
           "link": "ARC_2023_3grad_ita.json",
           "location": "LECCO",
-          "id": "ARC_2023_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Architettura",
           "year": 2023
         },
         {
           "basePath": "Architettura/2023/",
+          "id": "ARC_2023_3grad_ita_extraeu",
           "link": "ARC_2023_3grad_ita_extraeu.json",
           "location": "MILANO LEONARDO",
-          "id": "ARC_2023_3grad_ita_extraeu",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Architettura",
           "year": 2023
@@ -1044,64 +2406,64 @@
       "2020": [
         {
           "basePath": "Design/2020/",
+          "id": "DES_2020_anticipato_ita",
           "link": "DES_2020_anticipato_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2020_anticipato_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipato",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2020
         },
         {
           "basePath": "Design/2020/",
+          "id": "DES_2020_extraeu_ita",
           "link": "DES_2020_extraeu_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2020_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2020
         },
         {
           "basePath": "Design/2020/",
+          "id": "DES_2020_ripescaggio_ita",
           "link": "DES_2020_ripescaggio_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2020_ripescaggio_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2020
         },
         {
           "basePath": "Design/2020/",
+          "id": "DES_2020_standard_ita",
           "link": "DES_2020_standard_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2020_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2020
@@ -1110,64 +2472,64 @@
       "2021": [
         {
           "basePath": "Design/2021/",
+          "id": "DES_2021_anticipato_ita",
           "link": "DES_2021_anticipato_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2021_anticipato_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipato",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2021
         },
         {
           "basePath": "Design/2021/",
+          "id": "DES_2021_extraeu_ita",
           "link": "DES_2021_extraeu_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2021_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2021
         },
         {
           "basePath": "Design/2021/",
+          "id": "DES_2021_ripescaggio_ita",
           "link": "DES_2021_ripescaggio_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2021_ripescaggio_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2021
         },
         {
           "basePath": "Design/2021/",
+          "id": "DES_2021_standard_ita",
           "link": "DES_2021_standard_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2021_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2021
@@ -1176,64 +2538,64 @@
       "2022": [
         {
           "basePath": "Design/2022/",
+          "id": "DES_2022_anticipato_ita",
           "link": "DES_2022_anticipato_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2022_anticipato_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipato",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2022
         },
         {
           "basePath": "Design/2022/",
+          "id": "DES_2022_extraeu_ita",
           "link": "DES_2022_extraeu_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2022_extraeu_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
             "phase": "Extra-ue",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": true,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2022
         },
         {
           "basePath": "Design/2022/",
+          "id": "DES_2022_ripescaggio_ita",
           "link": "DES_2022_ripescaggio_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2022_ripescaggio_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2022
         },
         {
           "basePath": "Design/2022/",
+          "id": "DES_2022_standard_ita",
           "link": "DES_2022_standard_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2022_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2022
@@ -1242,48 +2604,48 @@
       "2023": [
         {
           "basePath": "Design/2023/",
+          "id": "DES_2023_anticipato_ita",
           "link": "DES_2023_anticipato_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2023_anticipato_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Anticipato",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2023
         },
         {
           "basePath": "Design/2023/",
+          "id": "DES_2023_ripescaggio_ita",
           "link": "DES_2023_ripescaggio_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2023_ripescaggio_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Ripescaggio",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2023
         },
         {
           "basePath": "Design/2023/",
+          "id": "DES_2023_standard_ita",
           "link": "DES_2023_standard_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2023_standard_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Standard",
             "primary": null,
-            "secondary": null,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": null
           },
           "school": "Design",
           "year": 2023
@@ -1292,112 +2654,112 @@
       "2024": [
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_1grad_eng",
           "link": "DES_2024_1grad_eng.json",
           "location": "LECCO",
-          "id": "DES_2024_1grad_eng",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": true
+            "secondary": 1
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_1grad_ita",
           "link": "DES_2024_1grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2024_1grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Prima Graduatoria",
             "primary": null,
-            "secondary": 1,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 1
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_2grad_eng",
           "link": "DES_2024_2grad_eng.json",
           "location": "LECCO",
-          "id": "DES_2024_2grad_eng",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": true
+            "secondary": 2
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_2grad_ita",
           "link": "DES_2024_2grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2024_2grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Seconda Graduatoria",
             "primary": null,
-            "secondary": 2,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 2
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_3grad_ita",
           "link": "DES_2024_3grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2024_3grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Terza Graduatoria",
             "primary": null,
-            "secondary": 3,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 3
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_4grad_ita",
           "link": "DES_2024_4grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2024_4grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Quarta Graduatoria",
             "primary": null,
-            "secondary": 4,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 4
           },
           "school": "Design",
           "year": 2024
         },
         {
           "basePath": "Design/2024/",
+          "id": "DES_2024_5grad_ita",
           "link": "DES_2024_5grad_ita.json",
           "location": "MILANO BOVISA",
-          "id": "DES_2024_5grad_ita",
           "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
             "phase": "Quinta Graduatoria",
             "primary": null,
-            "secondary": 5,
-            "isAnticipata": false,
-            "isExtraEu": false,
-            "isEnglish": false
+            "secondary": 5
           },
           "school": "Design",
           "year": 2024
@@ -1405,5 +2767,5 @@
       ]
     }
   },
-  "lastUpdate": "2024-07-08T09:07:20.6832479Z"
+  "lastUpdate": "2024-07-08T14:06:34.0230514Z"
 }
