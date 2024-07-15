@@ -1249,6 +1249,22 @@
       "year": 2024
     },
     {
+      "basePath": "Urbanistica/2024/",
+      "id": "URB_2024_1fase_1grad_ita",
+      "link": "URB_2024_1fase_1grad_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Prima Fase",
+        "primary": 1,
+        "secondary": 1
+      },
+      "school": "Urbanistica",
+      "year": 2024
+    },
+    {
       "basePath": "Design/2024/",
       "id": "DES_2024_1grad_eng",
       "link": "DES_2024_1grad_eng.json",
@@ -2653,6 +2669,24 @@
           "year": 2024
         }
       ],
+      "Urbanistica": [
+        {
+          "basePath": "Urbanistica/2024/",
+          "id": "URB_2024_1fase_1grad_ita",
+          "link": "URB_2024_1fase_1grad_ita.json",
+          "location": null,
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
+            "phase": "Prima Graduatoria Di Prima Fase",
+            "primary": 1,
+            "secondary": 1
+          },
+          "school": "Urbanistica",
+          "year": 2024
+        }
+      ],
       "Design": [
         {
           "basePath": "Design/2024/",
@@ -2769,5 +2803,5 @@
       ]
     }
   },
-  "lastUpdate": "2024-07-08T14:06:34.0230514Z"
+  "lastUpdate": "2024-07-15T09:07:24.7750205Z"
 }

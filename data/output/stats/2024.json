@@ -1,5 +1,5 @@
 {
-  "numStudents": 14263,
+  "numStudents": 14431,
   "schools": {
     "Ingegneria": {
       "list": [
@@ -7875,6 +7875,88 @@
         }
       ],
       "numStudents": 6139
+    },
+    "Urbanistica": {
+      "list": [
+        {
+          "singleCourseJson": {
+            "basePath": "Urbanistica/2024/",
+            "id": "URB_2024_1fase_1grad_ita",
+            "link": "URB_2024_1fase_1grad_ita.json",
+            "location": null,
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria Di Prima Fase",
+              "primary": 1,
+              "secondary": 1
+            },
+            "school": "Urbanistica",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.89187,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 78.256,
+                "averagePartialScores": {
+                  "Colloquio": 38.125,
+                  "Elaborato": 20.88095,
+                  "Lettera Motivazionale": 15.28571
+                },
+                "averageScoresOfAllStudents": 74.29167,
+                "howManyCanEnroll": 125,
+                "howManyOfa": {},
+                "howManyStudents": 168,
+                "location": null,
+                "minScoreToEnroll": 66.00,
+                "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
+              }
+            ],
+            "howManyCanEnroll": 125,
+            "howManyStudents": 168,
+            "resultsSummarized": {
+              "60": 9,
+              "61": 5,
+              "62": 8,
+              "63": 4,
+              "64": 3,
+              "65": 10,
+              "66": 5,
+              "67": 2,
+              "68": 4,
+              "69": 2,
+              "70": 12,
+              "71": 3,
+              "72": 8,
+              "73": 2,
+              "74": 8,
+              "75": 7,
+              "76": 9,
+              "77": 5,
+              "78": 4,
+              "79": 6,
+              "80": 8,
+              "81": 6,
+              "82": 6,
+              "83": 3,
+              "84": 2,
+              "85": 4,
+              "86": 5,
+              "87": 3,
+              "88": 4,
+              "89": 2,
+              "90": 4,
+              "92": 3,
+              "93": 1,
+              "100": 1
+            }
+          }
+        }
+      ],
+      "numStudents": 168
     },
     "Design": {
       "list": [
