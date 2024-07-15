@@ -1,0 +1,6498 @@
+{
+  "lastUpdate": "2024-07-15T09:07:57.2659865Z",
+  "school": "Urbanistica",
+  "year": 2024,
+  "url": {
+    "pageEnum": 1,
+    "url": "https://www.risultati-ammissione.polimi.it/2024_20006_3ba7_html/2024_20006_generale.html"
+  },
+  "extra": "Studenti Comunitari ed Equiparati",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": false,
+    "isExtraEu": false,
+    "phase": "Prima Graduatoria Di Prima Fase",
+    "primary": 1,
+    "secondary": 1
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2004.89187,
+        "averageEnglishCorrectAnswers": null,
+        "averageOfWhoPassed": 78.256,
+        "averagePartialScores": {
+          "Colloquio": 38.125,
+          "Elaborato": 20.88095,
+          "Lettera Motivazionale": 15.28571
+        },
+        "averageScoresOfAllStudents": 74.29167,
+        "howManyCanEnroll": 125,
+        "howManyOfa": {},
+        "howManyStudents": 168,
+        "location": null,
+        "minScoreToEnroll": 66.00,
+        "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO"
+      }
+    ],
+    "howManyCanEnroll": 125,
+    "howManyStudents": 168,
+    "resultsSummarized": {
+      "60": 9,
+      "61": 5,
+      "62": 8,
+      "63": 4,
+      "64": 3,
+      "65": 10,
+      "66": 5,
+      "67": 2,
+      "68": 4,
+      "69": 2,
+      "70": 12,
+      "71": 3,
+      "72": 8,
+      "73": 2,
+      "74": 8,
+      "75": 7,
+      "76": 9,
+      "77": 5,
+      "78": 4,
+      "79": 6,
+      "80": 8,
+      "81": 6,
+      "82": 6,
+      "83": 3,
+      "84": 2,
+      "85": 4,
+      "86": 5,
+      "87": 3,
+      "88": 4,
+      "89": 2,
+      "90": 4,
+      "92": 3,
+      "93": 1,
+      "100": 1
+    }
+  },
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "Posizione Assoluta",
+      "Corso di Studi per il quale è consentita l'immatricolazione"
+    ],
+    "path": "https://www.risultati-ammissione.polimi.it/2024_20006_3ba7_html/2024_20006_generale.html",
+    "rows": [
+      {
+        "birthDate": "2005-09-15",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f0839faad58ed5761747",
+        "ofa": {},
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 100.00,
+        "sectionsResults": {
+          "Colloquio": 50.00,
+          "Elaborato": 30.00,
+          "Lettera Motivazionale": 20.00
+        }
+      },
+      {
+        "birthDate": "2005-08-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "12ee0c644ef8c04a7b2d",
+        "ofa": {},
+        "positionAbsolute": 2,
+        "positionCourse": 2,
+        "result": 93.00,
+        "sectionsResults": {
+          "Colloquio": 49.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 20.00
+        }
+      },
+      {
+        "birthDate": "1999-08-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "0601d0e5bce1abfae2dc",
+        "ofa": {},
+        "positionAbsolute": 3,
+        "positionCourse": 3,
+        "result": 92.00,
+        "sectionsResults": {
+          "Colloquio": 49.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-04-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e12857c625c2e0f06637",
+        "ofa": {},
+        "positionAbsolute": 4,
+        "positionCourse": 4,
+        "result": 92.00,
+        "sectionsResults": {
+          "Colloquio": 48.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2003-02-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f489dc8a1f12acef0103",
+        "ofa": {},
+        "positionAbsolute": 5,
+        "positionCourse": 5,
+        "result": 92.00,
+        "sectionsResults": {
+          "Colloquio": 44.00,
+          "Elaborato": 28.00,
+          "Lettera Motivazionale": 20.00
+        }
+      },
+      {
+        "birthDate": "2004-09-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "093069b640b5a0e9a977",
+        "ofa": {},
+        "positionAbsolute": 6,
+        "positionCourse": 6,
+        "result": 90.00,
+        "sectionsResults": {
+          "Colloquio": 50.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "1967-09-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b6597d05984fec11e0ed",
+        "ofa": {},
+        "positionAbsolute": 7,
+        "positionCourse": 7,
+        "result": 90.00,
+        "sectionsResults": {
+          "Colloquio": 48.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2004-05-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "fe5501801c9a6b6f89a6",
+        "ofa": {},
+        "positionAbsolute": 8,
+        "positionCourse": 8,
+        "result": 90.00,
+        "sectionsResults": {
+          "Colloquio": 46.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 20.00
+        }
+      },
+      {
+        "birthDate": "2005-09-15",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e318e74f3f5907c3734c",
+        "ofa": {},
+        "positionAbsolute": 9,
+        "positionCourse": 9,
+        "result": 90.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 27.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-02-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7629d3544ca2b4671e89",
+        "ofa": {},
+        "positionAbsolute": 10,
+        "positionCourse": 10,
+        "result": 89.00,
+        "sectionsResults": {
+          "Colloquio": 46.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2006-01-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "343699c88749cb8a0623",
+        "ofa": {},
+        "positionAbsolute": 11,
+        "positionCourse": 11,
+        "result": 89.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 19.00
+        }
+      },
+      {
+        "birthDate": "2006-10-03",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7180c9e88dcf96051ef2",
+        "ofa": {},
+        "positionAbsolute": 12,
+        "positionCourse": 12,
+        "result": 88.00,
+        "sectionsResults": {
+          "Colloquio": 49.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-01-12",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "914e33b740a7fb3cd287",
+        "ofa": {},
+        "positionAbsolute": 13,
+        "positionCourse": 13,
+        "result": 88.00,
+        "sectionsResults": {
+          "Colloquio": 47.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-03-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "df3936a69bd5b3e7a53c",
+        "ofa": {},
+        "positionAbsolute": 14,
+        "positionCourse": 14,
+        "result": 88.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-07-07",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "274974e21d37bfa9298d",
+        "ofa": {},
+        "positionAbsolute": 15,
+        "positionCourse": 15,
+        "result": 88.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 27.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2006-02-01",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d9a37c9040c93c91d152",
+        "ofa": {},
+        "positionAbsolute": 16,
+        "positionCourse": 16,
+        "result": 87.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-02-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7bd5199eb47309d0909d",
+        "ofa": {},
+        "positionAbsolute": 17,
+        "positionCourse": 17,
+        "result": 87.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2003-12-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "582e4d38b62356694886",
+        "ofa": {},
+        "positionAbsolute": 18,
+        "positionCourse": 18,
+        "result": 87.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-05-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "8f49a920ac26e1f0e992",
+        "ofa": {},
+        "positionAbsolute": 19,
+        "positionCourse": 19,
+        "result": 86.00,
+        "sectionsResults": {
+          "Colloquio": 47.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-01-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "c07ccc33476a896ce026",
+        "ofa": {},
+        "positionAbsolute": 20,
+        "positionCourse": 20,
+        "result": 86.00,
+        "sectionsResults": {
+          "Colloquio": 47.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-03-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7d54bd9ff3cf8464d368",
+        "ofa": {},
+        "positionAbsolute": 21,
+        "positionCourse": 21,
+        "result": 86.00,
+        "sectionsResults": {
+          "Colloquio": 46.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-12-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "bf31fb5f2e263ec50165",
+        "ofa": {},
+        "positionAbsolute": 22,
+        "positionCourse": 22,
+        "result": 86.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-02-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "73776a8b913d64941b79",
+        "ofa": {},
+        "positionAbsolute": 23,
+        "positionCourse": 23,
+        "result": 86.00,
+        "sectionsResults": {
+          "Colloquio": 44.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2004-11-03",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f9ae3b09dc2a662519b1",
+        "ofa": {},
+        "positionAbsolute": 24,
+        "positionCourse": 24,
+        "result": 85.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3638ed2d9b221e058871",
+        "ofa": {},
+        "positionAbsolute": 25,
+        "positionCourse": 25,
+        "result": 85.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2002-11-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "6a6b020b081fe9fc7d6f",
+        "ofa": {},
+        "positionAbsolute": 26,
+        "positionCourse": 26,
+        "result": 85.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 19.00
+        }
+      },
+      {
+        "birthDate": "2005-09-11",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "fc0f9ff10e1ac174a2ee",
+        "ofa": {},
+        "positionAbsolute": 27,
+        "positionCourse": 27,
+        "result": 85.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 28.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-07-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "26bc7ed0d97cdb09f0a5",
+        "ofa": {},
+        "positionAbsolute": 28,
+        "positionCourse": 28,
+        "result": 84.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-07-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "593d2e992faac2729861",
+        "ofa": {},
+        "positionAbsolute": 29,
+        "positionCourse": 29,
+        "result": 84.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-09-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "6f21bdb804004b7161c4",
+        "ofa": {},
+        "positionAbsolute": 30,
+        "positionCourse": 30,
+        "result": 83.00,
+        "sectionsResults": {
+          "Colloquio": 46.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-09-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "5c124ff39c45b0c8126b",
+        "ofa": {},
+        "positionAbsolute": 31,
+        "positionCourse": 31,
+        "result": 83.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-12-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "96cd9ddd600e0307e090",
+        "ofa": {},
+        "positionAbsolute": 32,
+        "positionCourse": 32,
+        "result": 83.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-05-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "1534d5b2a6f8e2ff5036",
+        "ofa": {},
+        "positionAbsolute": 33,
+        "positionCourse": 33,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "be79706a09762ae9ba8f",
+        "ofa": {},
+        "positionAbsolute": 34,
+        "positionCourse": 34,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-05-12",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "03bc3972740edb6a3581",
+        "ofa": {},
+        "positionAbsolute": 35,
+        "positionCourse": 35,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-12-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "2d870b1d83d1bd54542b",
+        "ofa": {},
+        "positionAbsolute": 36,
+        "positionCourse": 36,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 25.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-09-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "a82d42a4de4f959c1ae2",
+        "ofa": {},
+        "positionAbsolute": 37,
+        "positionCourse": 37,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-07-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3398eb09256e6c05863e",
+        "ofa": {},
+        "positionAbsolute": 38,
+        "positionCourse": 38,
+        "result": 82.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 19.00
+        }
+      },
+      {
+        "birthDate": "2004-02-25",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "c2ce97f92fe8f302b8ea",
+        "ofa": {},
+        "positionAbsolute": 39,
+        "positionCourse": 39,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e292ba4b3186ebb75207",
+        "ofa": {},
+        "positionAbsolute": 40,
+        "positionCourse": 40,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-11-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b0abc838bd5adc663d5d",
+        "ofa": {},
+        "positionAbsolute": 41,
+        "positionCourse": 41,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-12-07",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "32b973435f519e0f8644",
+        "ofa": {},
+        "positionAbsolute": 42,
+        "positionCourse": 42,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "8078e3bc2c8db1fd6e27",
+        "ofa": {},
+        "positionAbsolute": 43,
+        "positionCourse": 43,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2003-03-31",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "a94036eb4ea7f48038f6",
+        "ofa": {},
+        "positionAbsolute": 44,
+        "positionCourse": 44,
+        "result": 81.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2006-08-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7284504fcce4087da0b2",
+        "ofa": {},
+        "positionAbsolute": 45,
+        "positionCourse": 45,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-06-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "0daedff6bd8d833f4d74",
+        "ofa": {},
+        "positionAbsolute": 46,
+        "positionCourse": 46,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-08-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "cf2c488476856b424a80",
+        "ofa": {},
+        "positionAbsolute": 47,
+        "positionCourse": 47,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-02-24",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7e8b4030bc071780e23d",
+        "ofa": {},
+        "positionAbsolute": 48,
+        "positionCourse": 48,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2003-12-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "a8405cf18d0cb308180b",
+        "ofa": {},
+        "positionAbsolute": 49,
+        "positionCourse": 49,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-04-09",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "2b364d4656a74da0974d",
+        "ofa": {},
+        "positionAbsolute": 50,
+        "positionCourse": 50,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 26.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-05-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "54a94d251f6347b0dd89",
+        "ofa": {},
+        "positionAbsolute": 51,
+        "positionCourse": 51,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-04-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b1986e9e07ffd6ea233b",
+        "ofa": {},
+        "positionAbsolute": 52,
+        "positionCourse": 52,
+        "result": 80.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 18.00
+        }
+      },
+      {
+        "birthDate": "2005-12-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b3ef1daab4142c5dbff3",
+        "ofa": {},
+        "positionAbsolute": 53,
+        "positionCourse": 53,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-10-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "5cc64d471b983fdf3d8d",
+        "ofa": {},
+        "positionAbsolute": 54,
+        "positionCourse": 54,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-02-17",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "529a5c1906a664ceb757",
+        "ofa": {},
+        "positionAbsolute": 55,
+        "positionCourse": 55,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-11-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "39ea74557f070a969787",
+        "ofa": {},
+        "positionAbsolute": 56,
+        "positionCourse": 56,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-04-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "0426a1c1d4a61d8bf9de",
+        "ofa": {},
+        "positionAbsolute": 57,
+        "positionCourse": 57,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2006-01-17",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f728f37532d6fb3bd0fa",
+        "ofa": {},
+        "positionAbsolute": 58,
+        "positionCourse": 58,
+        "result": 79.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-12-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "801252f8d8d9d9a9da6b",
+        "ofa": {},
+        "positionAbsolute": 59,
+        "positionCourse": 59,
+        "result": 78.00,
+        "sectionsResults": {
+          "Colloquio": 50.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 8.00
+        }
+      },
+      {
+        "birthDate": "2005-03-01",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "40b01862005a23cca563",
+        "ofa": {},
+        "positionAbsolute": 60,
+        "positionCourse": 60,
+        "result": 78.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-01-09",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "fed6401cf73517774754",
+        "ofa": {},
+        "positionAbsolute": 61,
+        "positionCourse": 61,
+        "result": 78.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-01-04",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d5706b8c82687ac02663",
+        "ofa": {},
+        "positionAbsolute": 62,
+        "positionCourse": 62,
+        "result": 78.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-12-02",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "a5eace1a832af583f8b0",
+        "ofa": {},
+        "positionAbsolute": 63,
+        "positionCourse": 63,
+        "result": 77.00,
+        "sectionsResults": {
+          "Colloquio": 44.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-05-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "8db798dcecdb0f4431fe",
+        "ofa": {},
+        "positionAbsolute": 64,
+        "positionCourse": 64,
+        "result": 77.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-03-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "ad9b475e1a6c3a73ecf5",
+        "ofa": {},
+        "positionAbsolute": 65,
+        "positionCourse": 65,
+        "result": 77.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-03-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "72e5b2ae404ce80f7786",
+        "ofa": {},
+        "positionAbsolute": 66,
+        "positionCourse": 66,
+        "result": 77.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-06-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "1e7ecee70791988834a9",
+        "ofa": {},
+        "positionAbsolute": 67,
+        "positionCourse": 67,
+        "result": 77.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2006-02-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e1b2a6260046d57d2bbd",
+        "ofa": {},
+        "positionAbsolute": 68,
+        "positionCourse": 68,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 45.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-04-17",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "317884c00bfe4d70e346",
+        "ofa": {},
+        "positionAbsolute": 69,
+        "positionCourse": 69,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 43.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-03-05",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "5428867703f7d88203b4",
+        "ofa": {},
+        "positionAbsolute": 70,
+        "positionCourse": 70,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-09-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "435e03dbbaf9bb58505c",
+        "ofa": {},
+        "positionAbsolute": 71,
+        "positionCourse": 71,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-03-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "fbfd66b55aaad8cb0bb8",
+        "ofa": {},
+        "positionAbsolute": 72,
+        "positionCourse": 72,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-01-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "aadebaebb3f0d813cdbc",
+        "ofa": {},
+        "positionAbsolute": 73,
+        "positionCourse": 73,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2002-06-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b18e803ef3cf5fe4688f",
+        "ofa": {},
+        "positionAbsolute": 74,
+        "positionCourse": 74,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-12-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f3365e19b7c06fa485d6",
+        "ofa": {},
+        "positionAbsolute": 75,
+        "positionCourse": 75,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-03-03",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "5db57d81698d57a30e15",
+        "ofa": {},
+        "positionAbsolute": 76,
+        "positionCourse": 76,
+        "result": 76.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "bb6607dc6f8ec7ae15b5",
+        "ofa": {},
+        "positionAbsolute": 77,
+        "positionCourse": 77,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-10-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3198fa9d0e5ed480ab68",
+        "ofa": {},
+        "positionAbsolute": 78,
+        "positionCourse": 78,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-09-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "ded7c95df38afad81684",
+        "ofa": {},
+        "positionAbsolute": 79,
+        "positionCourse": 79,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-07-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "63c84dc1f96330b44ca1",
+        "ofa": {},
+        "positionAbsolute": 80,
+        "positionCourse": 80,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-06-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f904e63980ebf1c14fcf",
+        "ofa": {},
+        "positionAbsolute": 81,
+        "positionCourse": 81,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-10-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "38d0d7ec818ba9800436",
+        "ofa": {},
+        "positionAbsolute": 82,
+        "positionCourse": 82,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-08-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b18780deee524ac5032e",
+        "ofa": {},
+        "positionAbsolute": 83,
+        "positionCourse": 83,
+        "result": 75.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-10-31",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7467542ed8ed609054c7",
+        "ofa": {},
+        "positionAbsolute": 84,
+        "positionCourse": 84,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 44.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-12-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "467752ba7eaba0e9b026",
+        "ofa": {},
+        "positionAbsolute": 85,
+        "positionCourse": 85,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-10-09",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f280902c00dc1d08ba97",
+        "ofa": {},
+        "positionAbsolute": 86,
+        "positionCourse": 86,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-07-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "63981b9504a3fffd4a60",
+        "ofa": {},
+        "positionAbsolute": 87,
+        "positionCourse": 87,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2006-01-05",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "86ce1f4126e577404d94",
+        "ofa": {},
+        "positionAbsolute": 88,
+        "positionCourse": 88,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-04-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "b465fc4e0dd1bf1cceec",
+        "ofa": {},
+        "positionAbsolute": 89,
+        "positionCourse": 89,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-11-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "34379f24807604c26f0e",
+        "ofa": {},
+        "positionAbsolute": 90,
+        "positionCourse": 90,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2003-04-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "4dc40e7ae24291056461",
+        "ofa": {},
+        "positionAbsolute": 91,
+        "positionCourse": 91,
+        "result": 74.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-11-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d303d4c214c64ca37313",
+        "ofa": {},
+        "positionAbsolute": 92,
+        "positionCourse": 92,
+        "result": 73.00,
+        "sectionsResults": {
+          "Colloquio": 40.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-07-05",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d5079a3703ba1f144380",
+        "ofa": {},
+        "positionAbsolute": 93,
+        "positionCourse": 93,
+        "result": 73.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-03-31",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "51c8821eaff743e72185",
+        "ofa": {},
+        "positionAbsolute": 94,
+        "positionCourse": 94,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-01-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3c028e90c0f2e53d56c7",
+        "ofa": {},
+        "positionAbsolute": 95,
+        "positionCourse": 95,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-07-12",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3df0dc556e95c0e72ae6",
+        "ofa": {},
+        "positionAbsolute": 96,
+        "positionCourse": 96,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2003-09-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "883b63ef5255b7377b9d",
+        "ofa": {},
+        "positionAbsolute": 97,
+        "positionCourse": 97,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2003-01-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "1fdd4ae630be8b23238a",
+        "ofa": {},
+        "positionAbsolute": 98,
+        "positionCourse": 98,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-07-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "dab92fb26099cdfb4a7c",
+        "ofa": {},
+        "positionAbsolute": 99,
+        "positionCourse": 99,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-09-11",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "c8ffd048c38bc57f1073",
+        "ofa": {},
+        "positionAbsolute": 100,
+        "positionCourse": 100,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 35.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-04-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "fa2090611e2c985cb208",
+        "ofa": {},
+        "positionAbsolute": 101,
+        "positionCourse": 101,
+        "result": 72.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-12-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "893dafcb5729f04cc7e2",
+        "ofa": {},
+        "positionAbsolute": 102,
+        "positionCourse": 102,
+        "result": 71.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2001-11-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "c9b8e0002a6792fcb79d",
+        "ofa": {},
+        "positionAbsolute": 103,
+        "positionCourse": 103,
+        "result": 71.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2006-02-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "3c81a479070ee5731e27",
+        "ofa": {},
+        "positionAbsolute": 104,
+        "positionCourse": 104,
+        "result": 71.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-02-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e49cb31f34e16fa0aec1",
+        "ofa": {},
+        "positionAbsolute": 105,
+        "positionCourse": 105,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 42.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 11.00
+        }
+      },
+      {
+        "birthDate": "2004-09-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "7784e2d916fc166af5ba",
+        "ofa": {},
+        "positionAbsolute": 106,
+        "positionCourse": 106,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 41.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 11.00
+        }
+      },
+      {
+        "birthDate": "2005-01-17",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "f0f8b606dcdb27b6f744",
+        "ofa": {},
+        "positionAbsolute": 107,
+        "positionCourse": 107,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-04-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "9176a5e735834a3540c3",
+        "ofa": {},
+        "positionAbsolute": 108,
+        "positionCourse": 108,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-01-05",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "a6ef140234b2228aa12f",
+        "ofa": {},
+        "positionAbsolute": 109,
+        "positionCourse": 109,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-08-05",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "235d55e0c7bb6fc7b650",
+        "ofa": {},
+        "positionAbsolute": 110,
+        "positionCourse": 110,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 37.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-12-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "011f3785f7d48d164963",
+        "ofa": {},
+        "positionAbsolute": 111,
+        "positionCourse": 111,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 35.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-09-29",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "8afb186c6acc8dc4f327",
+        "ofa": {},
+        "positionAbsolute": 112,
+        "positionCourse": 112,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 35.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-09-25",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d6a1e0035c96e724e107",
+        "ofa": {},
+        "positionAbsolute": 113,
+        "positionCourse": 113,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-04-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "39634762ae6ad7304032",
+        "ofa": {},
+        "positionAbsolute": 114,
+        "positionCourse": 114,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2000-11-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "e584f7035c8a847ffbd3",
+        "ofa": {},
+        "positionAbsolute": 115,
+        "positionCourse": 115,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-09-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "d7498e9403814e3ab48c",
+        "ofa": {},
+        "positionAbsolute": 116,
+        "positionCourse": 116,
+        "result": 70.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-12-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "0f38dc8a0a3911067797",
+        "ofa": {},
+        "positionAbsolute": 117,
+        "positionCourse": 117,
+        "result": 69.00,
+        "sectionsResults": {
+          "Colloquio": 39.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2002-01-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "960424379c4d9f317ade",
+        "ofa": {},
+        "positionAbsolute": 118,
+        "positionCourse": 118,
+        "result": 69.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-03-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "c417f2a0bd17993055b0",
+        "ofa": {},
+        "positionAbsolute": 119,
+        "positionCourse": 119,
+        "result": 68.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-02-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "0b716eafe925afc57dbd",
+        "ofa": {},
+        "positionAbsolute": 120,
+        "positionCourse": 120,
+        "result": 68.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-11-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "6601034f27a48e9ead8c",
+        "ofa": {},
+        "positionAbsolute": 121,
+        "positionCourse": 121,
+        "result": 68.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-09-16",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "eb9ae9e7fb39af172422",
+        "ofa": {},
+        "positionAbsolute": 122,
+        "positionCourse": 122,
+        "result": 68.00,
+        "sectionsResults": {
+          "Colloquio": 31.00,
+          "Elaborato": 22.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2004-12-11",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "4c8cf5f9f400f35f2395",
+        "ofa": {},
+        "positionAbsolute": 123,
+        "positionCourse": 123,
+        "result": 67.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-09-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "317b5d306a610579d2bf",
+        "ofa": {},
+        "positionAbsolute": 124,
+        "positionCourse": 124,
+        "result": 67.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-05-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+          "type": "Assegnato"
+        },
+        "id": "af3bdfd6d165a0c9a1d4",
+        "ofa": {},
+        "positionAbsolute": 125,
+        "positionCourse": 125,
+        "result": 66.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-02-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "18ff9c2e6e04fae66d7f",
+        "ofa": {},
+        "positionAbsolute": 126,
+        "positionCourse": 126,
+        "result": 66.00,
+        "sectionsResults": {
+          "Colloquio": 33.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-06-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "00b812a0bf6c4743f274",
+        "ofa": {},
+        "positionAbsolute": 127,
+        "positionCourse": 127,
+        "result": 66.00,
+        "sectionsResults": {
+          "Colloquio": 32.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-04-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "4db09ee5426610934ffc",
+        "ofa": {},
+        "positionAbsolute": 128,
+        "positionCourse": 128,
+        "result": 66.00,
+        "sectionsResults": {
+          "Colloquio": 32.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-08-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "2627743967233c823a2a",
+        "ofa": {},
+        "positionAbsolute": 129,
+        "positionCourse": 129,
+        "result": 66.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 23.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-11-24",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9c5f0321b0aa81a11b76",
+        "ofa": {},
+        "positionAbsolute": 130,
+        "positionCourse": 130,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-12-07",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "d86de768b62e56ffebd0",
+        "ofa": {},
+        "positionAbsolute": 131,
+        "positionCourse": 131,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 15.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-05-11",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "034b9f358d85ae198e8a",
+        "ofa": {},
+        "positionAbsolute": 132,
+        "positionCourse": 132,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 35.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-09-30",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "d9069368b10497662a25",
+        "ofa": {},
+        "positionAbsolute": 133,
+        "positionCourse": 133,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-05-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "744d94bf2862f048a321",
+        "ofa": {},
+        "positionAbsolute": 134,
+        "positionCourse": 134,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2004-04-08",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "1bea1f154d4324b42935",
+        "ofa": {},
+        "positionAbsolute": 135,
+        "positionCourse": 135,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 33.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-08-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "34bfd0b1358bfb08a002",
+        "ofa": {},
+        "positionAbsolute": 136,
+        "positionCourse": 136,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 31.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-03-04",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "6ac881e177b3e9a12132",
+        "ofa": {},
+        "positionAbsolute": 137,
+        "positionCourse": 137,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 31.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-09-26",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "119e8666c434e716d4c8",
+        "ofa": {},
+        "positionAbsolute": 138,
+        "positionCourse": 138,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-03-31",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9d6fb7b2595196f9e615",
+        "ofa": {},
+        "positionAbsolute": 139,
+        "positionCourse": 139,
+        "result": 65.00,
+        "sectionsResults": {
+          "Colloquio": 29.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2003-04-15",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "31515239d177860cce75",
+        "ofa": {},
+        "positionAbsolute": 140,
+        "positionCourse": 140,
+        "result": 64.00,
+        "sectionsResults": {
+          "Colloquio": 38.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-07-17",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "1efb9645091b1574991b",
+        "ofa": {},
+        "positionAbsolute": 141,
+        "positionCourse": 141,
+        "result": 64.00,
+        "sectionsResults": {
+          "Colloquio": 35.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-07-04",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "031eb7f6bdbc15cec701",
+        "ofa": {},
+        "positionAbsolute": 142,
+        "positionCourse": 142,
+        "result": 64.00,
+        "sectionsResults": {
+          "Colloquio": 23.00,
+          "Elaborato": 24.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-02-25",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "b5a292cdbe52102e1762",
+        "ofa": {},
+        "positionAbsolute": 143,
+        "positionCourse": 143,
+        "result": 63.00,
+        "sectionsResults": {
+          "Colloquio": 36.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 11.00
+        }
+      },
+      {
+        "birthDate": "2005-07-27",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "851b0215b80d04a45e3a",
+        "ofa": {},
+        "positionAbsolute": 144,
+        "positionCourse": 144,
+        "result": 63.00,
+        "sectionsResults": {
+          "Colloquio": 33.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-11-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "5cdac3ba547ed775f0b4",
+        "ofa": {},
+        "positionAbsolute": 145,
+        "positionCourse": 145,
+        "result": 63.00,
+        "sectionsResults": {
+          "Colloquio": 31.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2005-07-14",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "b1f5450cafc94a63f8dc",
+        "ofa": {},
+        "positionAbsolute": 146,
+        "positionCourse": 146,
+        "result": 63.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2006-03-28",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "5fbc67a7f9ea4315e997",
+        "ofa": {},
+        "positionAbsolute": 147,
+        "positionCourse": 147,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-09-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "70426dd54cdaeb53f4d6",
+        "ofa": {},
+        "positionAbsolute": 148,
+        "positionCourse": 148,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 33.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2003-03-20",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "c68ecea4172a947bb79f",
+        "ofa": {},
+        "positionAbsolute": 149,
+        "positionCourse": 149,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 32.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2004-06-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "e38e465a66c145340f74",
+        "ofa": {},
+        "positionAbsolute": 150,
+        "positionCourse": 150,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 31.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2002-11-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "3787c8c3d11c1f83a792",
+        "ofa": {},
+        "positionAbsolute": 151,
+        "positionCourse": 151,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 13.00
+        }
+      },
+      {
+        "birthDate": "2004-02-23",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "4894fdd869d95f8c3335",
+        "ofa": {},
+        "positionAbsolute": 152,
+        "positionCourse": 152,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 15.00
+        }
+      },
+      {
+        "birthDate": "2005-12-07",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "3b9d828762f65206856c",
+        "ofa": {},
+        "positionAbsolute": 153,
+        "positionCourse": 153,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 28.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-05-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "75b87280fb03108adf9f",
+        "ofa": {},
+        "positionAbsolute": 154,
+        "positionCourse": 154,
+        "result": 62.00,
+        "sectionsResults": {
+          "Colloquio": 28.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 17.00
+        }
+      },
+      {
+        "birthDate": "2005-02-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "31e03d1e8b04881721ce",
+        "ofa": {},
+        "positionAbsolute": 155,
+        "positionCourse": 155,
+        "result": 61.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 15.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-02-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "adf18029dd0de26eefcb",
+        "ofa": {},
+        "positionAbsolute": 156,
+        "positionCourse": 156,
+        "result": 61.00,
+        "sectionsResults": {
+          "Colloquio": 32.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-05-18",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "ae3d980cba04970f37dd",
+        "ofa": {},
+        "positionAbsolute": 157,
+        "positionCourse": 157,
+        "result": 61.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2006-10-06",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "70e3c1483e94742370e8",
+        "ofa": {},
+        "positionAbsolute": 158,
+        "positionCourse": 158,
+        "result": 61.00,
+        "sectionsResults": {
+          "Colloquio": 27.00,
+          "Elaborato": 18.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2005-11-22",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "598ebc0bc7c39c09cc5f",
+        "ofa": {},
+        "positionAbsolute": 159,
+        "positionCourse": 159,
+        "result": 61.00,
+        "sectionsResults": {
+          "Colloquio": 24.00,
+          "Elaborato": 21.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2002-09-03",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9c598f99e3bbf2b426ae",
+        "ofa": {},
+        "positionAbsolute": 160,
+        "positionCourse": 160,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "1995-11-25",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "3429c020b6767807e902",
+        "ofa": {},
+        "positionAbsolute": 161,
+        "positionCourse": 161,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 34.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-07-15",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9d8295ed79c1e6f32d27",
+        "ofa": {},
+        "positionAbsolute": 162,
+        "positionCourse": 162,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 32.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 12.00
+        }
+      },
+      {
+        "birthDate": "2005-06-09",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "dba1db942884cd7b4699",
+        "ofa": {},
+        "positionAbsolute": 163,
+        "positionCourse": 163,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 10.00
+        }
+      },
+      {
+        "birthDate": "2005-12-13",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9ad265ea358b01a188ca",
+        "ofa": {},
+        "positionAbsolute": 164,
+        "positionCourse": 164,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 16.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-11-21",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "1c1e41ac25107e2d4979",
+        "ofa": {},
+        "positionAbsolute": 165,
+        "positionCourse": 165,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 30.00,
+          "Elaborato": 14.00,
+          "Lettera Motivazionale": 16.00
+        }
+      },
+      {
+        "birthDate": "2006-01-10",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "064fe5535c821bdba136",
+        "ofa": {},
+        "positionAbsolute": 166,
+        "positionCourse": 166,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 29.00,
+          "Elaborato": 17.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2004-08-19",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "3fed45f2ae144770fc9c",
+        "ofa": {},
+        "positionAbsolute": 167,
+        "positionCourse": 167,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 26.00,
+          "Elaborato": 20.00,
+          "Lettera Motivazionale": 14.00
+        }
+      },
+      {
+        "birthDate": "2005-11-25",
+        "englishCorrectAnswers": null,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "7e8aec668f8b467b706e",
+        "ofa": {},
+        "positionAbsolute": 168,
+        "positionCourse": 168,
+        "result": 60.00,
+        "sectionsResults": {
+          "Colloquio": 22.00,
+          "Elaborato": 19.00,
+          "Lettera Motivazionale": 19.00
+        }
+      }
+    ],
+    "year": 2024
+  },
+  "byCourse": [
+    {
+      "location": null,
+      "sections": [
+        "Colloquio",
+        "Elaborato",
+        "Lettera Motivazionale"
+      ],
+      "title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Colloquio",
+        "Elaborato",
+        "Lettera Motivazionale"
+      ],
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20006_3ba7_html/2024_20006_generale.html",
+      "rows": [
+        {
+          "birthDate": "2005-09-15",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f0839faad58ed5761747",
+          "ofa": {},
+          "positionAbsolute": 1,
+          "positionCourse": 1,
+          "result": 100.00,
+          "sectionsResults": {
+            "Colloquio": 50.00,
+            "Elaborato": 30.00,
+            "Lettera Motivazionale": 20.00
+          }
+        },
+        {
+          "birthDate": "2005-08-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "12ee0c644ef8c04a7b2d",
+          "ofa": {},
+          "positionAbsolute": 2,
+          "positionCourse": 2,
+          "result": 93.00,
+          "sectionsResults": {
+            "Colloquio": 49.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 20.00
+          }
+        },
+        {
+          "birthDate": "1999-08-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "0601d0e5bce1abfae2dc",
+          "ofa": {},
+          "positionAbsolute": 3,
+          "positionCourse": 3,
+          "result": 92.00,
+          "sectionsResults": {
+            "Colloquio": 49.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-04-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e12857c625c2e0f06637",
+          "ofa": {},
+          "positionAbsolute": 4,
+          "positionCourse": 4,
+          "result": 92.00,
+          "sectionsResults": {
+            "Colloquio": 48.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2003-02-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f489dc8a1f12acef0103",
+          "ofa": {},
+          "positionAbsolute": 5,
+          "positionCourse": 5,
+          "result": 92.00,
+          "sectionsResults": {
+            "Colloquio": 44.00,
+            "Elaborato": 28.00,
+            "Lettera Motivazionale": 20.00
+          }
+        },
+        {
+          "birthDate": "2004-09-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "093069b640b5a0e9a977",
+          "ofa": {},
+          "positionAbsolute": 6,
+          "positionCourse": 6,
+          "result": 90.00,
+          "sectionsResults": {
+            "Colloquio": 50.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "1967-09-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b6597d05984fec11e0ed",
+          "ofa": {},
+          "positionAbsolute": 7,
+          "positionCourse": 7,
+          "result": 90.00,
+          "sectionsResults": {
+            "Colloquio": 48.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2004-05-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "fe5501801c9a6b6f89a6",
+          "ofa": {},
+          "positionAbsolute": 8,
+          "positionCourse": 8,
+          "result": 90.00,
+          "sectionsResults": {
+            "Colloquio": 46.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 20.00
+          }
+        },
+        {
+          "birthDate": "2005-09-15",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e318e74f3f5907c3734c",
+          "ofa": {},
+          "positionAbsolute": 9,
+          "positionCourse": 9,
+          "result": 90.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 27.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-02-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7629d3544ca2b4671e89",
+          "ofa": {},
+          "positionAbsolute": 10,
+          "positionCourse": 10,
+          "result": 89.00,
+          "sectionsResults": {
+            "Colloquio": 46.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2006-01-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "343699c88749cb8a0623",
+          "ofa": {},
+          "positionAbsolute": 11,
+          "positionCourse": 11,
+          "result": 89.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 19.00
+          }
+        },
+        {
+          "birthDate": "2006-10-03",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7180c9e88dcf96051ef2",
+          "ofa": {},
+          "positionAbsolute": 12,
+          "positionCourse": 12,
+          "result": 88.00,
+          "sectionsResults": {
+            "Colloquio": 49.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-01-12",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "914e33b740a7fb3cd287",
+          "ofa": {},
+          "positionAbsolute": 13,
+          "positionCourse": 13,
+          "result": 88.00,
+          "sectionsResults": {
+            "Colloquio": 47.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-03-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "df3936a69bd5b3e7a53c",
+          "ofa": {},
+          "positionAbsolute": 14,
+          "positionCourse": 14,
+          "result": 88.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-07-07",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "274974e21d37bfa9298d",
+          "ofa": {},
+          "positionAbsolute": 15,
+          "positionCourse": 15,
+          "result": 88.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 27.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2006-02-01",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d9a37c9040c93c91d152",
+          "ofa": {},
+          "positionAbsolute": 16,
+          "positionCourse": 16,
+          "result": 87.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-02-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7bd5199eb47309d0909d",
+          "ofa": {},
+          "positionAbsolute": 17,
+          "positionCourse": 17,
+          "result": 87.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2003-12-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "582e4d38b62356694886",
+          "ofa": {},
+          "positionAbsolute": 18,
+          "positionCourse": 18,
+          "result": 87.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-05-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "8f49a920ac26e1f0e992",
+          "ofa": {},
+          "positionAbsolute": 19,
+          "positionCourse": 19,
+          "result": 86.00,
+          "sectionsResults": {
+            "Colloquio": 47.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-01-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "c07ccc33476a896ce026",
+          "ofa": {},
+          "positionAbsolute": 20,
+          "positionCourse": 20,
+          "result": 86.00,
+          "sectionsResults": {
+            "Colloquio": 47.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-03-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7d54bd9ff3cf8464d368",
+          "ofa": {},
+          "positionAbsolute": 21,
+          "positionCourse": 21,
+          "result": 86.00,
+          "sectionsResults": {
+            "Colloquio": 46.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-12-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "bf31fb5f2e263ec50165",
+          "ofa": {},
+          "positionAbsolute": 22,
+          "positionCourse": 22,
+          "result": 86.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-02-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "73776a8b913d64941b79",
+          "ofa": {},
+          "positionAbsolute": 23,
+          "positionCourse": 23,
+          "result": 86.00,
+          "sectionsResults": {
+            "Colloquio": 44.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2004-11-03",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f9ae3b09dc2a662519b1",
+          "ofa": {},
+          "positionAbsolute": 24,
+          "positionCourse": 24,
+          "result": 85.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3638ed2d9b221e058871",
+          "ofa": {},
+          "positionAbsolute": 25,
+          "positionCourse": 25,
+          "result": 85.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2002-11-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "6a6b020b081fe9fc7d6f",
+          "ofa": {},
+          "positionAbsolute": 26,
+          "positionCourse": 26,
+          "result": 85.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 19.00
+          }
+        },
+        {
+          "birthDate": "2005-09-11",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "fc0f9ff10e1ac174a2ee",
+          "ofa": {},
+          "positionAbsolute": 27,
+          "positionCourse": 27,
+          "result": 85.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 28.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-07-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "26bc7ed0d97cdb09f0a5",
+          "ofa": {},
+          "positionAbsolute": 28,
+          "positionCourse": 28,
+          "result": 84.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-07-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "593d2e992faac2729861",
+          "ofa": {},
+          "positionAbsolute": 29,
+          "positionCourse": 29,
+          "result": 84.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-09-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "6f21bdb804004b7161c4",
+          "ofa": {},
+          "positionAbsolute": 30,
+          "positionCourse": 30,
+          "result": 83.00,
+          "sectionsResults": {
+            "Colloquio": 46.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-09-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "5c124ff39c45b0c8126b",
+          "ofa": {},
+          "positionAbsolute": 31,
+          "positionCourse": 31,
+          "result": 83.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-12-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "96cd9ddd600e0307e090",
+          "ofa": {},
+          "positionAbsolute": 32,
+          "positionCourse": 32,
+          "result": 83.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-05-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "1534d5b2a6f8e2ff5036",
+          "ofa": {},
+          "positionAbsolute": 33,
+          "positionCourse": 33,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "be79706a09762ae9ba8f",
+          "ofa": {},
+          "positionAbsolute": 34,
+          "positionCourse": 34,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-05-12",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "03bc3972740edb6a3581",
+          "ofa": {},
+          "positionAbsolute": 35,
+          "positionCourse": 35,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-12-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "2d870b1d83d1bd54542b",
+          "ofa": {},
+          "positionAbsolute": 36,
+          "positionCourse": 36,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 25.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-09-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "a82d42a4de4f959c1ae2",
+          "ofa": {},
+          "positionAbsolute": 37,
+          "positionCourse": 37,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-07-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3398eb09256e6c05863e",
+          "ofa": {},
+          "positionAbsolute": 38,
+          "positionCourse": 38,
+          "result": 82.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 19.00
+          }
+        },
+        {
+          "birthDate": "2004-02-25",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "c2ce97f92fe8f302b8ea",
+          "ofa": {},
+          "positionAbsolute": 39,
+          "positionCourse": 39,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e292ba4b3186ebb75207",
+          "ofa": {},
+          "positionAbsolute": 40,
+          "positionCourse": 40,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-11-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b0abc838bd5adc663d5d",
+          "ofa": {},
+          "positionAbsolute": 41,
+          "positionCourse": 41,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-12-07",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "32b973435f519e0f8644",
+          "ofa": {},
+          "positionAbsolute": 42,
+          "positionCourse": 42,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "8078e3bc2c8db1fd6e27",
+          "ofa": {},
+          "positionAbsolute": 43,
+          "positionCourse": 43,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2003-03-31",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "a94036eb4ea7f48038f6",
+          "ofa": {},
+          "positionAbsolute": 44,
+          "positionCourse": 44,
+          "result": 81.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2006-08-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7284504fcce4087da0b2",
+          "ofa": {},
+          "positionAbsolute": 45,
+          "positionCourse": 45,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-06-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "0daedff6bd8d833f4d74",
+          "ofa": {},
+          "positionAbsolute": 46,
+          "positionCourse": 46,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-08-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "cf2c488476856b424a80",
+          "ofa": {},
+          "positionAbsolute": 47,
+          "positionCourse": 47,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-02-24",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7e8b4030bc071780e23d",
+          "ofa": {},
+          "positionAbsolute": 48,
+          "positionCourse": 48,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2003-12-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "a8405cf18d0cb308180b",
+          "ofa": {},
+          "positionAbsolute": 49,
+          "positionCourse": 49,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-04-09",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "2b364d4656a74da0974d",
+          "ofa": {},
+          "positionAbsolute": 50,
+          "positionCourse": 50,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 26.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-05-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "54a94d251f6347b0dd89",
+          "ofa": {},
+          "positionAbsolute": 51,
+          "positionCourse": 51,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-04-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b1986e9e07ffd6ea233b",
+          "ofa": {},
+          "positionAbsolute": 52,
+          "positionCourse": 52,
+          "result": 80.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 18.00
+          }
+        },
+        {
+          "birthDate": "2005-12-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b3ef1daab4142c5dbff3",
+          "ofa": {},
+          "positionAbsolute": 53,
+          "positionCourse": 53,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-10-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "5cc64d471b983fdf3d8d",
+          "ofa": {},
+          "positionAbsolute": 54,
+          "positionCourse": 54,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-02-17",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "529a5c1906a664ceb757",
+          "ofa": {},
+          "positionAbsolute": 55,
+          "positionCourse": 55,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-11-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "39ea74557f070a969787",
+          "ofa": {},
+          "positionAbsolute": 56,
+          "positionCourse": 56,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-04-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "0426a1c1d4a61d8bf9de",
+          "ofa": {},
+          "positionAbsolute": 57,
+          "positionCourse": 57,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2006-01-17",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f728f37532d6fb3bd0fa",
+          "ofa": {},
+          "positionAbsolute": 58,
+          "positionCourse": 58,
+          "result": 79.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-12-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "801252f8d8d9d9a9da6b",
+          "ofa": {},
+          "positionAbsolute": 59,
+          "positionCourse": 59,
+          "result": 78.00,
+          "sectionsResults": {
+            "Colloquio": 50.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 8.00
+          }
+        },
+        {
+          "birthDate": "2005-03-01",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "40b01862005a23cca563",
+          "ofa": {},
+          "positionAbsolute": 60,
+          "positionCourse": 60,
+          "result": 78.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-01-09",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "fed6401cf73517774754",
+          "ofa": {},
+          "positionAbsolute": 61,
+          "positionCourse": 61,
+          "result": 78.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-01-04",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d5706b8c82687ac02663",
+          "ofa": {},
+          "positionAbsolute": 62,
+          "positionCourse": 62,
+          "result": 78.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-12-02",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "a5eace1a832af583f8b0",
+          "ofa": {},
+          "positionAbsolute": 63,
+          "positionCourse": 63,
+          "result": 77.00,
+          "sectionsResults": {
+            "Colloquio": 44.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-05-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "8db798dcecdb0f4431fe",
+          "ofa": {},
+          "positionAbsolute": 64,
+          "positionCourse": 64,
+          "result": 77.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-03-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "ad9b475e1a6c3a73ecf5",
+          "ofa": {},
+          "positionAbsolute": 65,
+          "positionCourse": 65,
+          "result": 77.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-03-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "72e5b2ae404ce80f7786",
+          "ofa": {},
+          "positionAbsolute": 66,
+          "positionCourse": 66,
+          "result": 77.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-06-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "1e7ecee70791988834a9",
+          "ofa": {},
+          "positionAbsolute": 67,
+          "positionCourse": 67,
+          "result": 77.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2006-02-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e1b2a6260046d57d2bbd",
+          "ofa": {},
+          "positionAbsolute": 68,
+          "positionCourse": 68,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 45.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-04-17",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "317884c00bfe4d70e346",
+          "ofa": {},
+          "positionAbsolute": 69,
+          "positionCourse": 69,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 43.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-03-05",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "5428867703f7d88203b4",
+          "ofa": {},
+          "positionAbsolute": 70,
+          "positionCourse": 70,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-09-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "435e03dbbaf9bb58505c",
+          "ofa": {},
+          "positionAbsolute": 71,
+          "positionCourse": 71,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-03-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "fbfd66b55aaad8cb0bb8",
+          "ofa": {},
+          "positionAbsolute": 72,
+          "positionCourse": 72,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-01-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "aadebaebb3f0d813cdbc",
+          "ofa": {},
+          "positionAbsolute": 73,
+          "positionCourse": 73,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2002-06-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b18e803ef3cf5fe4688f",
+          "ofa": {},
+          "positionAbsolute": 74,
+          "positionCourse": 74,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-12-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f3365e19b7c06fa485d6",
+          "ofa": {},
+          "positionAbsolute": 75,
+          "positionCourse": 75,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-03-03",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "5db57d81698d57a30e15",
+          "ofa": {},
+          "positionAbsolute": 76,
+          "positionCourse": 76,
+          "result": 76.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "bb6607dc6f8ec7ae15b5",
+          "ofa": {},
+          "positionAbsolute": 77,
+          "positionCourse": 77,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-10-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3198fa9d0e5ed480ab68",
+          "ofa": {},
+          "positionAbsolute": 78,
+          "positionCourse": 78,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-09-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "ded7c95df38afad81684",
+          "ofa": {},
+          "positionAbsolute": 79,
+          "positionCourse": 79,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-07-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "63c84dc1f96330b44ca1",
+          "ofa": {},
+          "positionAbsolute": 80,
+          "positionCourse": 80,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-06-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f904e63980ebf1c14fcf",
+          "ofa": {},
+          "positionAbsolute": 81,
+          "positionCourse": 81,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-10-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "38d0d7ec818ba9800436",
+          "ofa": {},
+          "positionAbsolute": 82,
+          "positionCourse": 82,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-08-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b18780deee524ac5032e",
+          "ofa": {},
+          "positionAbsolute": 83,
+          "positionCourse": 83,
+          "result": 75.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-10-31",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7467542ed8ed609054c7",
+          "ofa": {},
+          "positionAbsolute": 84,
+          "positionCourse": 84,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 44.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-12-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "467752ba7eaba0e9b026",
+          "ofa": {},
+          "positionAbsolute": 85,
+          "positionCourse": 85,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-10-09",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f280902c00dc1d08ba97",
+          "ofa": {},
+          "positionAbsolute": 86,
+          "positionCourse": 86,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-07-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "63981b9504a3fffd4a60",
+          "ofa": {},
+          "positionAbsolute": 87,
+          "positionCourse": 87,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2006-01-05",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "86ce1f4126e577404d94",
+          "ofa": {},
+          "positionAbsolute": 88,
+          "positionCourse": 88,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-04-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "b465fc4e0dd1bf1cceec",
+          "ofa": {},
+          "positionAbsolute": 89,
+          "positionCourse": 89,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-11-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "34379f24807604c26f0e",
+          "ofa": {},
+          "positionAbsolute": 90,
+          "positionCourse": 90,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2003-04-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "4dc40e7ae24291056461",
+          "ofa": {},
+          "positionAbsolute": 91,
+          "positionCourse": 91,
+          "result": 74.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-11-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d303d4c214c64ca37313",
+          "ofa": {},
+          "positionAbsolute": 92,
+          "positionCourse": 92,
+          "result": 73.00,
+          "sectionsResults": {
+            "Colloquio": 40.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-07-05",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d5079a3703ba1f144380",
+          "ofa": {},
+          "positionAbsolute": 93,
+          "positionCourse": 93,
+          "result": 73.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-03-31",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "51c8821eaff743e72185",
+          "ofa": {},
+          "positionAbsolute": 94,
+          "positionCourse": 94,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-01-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3c028e90c0f2e53d56c7",
+          "ofa": {},
+          "positionAbsolute": 95,
+          "positionCourse": 95,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-07-12",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3df0dc556e95c0e72ae6",
+          "ofa": {},
+          "positionAbsolute": 96,
+          "positionCourse": 96,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2003-09-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "883b63ef5255b7377b9d",
+          "ofa": {},
+          "positionAbsolute": 97,
+          "positionCourse": 97,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2003-01-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "1fdd4ae630be8b23238a",
+          "ofa": {},
+          "positionAbsolute": 98,
+          "positionCourse": 98,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-07-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "dab92fb26099cdfb4a7c",
+          "ofa": {},
+          "positionAbsolute": 99,
+          "positionCourse": 99,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-09-11",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "c8ffd048c38bc57f1073",
+          "ofa": {},
+          "positionAbsolute": 100,
+          "positionCourse": 100,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 35.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-04-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "fa2090611e2c985cb208",
+          "ofa": {},
+          "positionAbsolute": 101,
+          "positionCourse": 101,
+          "result": 72.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-12-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "893dafcb5729f04cc7e2",
+          "ofa": {},
+          "positionAbsolute": 102,
+          "positionCourse": 102,
+          "result": 71.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2001-11-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "c9b8e0002a6792fcb79d",
+          "ofa": {},
+          "positionAbsolute": 103,
+          "positionCourse": 103,
+          "result": 71.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2006-02-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "3c81a479070ee5731e27",
+          "ofa": {},
+          "positionAbsolute": 104,
+          "positionCourse": 104,
+          "result": 71.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-02-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e49cb31f34e16fa0aec1",
+          "ofa": {},
+          "positionAbsolute": 105,
+          "positionCourse": 105,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 42.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 11.00
+          }
+        },
+        {
+          "birthDate": "2004-09-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "7784e2d916fc166af5ba",
+          "ofa": {},
+          "positionAbsolute": 106,
+          "positionCourse": 106,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 41.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 11.00
+          }
+        },
+        {
+          "birthDate": "2005-01-17",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "f0f8b606dcdb27b6f744",
+          "ofa": {},
+          "positionAbsolute": 107,
+          "positionCourse": 107,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-04-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "9176a5e735834a3540c3",
+          "ofa": {},
+          "positionAbsolute": 108,
+          "positionCourse": 108,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-01-05",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "a6ef140234b2228aa12f",
+          "ofa": {},
+          "positionAbsolute": 109,
+          "positionCourse": 109,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-08-05",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "235d55e0c7bb6fc7b650",
+          "ofa": {},
+          "positionAbsolute": 110,
+          "positionCourse": 110,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 37.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-12-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "011f3785f7d48d164963",
+          "ofa": {},
+          "positionAbsolute": 111,
+          "positionCourse": 111,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 35.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-09-29",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "8afb186c6acc8dc4f327",
+          "ofa": {},
+          "positionAbsolute": 112,
+          "positionCourse": 112,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 35.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-09-25",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d6a1e0035c96e724e107",
+          "ofa": {},
+          "positionAbsolute": 113,
+          "positionCourse": 113,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-04-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "39634762ae6ad7304032",
+          "ofa": {},
+          "positionAbsolute": 114,
+          "positionCourse": 114,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2000-11-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "e584f7035c8a847ffbd3",
+          "ofa": {},
+          "positionAbsolute": 115,
+          "positionCourse": 115,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-09-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "d7498e9403814e3ab48c",
+          "ofa": {},
+          "positionAbsolute": 116,
+          "positionCourse": 116,
+          "result": 70.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-12-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "0f38dc8a0a3911067797",
+          "ofa": {},
+          "positionAbsolute": 117,
+          "positionCourse": 117,
+          "result": 69.00,
+          "sectionsResults": {
+            "Colloquio": 39.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2002-01-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "960424379c4d9f317ade",
+          "ofa": {},
+          "positionAbsolute": 118,
+          "positionCourse": 118,
+          "result": 69.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-03-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "c417f2a0bd17993055b0",
+          "ofa": {},
+          "positionAbsolute": 119,
+          "positionCourse": 119,
+          "result": 68.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-02-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "0b716eafe925afc57dbd",
+          "ofa": {},
+          "positionAbsolute": 120,
+          "positionCourse": 120,
+          "result": 68.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-11-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "6601034f27a48e9ead8c",
+          "ofa": {},
+          "positionAbsolute": 121,
+          "positionCourse": 121,
+          "result": 68.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-09-16",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "eb9ae9e7fb39af172422",
+          "ofa": {},
+          "positionAbsolute": 122,
+          "positionCourse": 122,
+          "result": 68.00,
+          "sectionsResults": {
+            "Colloquio": 31.00,
+            "Elaborato": 22.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2004-12-11",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "4c8cf5f9f400f35f2395",
+          "ofa": {},
+          "positionAbsolute": 123,
+          "positionCourse": 123,
+          "result": 67.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-09-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "317b5d306a610579d2bf",
+          "ofa": {},
+          "positionAbsolute": 124,
+          "positionCourse": 124,
+          "result": 67.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-05-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+            "type": "Assegnato"
+          },
+          "id": "af3bdfd6d165a0c9a1d4",
+          "ofa": {},
+          "positionAbsolute": 125,
+          "positionCourse": 125,
+          "result": 66.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-02-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "18ff9c2e6e04fae66d7f",
+          "ofa": {},
+          "positionAbsolute": 126,
+          "positionCourse": 126,
+          "result": 66.00,
+          "sectionsResults": {
+            "Colloquio": 33.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-06-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "00b812a0bf6c4743f274",
+          "ofa": {},
+          "positionAbsolute": 127,
+          "positionCourse": 127,
+          "result": 66.00,
+          "sectionsResults": {
+            "Colloquio": 32.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-04-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "4db09ee5426610934ffc",
+          "ofa": {},
+          "positionAbsolute": 128,
+          "positionCourse": 128,
+          "result": 66.00,
+          "sectionsResults": {
+            "Colloquio": 32.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-08-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2627743967233c823a2a",
+          "ofa": {},
+          "positionAbsolute": 129,
+          "positionCourse": 129,
+          "result": 66.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 23.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-11-24",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9c5f0321b0aa81a11b76",
+          "ofa": {},
+          "positionAbsolute": 130,
+          "positionCourse": 130,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-12-07",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "d86de768b62e56ffebd0",
+          "ofa": {},
+          "positionAbsolute": 131,
+          "positionCourse": 131,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 15.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-05-11",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "034b9f358d85ae198e8a",
+          "ofa": {},
+          "positionAbsolute": 132,
+          "positionCourse": 132,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 35.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-09-30",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "d9069368b10497662a25",
+          "ofa": {},
+          "positionAbsolute": 133,
+          "positionCourse": 133,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-05-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "744d94bf2862f048a321",
+          "ofa": {},
+          "positionAbsolute": 134,
+          "positionCourse": 134,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2004-04-08",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1bea1f154d4324b42935",
+          "ofa": {},
+          "positionAbsolute": 135,
+          "positionCourse": 135,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 33.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-08-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "34bfd0b1358bfb08a002",
+          "ofa": {},
+          "positionAbsolute": 136,
+          "positionCourse": 136,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 31.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-03-04",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "6ac881e177b3e9a12132",
+          "ofa": {},
+          "positionAbsolute": 137,
+          "positionCourse": 137,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 31.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-09-26",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "119e8666c434e716d4c8",
+          "ofa": {},
+          "positionAbsolute": 138,
+          "positionCourse": 138,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-03-31",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9d6fb7b2595196f9e615",
+          "ofa": {},
+          "positionAbsolute": 139,
+          "positionCourse": 139,
+          "result": 65.00,
+          "sectionsResults": {
+            "Colloquio": 29.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2003-04-15",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "31515239d177860cce75",
+          "ofa": {},
+          "positionAbsolute": 140,
+          "positionCourse": 140,
+          "result": 64.00,
+          "sectionsResults": {
+            "Colloquio": 38.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-07-17",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1efb9645091b1574991b",
+          "ofa": {},
+          "positionAbsolute": 141,
+          "positionCourse": 141,
+          "result": 64.00,
+          "sectionsResults": {
+            "Colloquio": 35.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-07-04",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "031eb7f6bdbc15cec701",
+          "ofa": {},
+          "positionAbsolute": 142,
+          "positionCourse": 142,
+          "result": 64.00,
+          "sectionsResults": {
+            "Colloquio": 23.00,
+            "Elaborato": 24.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-02-25",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "b5a292cdbe52102e1762",
+          "ofa": {},
+          "positionAbsolute": 143,
+          "positionCourse": 143,
+          "result": 63.00,
+          "sectionsResults": {
+            "Colloquio": 36.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 11.00
+          }
+        },
+        {
+          "birthDate": "2005-07-27",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "851b0215b80d04a45e3a",
+          "ofa": {},
+          "positionAbsolute": 144,
+          "positionCourse": 144,
+          "result": 63.00,
+          "sectionsResults": {
+            "Colloquio": 33.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-11-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "5cdac3ba547ed775f0b4",
+          "ofa": {},
+          "positionAbsolute": 145,
+          "positionCourse": 145,
+          "result": 63.00,
+          "sectionsResults": {
+            "Colloquio": 31.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2005-07-14",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "b1f5450cafc94a63f8dc",
+          "ofa": {},
+          "positionAbsolute": 146,
+          "positionCourse": 146,
+          "result": 63.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2006-03-28",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "5fbc67a7f9ea4315e997",
+          "ofa": {},
+          "positionAbsolute": 147,
+          "positionCourse": 147,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-09-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "70426dd54cdaeb53f4d6",
+          "ofa": {},
+          "positionAbsolute": 148,
+          "positionCourse": 148,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 33.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2003-03-20",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "c68ecea4172a947bb79f",
+          "ofa": {},
+          "positionAbsolute": 149,
+          "positionCourse": 149,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 32.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2004-06-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "e38e465a66c145340f74",
+          "ofa": {},
+          "positionAbsolute": 150,
+          "positionCourse": 150,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 31.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2002-11-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "3787c8c3d11c1f83a792",
+          "ofa": {},
+          "positionAbsolute": 151,
+          "positionCourse": 151,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 13.00
+          }
+        },
+        {
+          "birthDate": "2004-02-23",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "4894fdd869d95f8c3335",
+          "ofa": {},
+          "positionAbsolute": 152,
+          "positionCourse": 152,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 15.00
+          }
+        },
+        {
+          "birthDate": "2005-12-07",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "3b9d828762f65206856c",
+          "ofa": {},
+          "positionAbsolute": 153,
+          "positionCourse": 153,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 28.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-05-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "75b87280fb03108adf9f",
+          "ofa": {},
+          "positionAbsolute": 154,
+          "positionCourse": 154,
+          "result": 62.00,
+          "sectionsResults": {
+            "Colloquio": 28.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 17.00
+          }
+        },
+        {
+          "birthDate": "2005-02-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "31e03d1e8b04881721ce",
+          "ofa": {},
+          "positionAbsolute": 155,
+          "positionCourse": 155,
+          "result": 61.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 15.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-02-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "adf18029dd0de26eefcb",
+          "ofa": {},
+          "positionAbsolute": 156,
+          "positionCourse": 156,
+          "result": 61.00,
+          "sectionsResults": {
+            "Colloquio": 32.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-05-18",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "ae3d980cba04970f37dd",
+          "ofa": {},
+          "positionAbsolute": 157,
+          "positionCourse": 157,
+          "result": 61.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2006-10-06",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "70e3c1483e94742370e8",
+          "ofa": {},
+          "positionAbsolute": 158,
+          "positionCourse": 158,
+          "result": 61.00,
+          "sectionsResults": {
+            "Colloquio": 27.00,
+            "Elaborato": 18.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2005-11-22",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "598ebc0bc7c39c09cc5f",
+          "ofa": {},
+          "positionAbsolute": 159,
+          "positionCourse": 159,
+          "result": 61.00,
+          "sectionsResults": {
+            "Colloquio": 24.00,
+            "Elaborato": 21.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2002-09-03",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9c598f99e3bbf2b426ae",
+          "ofa": {},
+          "positionAbsolute": 160,
+          "positionCourse": 160,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "1995-11-25",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "3429c020b6767807e902",
+          "ofa": {},
+          "positionAbsolute": 161,
+          "positionCourse": 161,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 34.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-07-15",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9d8295ed79c1e6f32d27",
+          "ofa": {},
+          "positionAbsolute": 162,
+          "positionCourse": 162,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 32.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 12.00
+          }
+        },
+        {
+          "birthDate": "2005-06-09",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "dba1db942884cd7b4699",
+          "ofa": {},
+          "positionAbsolute": 163,
+          "positionCourse": 163,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 10.00
+          }
+        },
+        {
+          "birthDate": "2005-12-13",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9ad265ea358b01a188ca",
+          "ofa": {},
+          "positionAbsolute": 164,
+          "positionCourse": 164,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 16.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-11-21",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1c1e41ac25107e2d4979",
+          "ofa": {},
+          "positionAbsolute": 165,
+          "positionCourse": 165,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 30.00,
+            "Elaborato": 14.00,
+            "Lettera Motivazionale": 16.00
+          }
+        },
+        {
+          "birthDate": "2006-01-10",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "064fe5535c821bdba136",
+          "ofa": {},
+          "positionAbsolute": 166,
+          "positionCourse": 166,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 29.00,
+            "Elaborato": 17.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2004-08-19",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "3fed45f2ae144770fc9c",
+          "ofa": {},
+          "positionAbsolute": 167,
+          "positionCourse": 167,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 26.00,
+            "Elaborato": 20.00,
+            "Lettera Motivazionale": 14.00
+          }
+        },
+        {
+          "birthDate": "2005-11-25",
+          "englishCorrectAnswers": null,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "7e8aec668f8b467b706e",
+          "ofa": {},
+          "positionAbsolute": 168,
+          "positionCourse": 168,
+          "result": 60.00,
+          "sectionsResults": {
+            "Colloquio": 22.00,
+            "Elaborato": 19.00,
+            "Lettera Motivazionale": 19.00
+          }
+        }
+      ],
+      "year": 2024
+    }
+  ]
+}

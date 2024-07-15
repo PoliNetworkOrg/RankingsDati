@@ -4065,6 +4065,22 @@
       "year": 2024
     },
     {
+      "basePath": "Urbanistica/2024/",
+      "id": "URB_2024_1fase_1grad_ita",
+      "link": "URB_2024_1fase_1grad_ita.json",
+      "location": null,
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Prima Fase",
+        "primary": 1,
+        "secondary": 1
+      },
+      "school": "Urbanistica",
+      "year": 2024
+    },
+    {
       "basePath": "Design/2024/",
       "id": "DES_2024_1grad_eng",
       "link": "DES_2024_1grad_eng.json",
@@ -12944,6 +12960,28 @@
             }
           ]
         }
+      },
+      "2024": {
+        "URBANISTICA: CITTA' AMBIENTE PAESAGGIO": {
+          "0": [
+            {
+              "basePath": "Urbanistica/2024/",
+              "id": "URB_2024_1fase_1grad_ita",
+              "link": "URB_2024_1fase_1grad_ita.json",
+              "location": null,
+              "rankingOrder": {
+                "isAnticipata": false,
+                "isEnglish": false,
+                "isExtraEu": false,
+                "phase": "Prima Graduatoria Di Prima Fase",
+                "primary": 1,
+                "secondary": 1
+              },
+              "school": "Urbanistica",
+              "year": 2024
+            }
+          ]
+        }
       }
     },
     "Architettura": {
@@ -16357,5 +16395,5 @@
       }
     }
   },
-  "lastUpdate": "2024-07-08T17:06:29.22856Z"
+  "lastUpdate": "2024-07-15T09:07:57.2659865Z"
 }
