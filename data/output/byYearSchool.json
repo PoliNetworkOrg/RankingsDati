@@ -1202,6 +1202,22 @@
     },
     {
       "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_2fase_2grad_ita_extraeu",
+      "link": "ENG_2024_2fase_2grad_ita_extraeu.json",
+      "location": "MILANO BOVISA",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Seconda Graduatoria Di Seconda Fase",
+        "primary": 2,
+        "secondary": 2
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
+      "basePath": "Ingegneria/2024/",
       "id": "ENG_2024_2fase_2grad_ita",
       "link": "ENG_2024_2fase_2grad_ita.json",
       "location": "MILANO BOVISA",
@@ -2670,6 +2686,22 @@
         },
         {
           "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_2fase_2grad_ita_extraeu",
+          "link": "ENG_2024_2fase_2grad_ita_extraeu.json",
+          "location": "MILANO BOVISA",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
+            "phase": "Seconda Graduatoria Di Seconda Fase",
+            "primary": 2,
+            "secondary": 2
+          },
+          "school": "Ingegneria",
+          "year": 2024
+        },
+        {
+          "basePath": "Ingegneria/2024/",
           "id": "ENG_2024_2fase_3grad_eng_extraeu",
           "link": "ENG_2024_2fase_3grad_eng_extraeu.json",
           "location": "MILANO LEONARDO",
@@ -2867,5 +2899,5 @@
       ]
     }
   },
-  "lastUpdate": "2024-07-22T09:08:15.1020926Z"
+  "lastUpdate": "2024-07-23T14:06:53.9837608Z"
 }
