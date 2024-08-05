@@ -1281,6 +1281,22 @@
       "year": 2024
     },
     {
+      "basePath": "Ingegneria/2024/",
+      "id": "ENG_2024_3fase_1grad_ita",
+      "link": "ENG_2024_3fase_1grad_ita.json",
+      "location": "MILANO LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "primary": 3,
+        "secondary": 1
+      },
+      "school": "Ingegneria",
+      "year": 2024
+    },
+    {
       "basePath": "Urbanistica/2024/",
       "id": "URB_2024_1fase_1grad_ita",
       "link": "URB_2024_1fase_1grad_ita.json",
@@ -2808,6 +2824,22 @@
             "phase": "Quinta Graduatoria Di Seconda Fase",
             "primary": 2,
             "secondary": 5
+          },
+          "school": "Ingegneria",
+          "year": 2024
+        },
+        {
+          "basePath": "Ingegneria/2024/",
+          "id": "ENG_2024_3fase_1grad_ita",
+          "link": "ENG_2024_3fase_1grad_ita.json",
+          "location": "MILANO LEONARDO",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
+            "phase": "Prima Graduatoria Di Terza Fase",
+            "primary": 3,
+            "secondary": 1
           },
           "school": "Ingegneria",
           "year": 2024

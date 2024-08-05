@@ -255,6 +255,34 @@
       }
     ]
   },
+  "190be544e4ee94d8ec35": {
+    "id": "190be544e4ee94d8ec35",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA MATEMATICA",
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      }
+    ]
+  },
   "190c80dd754b364c798d": {
     "id": "190c80dd754b364c798d",
     "inMeritTable": true,
@@ -1745,6 +1773,16 @@
       },
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Quinta Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -1782,6 +1820,16 @@
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
         },
         "year": 2024
       },
