@@ -1271,6 +1271,16 @@
       },
       {
         "course": null,
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": null,
         "phase": "Quinta Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -1393,6 +1403,16 @@
       },
       {
         "course": "INGEGNERIA GESTIONALE",
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA GESTIONALE",
         "phase": "Quinta Graduatoria Di Seconda Fase",
         "school": "Ingegneria",
         "url": {
@@ -1438,6 +1458,16 @@
         "url": {
           "pageEnum": 1,
           "url": "https://www.risultati-ammissione.polimi.it/2024_20064_3a62_html/2024_20064_generale.html"
+        },
+        "year": 2024
+      },
+      {
+        "course": "INGEGNERIA MECCANICA",
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
         },
         "year": 2024
       },
@@ -4602,6 +4632,34 @@
           "url": "http://www.risultati-ammissione.polimi.it/2022_20005_fg14_html/2022_20005_generale.html"
         },
         "year": 2022
+      }
+    ]
+  },
+  "5882d397e54c11a2e3fc": {
+    "id": "5882d397e54c11a2e3fc",
+    "inMeritTable": true,
+    "rankingSummaries": [
+      {
+        "course": null,
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
+      }
+    ],
+    "singleCourseJsons": [
+      {
+        "course": "INGEGNERIA INFORMATICA",
+        "phase": "Prima Graduatoria Di Terza Fase",
+        "school": "Ingegneria",
+        "url": {
+          "pageEnum": 1,
+          "url": "https://www.risultati-ammissione.polimi.it/2024_20094_2c5b_html/2024_20094_generale.html"
+        },
+        "year": 2024
       }
     ]
   },
