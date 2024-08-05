@@ -1,5 +1,5 @@
 {
-  "numStudents": 14658,
+  "numStudents": 18655,
   "schools": {
     "Ingegneria": {
       "list": [
@@ -11951,6 +11951,1633 @@
         }
       ],
       "numStudents": 188
+    },
+    "Architettura": {
+      "list": [
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_eng",
+            "link": "ARC_2024_1grad_eng.json",
+            "location": "MI LEONARDO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": true,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.92118,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 38.345,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 5.46611,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.30610,
+                  "Disegno e Rappresentazione": 7.54593,
+                  "Fisica e Matematica": 3.21386,
+                  "Ragionamento Logico": 3.92620
+                },
+                "averageScoresOfAllStudents": 23.45821,
+                "howManyCanEnroll": 50,
+                "howManyOfa": {},
+                "howManyStudents": 664,
+                "location": "MI LEONARDO",
+                "minScoreToEnroll": 34.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              },
+              {
+                "averageBirthYear": 2004.98496,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 34.475,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 5.25543,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 2.86902,
+                  "Disegno e Rappresentazione": 7.58641,
+                  "Fisica e Matematica": 2.99457,
+                  "Ragionamento Logico": 3.68587
+                },
+                "averageScoresOfAllStudents": 22.39130,
+                "howManyCanEnroll": 10,
+                "howManyOfa": {},
+                "howManyStudents": 460,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 34.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              }
+            ],
+            "howManyCanEnroll": 60,
+            "howManyStudents": 673,
+            "resultsSummarized": {
+              "-4": 1,
+              "0": 1,
+              "2": 1,
+              "3": 1,
+              "4": 1,
+              "5": 1,
+              "6": 3,
+              "7": 5,
+              "8": 4,
+              "9": 7,
+              "10": 6,
+              "11": 12,
+              "12": 17,
+              "13": 5,
+              "14": 23,
+              "15": 15,
+              "16": 29,
+              "17": 16,
+              "18": 35,
+              "19": 22,
+              "20": 44,
+              "21": 16,
+              "22": 39,
+              "23": 25,
+              "24": 45,
+              "25": 25,
+              "26": 36,
+              "27": 27,
+              "28": 43,
+              "29": 20,
+              "30": 25,
+              "31": 12,
+              "32": 20,
+              "33": 18,
+              "34": 21,
+              "35": 12,
+              "36": 10,
+              "37": 4,
+              "38": 5,
+              "39": 8,
+              "40": 2,
+              "41": 4,
+              "42": 1,
+              "44": 1,
+              "45": 3,
+              "46": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_eng",
+            "link": "ARC_2024_1grad_eng.json",
+            "location": "PIACENZA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": true,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.92118,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 38.345,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 5.46611,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.30610,
+                  "Disegno e Rappresentazione": 7.54593,
+                  "Fisica e Matematica": 3.21386,
+                  "Ragionamento Logico": 3.92620
+                },
+                "averageScoresOfAllStudents": 23.45821,
+                "howManyCanEnroll": 50,
+                "howManyOfa": {},
+                "howManyStudents": 664,
+                "location": "MI LEONARDO",
+                "minScoreToEnroll": 34.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              },
+              {
+                "averageBirthYear": 2004.98496,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 34.475,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 5.25543,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 2.86902,
+                  "Disegno e Rappresentazione": 7.58641,
+                  "Fisica e Matematica": 2.99457,
+                  "Ragionamento Logico": 3.68587
+                },
+                "averageScoresOfAllStudents": 22.39130,
+                "howManyCanEnroll": 10,
+                "howManyOfa": {},
+                "howManyStudents": 460,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 34.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              }
+            ],
+            "howManyCanEnroll": 60,
+            "howManyStudents": 673,
+            "resultsSummarized": {
+              "-4": 1,
+              "0": 1,
+              "2": 1,
+              "3": 1,
+              "4": 1,
+              "5": 1,
+              "6": 3,
+              "7": 5,
+              "8": 4,
+              "9": 7,
+              "10": 6,
+              "11": 12,
+              "12": 17,
+              "13": 5,
+              "14": 23,
+              "15": 15,
+              "16": 29,
+              "17": 16,
+              "18": 35,
+              "19": 22,
+              "20": 44,
+              "21": 16,
+              "22": 39,
+              "23": 25,
+              "24": 45,
+              "25": 25,
+              "26": 36,
+              "27": 27,
+              "28": 43,
+              "29": 20,
+              "30": 25,
+              "31": 12,
+              "32": 20,
+              "33": 18,
+              "34": 21,
+              "35": 12,
+              "36": 10,
+              "37": 4,
+              "38": 5,
+              "39": 8,
+              "40": 2,
+              "41": 4,
+              "42": 1,
+              "44": 1,
+              "45": 3,
+              "46": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_eng_extraeu",
+            "link": "ARC_2024_1grad_eng_extraeu.json",
+            "location": "MI LEONARDO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": true,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.79983,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 42.075,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.49020,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.46045,
+                  "Disegno e Rappresentazione": 6.91473,
+                  "Fisica e Matematica": 4.04064,
+                  "Ragionamento Logico": 4.03374
+                },
+                "averageScoresOfAllStudents": 22.93977,
+                "howManyCanEnroll": 50,
+                "howManyOfa": {},
+                "howManyStudents": 689,
+                "location": "MI LEONARDO",
+                "minScoreToEnroll": 37.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              },
+              {
+                "averageBirthYear": 2004.79463,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 37.825,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.24661,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.20720,
+                  "Disegno e Rappresentazione": 6.92034,
+                  "Fisica e Matematica": 3.84534,
+                  "Ragionamento Logico": 3.91949
+                },
+                "averageScoresOfAllStudents": 22.13898,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {},
+                "howManyStudents": 590,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 34.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              }
+            ],
+            "howManyCanEnroll": 90,
+            "howManyStudents": 707,
+            "resultsSummarized": {
+              "-1": 2,
+              "0": 1,
+              "1": 2,
+              "3": 2,
+              "4": 4,
+              "5": 3,
+              "6": 5,
+              "7": 1,
+              "8": 14,
+              "9": 13,
+              "10": 18,
+              "11": 12,
+              "12": 17,
+              "13": 11,
+              "14": 24,
+              "15": 21,
+              "16": 26,
+              "17": 21,
+              "18": 33,
+              "19": 28,
+              "20": 33,
+              "21": 22,
+              "22": 28,
+              "23": 19,
+              "24": 43,
+              "25": 17,
+              "26": 33,
+              "27": 20,
+              "28": 41,
+              "29": 16,
+              "30": 37,
+              "31": 16,
+              "32": 9,
+              "33": 9,
+              "34": 12,
+              "35": 7,
+              "36": 14,
+              "37": 10,
+              "38": 14,
+              "39": 4,
+              "40": 8,
+              "41": 9,
+              "42": 4,
+              "43": 1,
+              "44": 3,
+              "45": 8,
+              "46": 8,
+              "48": 3,
+              "49": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_eng_extraeu",
+            "link": "ARC_2024_1grad_eng_extraeu.json",
+            "location": "PIACENZA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": true,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.79983,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 42.075,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.49020,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.46045,
+                  "Disegno e Rappresentazione": 6.91473,
+                  "Fisica e Matematica": 4.04064,
+                  "Ragionamento Logico": 4.03374
+                },
+                "averageScoresOfAllStudents": 22.93977,
+                "howManyCanEnroll": 50,
+                "howManyOfa": {},
+                "howManyStudents": 689,
+                "location": "MI LEONARDO",
+                "minScoreToEnroll": 37.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              },
+              {
+                "averageBirthYear": 2004.79463,
+                "averageEnglishCorrectAnswers": null,
+                "averageOfWhoPassed": 37.825,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.24661,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.20720,
+                  "Disegno e Rappresentazione": 6.92034,
+                  "Fisica e Matematica": 3.84534,
+                  "Ragionamento Logico": 3.91949
+                },
+                "averageScoresOfAllStudents": 22.13898,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {},
+                "howManyStudents": 590,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 34.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH"
+              }
+            ],
+            "howManyCanEnroll": 90,
+            "howManyStudents": 707,
+            "resultsSummarized": {
+              "-1": 2,
+              "0": 1,
+              "1": 2,
+              "3": 2,
+              "4": 4,
+              "5": 3,
+              "6": 5,
+              "7": 1,
+              "8": 14,
+              "9": 13,
+              "10": 18,
+              "11": 12,
+              "12": 17,
+              "13": 11,
+              "14": 24,
+              "15": 21,
+              "16": 26,
+              "17": 21,
+              "18": 33,
+              "19": 28,
+              "20": 33,
+              "21": 22,
+              "22": 28,
+              "23": 19,
+              "24": 43,
+              "25": 17,
+              "26": 33,
+              "27": 20,
+              "28": 41,
+              "29": 16,
+              "30": 37,
+              "31": 16,
+              "32": 9,
+              "33": 9,
+              "34": 12,
+              "35": 7,
+              "36": 14,
+              "37": 10,
+              "38": 14,
+              "39": 4,
+              "40": 8,
+              "41": 9,
+              "42": 4,
+              "43": 1,
+              "44": 3,
+              "45": 8,
+              "46": 8,
+              "48": 3,
+              "49": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita",
+            "link": "ARC_2024_1grad_ita.json",
+            "location": "LECCO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.95321,
+                "averageEnglishCorrectAnswers": 20.65604,
+                "averageOfWhoPassed": 30.48,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.91209,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.14286,
+                  "Disegno e Rappresentazione": 6.43159,
+                  "Fisica e Matematica": 1.95275,
+                  "Ragionamento Logico": 3.67747
+                },
+                "averageScoresOfAllStudents": 20.11676,
+                "howManyCanEnroll": 125,
+                "howManyOfa": {
+                  "ENG": 538
+                },
+                "howManyStudents": 910,
+                "location": "LECCO",
+                "minScoreToEnroll": 25.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.81822,
+                "averageEnglishCorrectAnswers": 20.44549,
+                "averageOfWhoPassed": 29.76389,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.86748,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.21992,
+                  "Disegno e Rappresentazione": 6.37265,
+                  "Fisica e Matematica": 1.65296,
+                  "Ragionamento Logico": 3.54817
+                },
+                "averageScoresOfAllStudents": 19.66118,
+                "howManyCanEnroll": 90,
+                "howManyOfa": {
+                  "ENG": 647
+                },
+                "howManyStudents": 1064,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 25.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.83725,
+                "averageEnglishCorrectAnswers": 21.46549,
+                "averageOfWhoPassed": 31.72785,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.45244,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.81158,
+                  "Disegno e Rappresentazione": 6.86066,
+                  "Fisica e Matematica": 2.56870,
+                  "Ragionamento Logico": 4.27998
+                },
+                "averageScoresOfAllStudents": 22.97336,
+                "howManyCanEnroll": 745,
+                "howManyOfa": {
+                  "ENG": 1232
+                },
+                "howManyStudents": 2318,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 26.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.88337,
+                "averageEnglishCorrectAnswers": 20.23956,
+                "averageOfWhoPassed": 27.80,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.74826,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.04896,
+                  "Disegno e Rappresentazione": 6.28902,
+                  "Fisica e Matematica": 1.48608,
+                  "Ragionamento Logico": 3.46968
+                },
+                "averageScoresOfAllStudents": 19.04200,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {
+                  "ENG": 620
+                },
+                "howManyStudents": 1006,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 25.25,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 1000,
+            "howManyStudents": 2578,
+            "resultsSummarized": {
+              "-1": 1,
+              "2": 2,
+              "3": 1,
+              "4": 3,
+              "5": 9,
+              "6": 9,
+              "7": 3,
+              "8": 25,
+              "9": 12,
+              "10": 30,
+              "11": 31,
+              "12": 67,
+              "13": 37,
+              "14": 84,
+              "15": 71,
+              "16": 135,
+              "17": 66,
+              "18": 145,
+              "19": 83,
+              "20": 148,
+              "21": 110,
+              "22": 165,
+              "23": 85,
+              "24": 143,
+              "25": 109,
+              "26": 133,
+              "27": 90,
+              "28": 133,
+              "29": 70,
+              "30": 102,
+              "31": 62,
+              "32": 84,
+              "33": 37,
+              "34": 75,
+              "35": 41,
+              "36": 48,
+              "37": 28,
+              "38": 21,
+              "39": 12,
+              "40": 31,
+              "41": 9,
+              "42": 17,
+              "43": 4,
+              "44": 3,
+              "45": 1,
+              "46": 2,
+              "47": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita",
+            "link": "ARC_2024_1grad_ita.json",
+            "location": "MANTOVA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.95321,
+                "averageEnglishCorrectAnswers": 20.65604,
+                "averageOfWhoPassed": 30.48,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.91209,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.14286,
+                  "Disegno e Rappresentazione": 6.43159,
+                  "Fisica e Matematica": 1.95275,
+                  "Ragionamento Logico": 3.67747
+                },
+                "averageScoresOfAllStudents": 20.11676,
+                "howManyCanEnroll": 125,
+                "howManyOfa": {
+                  "ENG": 538
+                },
+                "howManyStudents": 910,
+                "location": "LECCO",
+                "minScoreToEnroll": 25.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.81822,
+                "averageEnglishCorrectAnswers": 20.44549,
+                "averageOfWhoPassed": 29.76389,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.86748,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.21992,
+                  "Disegno e Rappresentazione": 6.37265,
+                  "Fisica e Matematica": 1.65296,
+                  "Ragionamento Logico": 3.54817
+                },
+                "averageScoresOfAllStudents": 19.66118,
+                "howManyCanEnroll": 90,
+                "howManyOfa": {
+                  "ENG": 647
+                },
+                "howManyStudents": 1064,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 25.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.83725,
+                "averageEnglishCorrectAnswers": 21.46549,
+                "averageOfWhoPassed": 31.72785,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.45244,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.81158,
+                  "Disegno e Rappresentazione": 6.86066,
+                  "Fisica e Matematica": 2.56870,
+                  "Ragionamento Logico": 4.27998
+                },
+                "averageScoresOfAllStudents": 22.97336,
+                "howManyCanEnroll": 745,
+                "howManyOfa": {
+                  "ENG": 1232
+                },
+                "howManyStudents": 2318,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 26.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.88337,
+                "averageEnglishCorrectAnswers": 20.23956,
+                "averageOfWhoPassed": 27.80,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.74826,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.04896,
+                  "Disegno e Rappresentazione": 6.28902,
+                  "Fisica e Matematica": 1.48608,
+                  "Ragionamento Logico": 3.46968
+                },
+                "averageScoresOfAllStudents": 19.04200,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {
+                  "ENG": 620
+                },
+                "howManyStudents": 1006,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 25.25,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 1000,
+            "howManyStudents": 2578,
+            "resultsSummarized": {
+              "-1": 1,
+              "2": 2,
+              "3": 1,
+              "4": 3,
+              "5": 9,
+              "6": 9,
+              "7": 3,
+              "8": 25,
+              "9": 12,
+              "10": 30,
+              "11": 31,
+              "12": 67,
+              "13": 37,
+              "14": 84,
+              "15": 71,
+              "16": 135,
+              "17": 66,
+              "18": 145,
+              "19": 83,
+              "20": 148,
+              "21": 110,
+              "22": 165,
+              "23": 85,
+              "24": 143,
+              "25": 109,
+              "26": 133,
+              "27": 90,
+              "28": 133,
+              "29": 70,
+              "30": 102,
+              "31": 62,
+              "32": 84,
+              "33": 37,
+              "34": 75,
+              "35": 41,
+              "36": 48,
+              "37": 28,
+              "38": 21,
+              "39": 12,
+              "40": 31,
+              "41": 9,
+              "42": 17,
+              "43": 4,
+              "44": 3,
+              "45": 1,
+              "46": 2,
+              "47": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita",
+            "link": "ARC_2024_1grad_ita.json",
+            "location": "MILANO LEONARDO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.95321,
+                "averageEnglishCorrectAnswers": 20.65604,
+                "averageOfWhoPassed": 30.48,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.91209,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.14286,
+                  "Disegno e Rappresentazione": 6.43159,
+                  "Fisica e Matematica": 1.95275,
+                  "Ragionamento Logico": 3.67747
+                },
+                "averageScoresOfAllStudents": 20.11676,
+                "howManyCanEnroll": 125,
+                "howManyOfa": {
+                  "ENG": 538
+                },
+                "howManyStudents": 910,
+                "location": "LECCO",
+                "minScoreToEnroll": 25.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.81822,
+                "averageEnglishCorrectAnswers": 20.44549,
+                "averageOfWhoPassed": 29.76389,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.86748,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.21992,
+                  "Disegno e Rappresentazione": 6.37265,
+                  "Fisica e Matematica": 1.65296,
+                  "Ragionamento Logico": 3.54817
+                },
+                "averageScoresOfAllStudents": 19.66118,
+                "howManyCanEnroll": 90,
+                "howManyOfa": {
+                  "ENG": 647
+                },
+                "howManyStudents": 1064,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 25.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.83725,
+                "averageEnglishCorrectAnswers": 21.46549,
+                "averageOfWhoPassed": 31.72785,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.45244,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.81158,
+                  "Disegno e Rappresentazione": 6.86066,
+                  "Fisica e Matematica": 2.56870,
+                  "Ragionamento Logico": 4.27998
+                },
+                "averageScoresOfAllStudents": 22.97336,
+                "howManyCanEnroll": 745,
+                "howManyOfa": {
+                  "ENG": 1232
+                },
+                "howManyStudents": 2318,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 26.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.88337,
+                "averageEnglishCorrectAnswers": 20.23956,
+                "averageOfWhoPassed": 27.80,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.74826,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.04896,
+                  "Disegno e Rappresentazione": 6.28902,
+                  "Fisica e Matematica": 1.48608,
+                  "Ragionamento Logico": 3.46968
+                },
+                "averageScoresOfAllStudents": 19.04200,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {
+                  "ENG": 620
+                },
+                "howManyStudents": 1006,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 25.25,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 1000,
+            "howManyStudents": 2578,
+            "resultsSummarized": {
+              "-1": 1,
+              "2": 2,
+              "3": 1,
+              "4": 3,
+              "5": 9,
+              "6": 9,
+              "7": 3,
+              "8": 25,
+              "9": 12,
+              "10": 30,
+              "11": 31,
+              "12": 67,
+              "13": 37,
+              "14": 84,
+              "15": 71,
+              "16": 135,
+              "17": 66,
+              "18": 145,
+              "19": 83,
+              "20": 148,
+              "21": 110,
+              "22": 165,
+              "23": 85,
+              "24": 143,
+              "25": 109,
+              "26": 133,
+              "27": 90,
+              "28": 133,
+              "29": 70,
+              "30": 102,
+              "31": 62,
+              "32": 84,
+              "33": 37,
+              "34": 75,
+              "35": 41,
+              "36": 48,
+              "37": 28,
+              "38": 21,
+              "39": 12,
+              "40": 31,
+              "41": 9,
+              "42": 17,
+              "43": 4,
+              "44": 3,
+              "45": 1,
+              "46": 2,
+              "47": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita",
+            "link": "ARC_2024_1grad_ita.json",
+            "location": "PIACENZA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": false,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2004.95321,
+                "averageEnglishCorrectAnswers": 20.65604,
+                "averageOfWhoPassed": 30.48,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.91209,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.14286,
+                  "Disegno e Rappresentazione": 6.43159,
+                  "Fisica e Matematica": 1.95275,
+                  "Ragionamento Logico": 3.67747
+                },
+                "averageScoresOfAllStudents": 20.11676,
+                "howManyCanEnroll": 125,
+                "howManyOfa": {
+                  "ENG": 538
+                },
+                "howManyStudents": 910,
+                "location": "LECCO",
+                "minScoreToEnroll": 25.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.81822,
+                "averageEnglishCorrectAnswers": 20.44549,
+                "averageOfWhoPassed": 29.76389,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.86748,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.21992,
+                  "Disegno e Rappresentazione": 6.37265,
+                  "Fisica e Matematica": 1.65296,
+                  "Ragionamento Logico": 3.54817
+                },
+                "averageScoresOfAllStudents": 19.66118,
+                "howManyCanEnroll": 90,
+                "howManyOfa": {
+                  "ENG": 647
+                },
+                "howManyStudents": 1064,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 25.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.83725,
+                "averageEnglishCorrectAnswers": 21.46549,
+                "averageOfWhoPassed": 31.72785,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 4.45244,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.81158,
+                  "Disegno e Rappresentazione": 6.86066,
+                  "Fisica e Matematica": 2.56870,
+                  "Ragionamento Logico": 4.27998
+                },
+                "averageScoresOfAllStudents": 22.97336,
+                "howManyCanEnroll": 745,
+                "howManyOfa": {
+                  "ENG": 1232
+                },
+                "howManyStudents": 2318,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 26.00,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.88337,
+                "averageEnglishCorrectAnswers": 20.23956,
+                "averageOfWhoPassed": 27.80,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.74826,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.04896,
+                  "Disegno e Rappresentazione": 6.28902,
+                  "Fisica e Matematica": 1.48608,
+                  "Ragionamento Logico": 3.46968
+                },
+                "averageScoresOfAllStudents": 19.04200,
+                "howManyCanEnroll": 40,
+                "howManyOfa": {
+                  "ENG": 620
+                },
+                "howManyStudents": 1006,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 25.25,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 1000,
+            "howManyStudents": 2578,
+            "resultsSummarized": {
+              "-1": 1,
+              "2": 2,
+              "3": 1,
+              "4": 3,
+              "5": 9,
+              "6": 9,
+              "7": 3,
+              "8": 25,
+              "9": 12,
+              "10": 30,
+              "11": 31,
+              "12": 67,
+              "13": 37,
+              "14": 84,
+              "15": 71,
+              "16": 135,
+              "17": 66,
+              "18": 145,
+              "19": 83,
+              "20": 148,
+              "21": 110,
+              "22": 165,
+              "23": 85,
+              "24": 143,
+              "25": 109,
+              "26": 133,
+              "27": 90,
+              "28": 133,
+              "29": 70,
+              "30": 102,
+              "31": 62,
+              "32": 84,
+              "33": 37,
+              "34": 75,
+              "35": 41,
+              "36": 48,
+              "37": 28,
+              "38": 21,
+              "39": 12,
+              "40": 31,
+              "41": 9,
+              "42": 17,
+              "43": 4,
+              "44": 3,
+              "45": 1,
+              "46": 2,
+              "47": 1
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita_extraeu",
+            "link": "ARC_2024_1grad_ita_extraeu.json",
+            "location": "LECCO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.55128,
+                "averageEnglishCorrectAnswers": 21.15385,
+                "averageOfWhoPassed": 32.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 1.82692,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+                  "Disegno e Rappresentazione": 5.63462,
+                  "Fisica e Matematica": 4.65385,
+                  "Ragionamento Logico": 2.92308
+                },
+                "averageScoresOfAllStudents": 18.78846,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 6
+                },
+                "howManyStudents": 13,
+                "location": "LECCO",
+                "minScoreToEnroll": 26.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.23684,
+                "averageEnglishCorrectAnswers": 22.84211,
+                "averageOfWhoPassed": 34.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.11842,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.18421,
+                  "Disegno e Rappresentazione": 6.01316,
+                  "Fisica e Matematica": 5.22368,
+                  "Ragionamento Logico": 3.44737
+                },
+                "averageScoresOfAllStudents": 20.98684,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 8
+                },
+                "howManyStudents": 19,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 31.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.30303,
+                "averageEnglishCorrectAnswers": 22.18182,
+                "averageOfWhoPassed": 43.35,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.30303,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 5.09091,
+                  "Disegno e Rappresentazione": 6.45455,
+                  "Fisica e Matematica": 6.06061,
+                  "Ragionamento Logico": 4.71970
+                },
+                "averageScoresOfAllStudents": 25.62879,
+                "howManyCanEnroll": 5,
+                "howManyOfa": {
+                  "ENG": 13
+                },
+                "howManyStudents": 33,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 37.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.84195,
+                "averageEnglishCorrectAnswers": 22.82759,
+                "averageOfWhoPassed": 31.0625,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.35345,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.54310,
+                  "Disegno e Rappresentazione": 6.30172,
+                  "Fisica e Matematica": 5.65517,
+                  "Ragionamento Logico": 4.22414
+                },
+                "averageScoresOfAllStudents": 23.07759,
+                "howManyCanEnroll": 12,
+                "howManyOfa": {
+                  "ENG": 11
+                },
+                "howManyStudents": 29,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 27.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 21,
+            "howManyStudents": 39,
+            "resultsSummarized": {
+              "5": 1,
+              "9": 1,
+              "12": 1,
+              "13": 1,
+              "14": 1,
+              "15": 2,
+              "16": 1,
+              "18": 1,
+              "19": 2,
+              "20": 1,
+              "21": 1,
+              "22": 2,
+              "25": 2,
+              "26": 1,
+              "28": 4,
+              "29": 1,
+              "30": 1,
+              "31": 2,
+              "32": 3,
+              "33": 1,
+              "36": 1,
+              "38": 2,
+              "39": 1,
+              "40": 1,
+              "42": 1,
+              "44": 1,
+              "48": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita_extraeu",
+            "link": "ARC_2024_1grad_ita_extraeu.json",
+            "location": "MANTOVA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.55128,
+                "averageEnglishCorrectAnswers": 21.15385,
+                "averageOfWhoPassed": 32.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 1.82692,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+                  "Disegno e Rappresentazione": 5.63462,
+                  "Fisica e Matematica": 4.65385,
+                  "Ragionamento Logico": 2.92308
+                },
+                "averageScoresOfAllStudents": 18.78846,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 6
+                },
+                "howManyStudents": 13,
+                "location": "LECCO",
+                "minScoreToEnroll": 26.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.23684,
+                "averageEnglishCorrectAnswers": 22.84211,
+                "averageOfWhoPassed": 34.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.11842,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.18421,
+                  "Disegno e Rappresentazione": 6.01316,
+                  "Fisica e Matematica": 5.22368,
+                  "Ragionamento Logico": 3.44737
+                },
+                "averageScoresOfAllStudents": 20.98684,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 8
+                },
+                "howManyStudents": 19,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 31.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.30303,
+                "averageEnglishCorrectAnswers": 22.18182,
+                "averageOfWhoPassed": 43.35,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.30303,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 5.09091,
+                  "Disegno e Rappresentazione": 6.45455,
+                  "Fisica e Matematica": 6.06061,
+                  "Ragionamento Logico": 4.71970
+                },
+                "averageScoresOfAllStudents": 25.62879,
+                "howManyCanEnroll": 5,
+                "howManyOfa": {
+                  "ENG": 13
+                },
+                "howManyStudents": 33,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 37.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.84195,
+                "averageEnglishCorrectAnswers": 22.82759,
+                "averageOfWhoPassed": 31.0625,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.35345,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.54310,
+                  "Disegno e Rappresentazione": 6.30172,
+                  "Fisica e Matematica": 5.65517,
+                  "Ragionamento Logico": 4.22414
+                },
+                "averageScoresOfAllStudents": 23.07759,
+                "howManyCanEnroll": 12,
+                "howManyOfa": {
+                  "ENG": 11
+                },
+                "howManyStudents": 29,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 27.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 21,
+            "howManyStudents": 39,
+            "resultsSummarized": {
+              "5": 1,
+              "9": 1,
+              "12": 1,
+              "13": 1,
+              "14": 1,
+              "15": 2,
+              "16": 1,
+              "18": 1,
+              "19": 2,
+              "20": 1,
+              "21": 1,
+              "22": 2,
+              "25": 2,
+              "26": 1,
+              "28": 4,
+              "29": 1,
+              "30": 1,
+              "31": 2,
+              "32": 3,
+              "33": 1,
+              "36": 1,
+              "38": 2,
+              "39": 1,
+              "40": 1,
+              "42": 1,
+              "44": 1,
+              "48": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita_extraeu",
+            "link": "ARC_2024_1grad_ita_extraeu.json",
+            "location": "MILANO LEONARDO",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.55128,
+                "averageEnglishCorrectAnswers": 21.15385,
+                "averageOfWhoPassed": 32.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 1.82692,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+                  "Disegno e Rappresentazione": 5.63462,
+                  "Fisica e Matematica": 4.65385,
+                  "Ragionamento Logico": 2.92308
+                },
+                "averageScoresOfAllStudents": 18.78846,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 6
+                },
+                "howManyStudents": 13,
+                "location": "LECCO",
+                "minScoreToEnroll": 26.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.23684,
+                "averageEnglishCorrectAnswers": 22.84211,
+                "averageOfWhoPassed": 34.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.11842,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.18421,
+                  "Disegno e Rappresentazione": 6.01316,
+                  "Fisica e Matematica": 5.22368,
+                  "Ragionamento Logico": 3.44737
+                },
+                "averageScoresOfAllStudents": 20.98684,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 8
+                },
+                "howManyStudents": 19,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 31.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.30303,
+                "averageEnglishCorrectAnswers": 22.18182,
+                "averageOfWhoPassed": 43.35,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.30303,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 5.09091,
+                  "Disegno e Rappresentazione": 6.45455,
+                  "Fisica e Matematica": 6.06061,
+                  "Ragionamento Logico": 4.71970
+                },
+                "averageScoresOfAllStudents": 25.62879,
+                "howManyCanEnroll": 5,
+                "howManyOfa": {
+                  "ENG": 13
+                },
+                "howManyStudents": 33,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 37.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.84195,
+                "averageEnglishCorrectAnswers": 22.82759,
+                "averageOfWhoPassed": 31.0625,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.35345,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.54310,
+                  "Disegno e Rappresentazione": 6.30172,
+                  "Fisica e Matematica": 5.65517,
+                  "Ragionamento Logico": 4.22414
+                },
+                "averageScoresOfAllStudents": 23.07759,
+                "howManyCanEnroll": 12,
+                "howManyOfa": {
+                  "ENG": 11
+                },
+                "howManyStudents": 29,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 27.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 21,
+            "howManyStudents": 39,
+            "resultsSummarized": {
+              "5": 1,
+              "9": 1,
+              "12": 1,
+              "13": 1,
+              "14": 1,
+              "15": 2,
+              "16": 1,
+              "18": 1,
+              "19": 2,
+              "20": 1,
+              "21": 1,
+              "22": 2,
+              "25": 2,
+              "26": 1,
+              "28": 4,
+              "29": 1,
+              "30": 1,
+              "31": 2,
+              "32": 3,
+              "33": 1,
+              "36": 1,
+              "38": 2,
+              "39": 1,
+              "40": 1,
+              "42": 1,
+              "44": 1,
+              "48": 2
+            }
+          }
+        },
+        {
+          "singleCourseJson": {
+            "basePath": "Architettura/2024/",
+            "id": "ARC_2024_1grad_ita_extraeu",
+            "link": "ARC_2024_1grad_ita_extraeu.json",
+            "location": "PIACENZA",
+            "rankingOrder": {
+              "isAnticipata": false,
+              "isEnglish": false,
+              "isExtraEu": true,
+              "phase": "Prima Graduatoria",
+              "primary": null,
+              "secondary": 1
+            },
+            "school": "Architettura",
+            "year": 2024
+          },
+          "stats": {
+            "courseSummarized": [
+              {
+                "averageBirthYear": 2003.55128,
+                "averageEnglishCorrectAnswers": 21.15385,
+                "averageOfWhoPassed": 32.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 1.82692,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+                  "Disegno e Rappresentazione": 5.63462,
+                  "Fisica e Matematica": 4.65385,
+                  "Ragionamento Logico": 2.92308
+                },
+                "averageScoresOfAllStudents": 18.78846,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 6
+                },
+                "howManyStudents": 13,
+                "location": "LECCO",
+                "minScoreToEnroll": 26.25,
+                "title": "INGEGNERIA EDILE - ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2004.23684,
+                "averageEnglishCorrectAnswers": 22.84211,
+                "averageOfWhoPassed": 34.50,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.11842,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.18421,
+                  "Disegno e Rappresentazione": 6.01316,
+                  "Fisica e Matematica": 5.22368,
+                  "Ragionamento Logico": 3.44737
+                },
+                "averageScoresOfAllStudents": 20.98684,
+                "howManyCanEnroll": 2,
+                "howManyOfa": {
+                  "ENG": 8
+                },
+                "howManyStudents": 19,
+                "location": "MANTOVA",
+                "minScoreToEnroll": 31.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.30303,
+                "averageEnglishCorrectAnswers": 22.18182,
+                "averageOfWhoPassed": 43.35,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 3.30303,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 5.09091,
+                  "Disegno e Rappresentazione": 6.45455,
+                  "Fisica e Matematica": 6.06061,
+                  "Ragionamento Logico": 4.71970
+                },
+                "averageScoresOfAllStudents": 25.62879,
+                "howManyCanEnroll": 5,
+                "howManyOfa": {
+                  "ENG": 13
+                },
+                "howManyStudents": 33,
+                "location": "MILANO LEONARDO",
+                "minScoreToEnroll": 37.75,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              },
+              {
+                "averageBirthYear": 2003.84195,
+                "averageEnglishCorrectAnswers": 22.82759,
+                "averageOfWhoPassed": 31.0625,
+                "averagePartialScores": {
+                  "Comprensione del Testo": 2.35345,
+                  "Conoscenze acquisite negli studi, storia e cultura generale": 4.54310,
+                  "Disegno e Rappresentazione": 6.30172,
+                  "Fisica e Matematica": 5.65517,
+                  "Ragionamento Logico": 4.22414
+                },
+                "averageScoresOfAllStudents": 23.07759,
+                "howManyCanEnroll": 12,
+                "howManyOfa": {
+                  "ENG": 11
+                },
+                "howManyStudents": 29,
+                "location": "PIACENZA",
+                "minScoreToEnroll": 27.50,
+                "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+              }
+            ],
+            "howManyCanEnroll": 21,
+            "howManyStudents": 39,
+            "resultsSummarized": {
+              "5": 1,
+              "9": 1,
+              "12": 1,
+              "13": 1,
+              "14": 1,
+              "15": 2,
+              "16": 1,
+              "18": 1,
+              "19": 2,
+              "20": 1,
+              "21": 1,
+              "22": 2,
+              "25": 2,
+              "26": 1,
+              "28": 4,
+              "29": 1,
+              "30": 1,
+              "31": 2,
+              "32": 3,
+              "33": 1,
+              "36": 1,
+              "38": 2,
+              "39": 1,
+              "40": 1,
+              "42": 1,
+              "44": 1,
+              "48": 2
+            }
+          }
+        }
+      ],
+      "numStudents": 3997
     },
     "Design": {
       "list": [
