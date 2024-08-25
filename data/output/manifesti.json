@@ -1,29 +1,235 @@
 {
+  "Laurea a Ciclo Unico": {
+    "Ingegneria Edile - Architettura": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1144"
+    }
+  },
   "Laurea di Primo Livello": {
-    "Architettura Ambientale": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1108"
+    "Design degli Interni": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1087"
     },
-    "Edilizia": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1103"
+    "Design del Prodotto Industriale": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1090"
     },
-    "Pianificazione Territoriale Urbanistica e Ambientale": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1104"
+    "Design della Comunicazione": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1088"
     },
-    "Scienze dell'Architettura": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1105"
+    "Design della Moda": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1089"
+    },
+    "Ingegneria Aerospaziale": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=350"
+    },
+    "Ingegneria Biomedica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=363"
+    },
+    "Ingegneria Chimica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=347"
+    },
+    "Ingegneria Civile": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=503"
+    },
+    "Ingegneria Civile per La Mitigazione del Rischio": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=306"
+    },
+    "Ingegneria dei Materiali e delle Nanotecnologie": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=348"
+    },
+    "Ingegneria dell'Automazione": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=355"
+    },
+    "Ingegneria della Produzione Industriale": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=367",
+      "Xi'An": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=367"
+    },
+    "Ingegneria Edile e delle Costruzioni": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=497"
+    },
+    "Ingegneria Elettrica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=349"
+    },
+    "Ingegneria Elettronica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=357"
+    },
+    "Ingegneria Energetica": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=352"
+    },
+    "Ingegneria Fisica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=366"
+    },
+    "Ingegneria Gestionale": {
+      "Cremona": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=368",
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=394"
+    },
+    "Ingegneria Informatica": {
+      "Cremona": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=358",
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=358"
+    },
+    "Ingegneria Matematica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=365"
+    },
+    "Ingegneria Meccanica": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=353",
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=354"
+    },
+    "Ingegneria per l'Ambiente e il Territorio": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=346"
+    },
+    "Interaction Design": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1014"
+    },
+    "Progettazione dell'Architettura": {
+      "Mantova": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1094",
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1094",
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1094"
+    },
+    "Urbanistica: Citta' Ambiente Paesaggio": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1093"
     }
   },
-  "Laurea Specialistica": {
-    "Architettura": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1120"
+  "Laurea Magistrale": {
+    "Aeronautical Engineering - Ingegneria Aeronautica": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=469"
     },
-    "Pianificazione Urbana e Politiche Territoriali": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1122"
-    }
-  },
-  "Scuola di Specializzazione": {
-    "Restauro dei Monumenti": {
-      "DEFAULT": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1257"
+    "Agricultural Engineering": {
+      "Cremona": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=504"
+    },
+    "Architectural Design and History - Progettazione Architettonica e Storia": {
+      "Mantova": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1086"
+    },
+    "Architectural Engineering": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1076"
+    },
+    "Architettura - Ambiente Costruito - Interni - Architecture - Built Environment - Interiors": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1195"
+    },
+    "Architettura - Architettura delle Costruzioni": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1017"
+    },
+    "Architettura e Disegno Urbano - Architecture and Urban Design": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1217"
+    },
+    "Automation and Control Engineering - Ingegneria dell'Automazione": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=473"
+    },
+    "Biomedical Engineering - Ingegneria Biomedica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=471"
+    },
+    "Building and Architectural Engineering": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1095",
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1095"
+    },
+    "Chemical Engineering - Ingegneria Chimica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=472"
+    },
+    "Civil Engineering for Risk Mitigation": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=437"
+    },
+    "Computer Science and Engineering - Ingegneria Informatica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=481"
+    },
+    "Design & Engineering - Progetto e Ingegnerizzazione del Prodotto Industriale": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1091"
+    },
+    "Design della Comunicazione": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1162"
+    },
+    "Design for the Fashion System - Design per il Sistema Moda": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1097"
+    },
+    "Digital and Interaction Design": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1262"
+    },
+    "Electrical Engineering - Ingegneria Elettrica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=475"
+    },
+    "Electronics Engineering - Ingegneria Elettronica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=476"
+    },
+    "Energy Engineering - Ingegneria Energetica": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=477",
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=477"
+    },
+    "Engineering Physics - Ingegneria Fisica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=486"
+    },
+    "Food Engineering": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=498"
+    },
+    "Geoinformatics Engineering - Ingegneria Geoinformatica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=495"
+    },
+    "High Performance Computing Engineering": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=425"
+    },
+    "Industrial Safety and Risk Engineering": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=385"
+    },
+    "Ingegneria Civile - Civil Engineering": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=488"
+    },
+    "Ingegneria dei Sistemi Edilizi": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1142"
+    },
+    "Ingegneria della Prevenzione e della Sicurezza nell'Industria di Processo": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=422"
+    },
+    "Ingegneria Edile per La Sostenibilita'": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1013"
+    },
+    "Ingegneria per l'Ambiente e il Territorio - Environmental and Land Planning Engineering": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=489",
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=489"
+    },
+    "Integrated Product Design": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1261"
+    },
+    "Interior and Spatial Design": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1260"
+    },
+    "Landscape Architecture. Land Landscape Heritage": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1187"
+    },
+    "Management Engineering - Ingegneria Gestionale": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=479"
+    },
+    "Management of Built Environment - Gestione del Costruito": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1096"
+    },
+    "Materials Engineering and Nanotechnology - Ingegneria dei Materiali e delle Nanotecnologie": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=505"
+    },
+    "Mathematical Engineering - Ingegneria Matematica": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=487"
+    },
+    "Mechanical Engineering - Ingegneria Meccanica": {
+      "Lecco": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=485",
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=483",
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=483"
+    },
+    "Mobility Engineering": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=499"
+    },
+    "Music and Acoustic Engineering": {
+      "Cremona": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=263"
+    },
+    "Nuclear Engineering - Ingegneria Nucleare": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=478"
+    },
+    "Product Service System Design - Design per il Sistema Prodotto Servizio": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1159"
+    },
+    "Space Engineering - Ingegneria Spaziale": {
+      "Milano Bovisa": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=470"
+    },
+    "Sustainable Architecture and Landscape Design - Architettura Sostenibile e Progetto del Paesaggio": {
+      "Piacenza": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1085"
+    },
+    "Telecommunication Engineering - Ingegneria delle Telecomunicazioni": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=474"
+    },
+    "Urban Planning and Policy Design - Pianificazione Urbana e Politiche Territoriali": {
+      "Milano Leonardo": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/MostraIndirizziPublic.do?evn_default=EVENTO&k_corso_la=1098"
     }
   }
 }
