@@ -1,0 +1,1610 @@
+{
+  "byCourse": [
+    {
+      "location": "LECCO",
+      "sections": [
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale"
+      ],
+      "title": "INGEGNERIA EDILE - ARCHITETTURA",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale",
+        "Risposte Esatte Inglese",
+        "OFA Inglese"
+      ],
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html",
+      "rows": [
+        {
+          "birthDate": "2005-03-04",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "427e0d9b6659c175c973",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 4,
+          "positionCourse": 1,
+          "result": 25.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+            "Disegno e Rappresentazione": 4.50,
+            "Fisica e Matematica": 4.75,
+            "Ragionamento Logico": 5.75
+          }
+        },
+        {
+          "birthDate": "2006-06-07",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2005881fce7cfd1fbc03",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 6,
+          "positionCourse": 2,
+          "result": 21.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+            "Disegno e Rappresentazione": 10.00,
+            "Fisica e Matematica": 7.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2005-01-17",
+          "englishCorrectAnswers": 27,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "be628f939302b86e816f",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 9,
+          "positionCourse": 3,
+          "result": 18.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.50,
+            "Disegno e Rappresentazione": 6.25,
+            "Fisica e Matematica": 6.75,
+            "Ragionamento Logico": 1.00
+          }
+        },
+        {
+          "birthDate": "2005-12-10",
+          "englishCorrectAnswers": 28,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "7334e28d6c48fc4dd21e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 10,
+          "positionCourse": 4,
+          "result": 17.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 5.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.00,
+            "Disegno e Rappresentazione": 3.25,
+            "Fisica e Matematica": -1.00,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2001-09-09",
+          "englishCorrectAnswers": 21,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "02b5a9b83cb5bae4ef60",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 11,
+          "positionCourse": 5,
+          "result": 15.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 4.50,
+            "Ragionamento Logico": 2.25
+          }
+        },
+        {
+          "birthDate": "2002-05-01",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9ab9d77f5773dfc3f2f7",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 12,
+          "positionCourse": 6,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 2.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.50,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 3.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2005-04-04",
+          "englishCorrectAnswers": 16,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1f003cb50d0b06ee379d",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 14,
+          "positionCourse": 7,
+          "result": 13.25,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 3.00,
+            "Fisica e Matematica": 8.00,
+            "Ragionamento Logico": 3.50
+          }
+        },
+        {
+          "birthDate": "1993-11-08",
+          "englishCorrectAnswers": 10,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "c96d5448c1b13112c6eb",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 15,
+          "positionCourse": 8,
+          "result": 9.00,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 2.50,
+            "Ragionamento Logico": 0.00
+          }
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "location": "MANTOVA",
+      "sections": [
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale"
+      ],
+      "title": "PROGETTAZIONE DELL'ARCHITETTURA",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale",
+        "Risposte Esatte Inglese",
+        "OFA Inglese"
+      ],
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html",
+      "rows": [
+        {
+          "birthDate": "2005-03-04",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "427e0d9b6659c175c973",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 4,
+          "positionCourse": 1,
+          "result": 25.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+            "Disegno e Rappresentazione": 4.50,
+            "Fisica e Matematica": 4.75,
+            "Ragionamento Logico": 5.75
+          }
+        },
+        {
+          "birthDate": "2005-03-07",
+          "englishCorrectAnswers": 26,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "749d7e2445e6ff4604c4",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 5,
+          "positionCourse": 2,
+          "result": 21.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 4.50,
+            "Disegno e Rappresentazione": 6.75,
+            "Fisica e Matematica": 2.75,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2006-06-07",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2005881fce7cfd1fbc03",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 6,
+          "positionCourse": 3,
+          "result": 21.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+            "Disegno e Rappresentazione": 10.00,
+            "Fisica e Matematica": 7.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2004-07-25",
+          "englishCorrectAnswers": 18,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "71a6a2b4bc2dadb05f30",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 8,
+          "positionCourse": 4,
+          "result": 19.25,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.00,
+            "Disegno e Rappresentazione": 7.50,
+            "Fisica e Matematica": 4.25,
+            "Ragionamento Logico": 4.00
+          }
+        },
+        {
+          "birthDate": "2005-01-17",
+          "englishCorrectAnswers": 27,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "be628f939302b86e816f",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 9,
+          "positionCourse": 5,
+          "result": 18.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.50,
+            "Disegno e Rappresentazione": 6.25,
+            "Fisica e Matematica": 6.75,
+            "Ragionamento Logico": 1.00
+          }
+        },
+        {
+          "birthDate": "2005-12-10",
+          "englishCorrectAnswers": 28,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "7334e28d6c48fc4dd21e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 10,
+          "positionCourse": 6,
+          "result": 17.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 5.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.00,
+            "Disegno e Rappresentazione": 3.25,
+            "Fisica e Matematica": -1.00,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2001-09-09",
+          "englishCorrectAnswers": 21,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "02b5a9b83cb5bae4ef60",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 11,
+          "positionCourse": 7,
+          "result": 15.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 4.50,
+            "Ragionamento Logico": 2.25
+          }
+        },
+        {
+          "birthDate": "2005-11-17",
+          "englishCorrectAnswers": 17,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "843b8987b0591e491c0c",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 13,
+          "positionCourse": 8,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 8.75,
+            "Ragionamento Logico": 0.25
+          }
+        },
+        {
+          "birthDate": "2005-04-04",
+          "englishCorrectAnswers": 16,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1f003cb50d0b06ee379d",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 14,
+          "positionCourse": 9,
+          "result": 13.25,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 3.00,
+            "Fisica e Matematica": 8.00,
+            "Ragionamento Logico": 3.50
+          }
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "location": "MILANO LEONARDO",
+      "sections": [
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale"
+      ],
+      "title": "PROGETTAZIONE DELL'ARCHITETTURA",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale",
+        "Risposte Esatte Inglese",
+        "OFA Inglese"
+      ],
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html",
+      "rows": [
+        {
+          "birthDate": "2004-04-14",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9e48820b64dfa5fff5e3",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 1,
+          "positionCourse": 1,
+          "result": 36.50,
+          "sectionsResults": {
+            "Comprensione del Testo": 8.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+            "Disegno e Rappresentazione": 2.75,
+            "Fisica e Matematica": 10.00,
+            "Ragionamento Logico": 6.25
+          }
+        },
+        {
+          "birthDate": "1999-12-01",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2511731d70b874bf384e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 2,
+          "positionCourse": 2,
+          "result": 29.50,
+          "sectionsResults": {
+            "Comprensione del Testo": 7.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 5.50,
+            "Disegno e Rappresentazione": 6.75,
+            "Fisica e Matematica": 3.00,
+            "Ragionamento Logico": 6.75
+          }
+        },
+        {
+          "birthDate": "2005-03-04",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "427e0d9b6659c175c973",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 4,
+          "positionCourse": 3,
+          "result": 25.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+            "Disegno e Rappresentazione": 4.50,
+            "Fisica e Matematica": 4.75,
+            "Ragionamento Logico": 5.75
+          }
+        },
+        {
+          "birthDate": "2005-03-07",
+          "englishCorrectAnswers": 26,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "749d7e2445e6ff4604c4",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 5,
+          "positionCourse": 4,
+          "result": 21.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 4.50,
+            "Disegno e Rappresentazione": 6.75,
+            "Fisica e Matematica": 2.75,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2006-06-07",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2005881fce7cfd1fbc03",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 6,
+          "positionCourse": 5,
+          "result": 21.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+            "Disegno e Rappresentazione": 10.00,
+            "Fisica e Matematica": 7.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2001-08-04",
+          "englishCorrectAnswers": 22,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2c777075e99b7f153e9b",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 7,
+          "positionCourse": 6,
+          "result": 19.50,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 1.50,
+            "Disegno e Rappresentazione": 8.75,
+            "Fisica e Matematica": 6.50,
+            "Ragionamento Logico": 2.25
+          }
+        },
+        {
+          "birthDate": "2004-07-25",
+          "englishCorrectAnswers": 18,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "71a6a2b4bc2dadb05f30",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 8,
+          "positionCourse": 7,
+          "result": 19.25,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.00,
+            "Disegno e Rappresentazione": 7.50,
+            "Fisica e Matematica": 4.25,
+            "Ragionamento Logico": 4.00
+          }
+        },
+        {
+          "birthDate": "2005-01-17",
+          "englishCorrectAnswers": 27,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "be628f939302b86e816f",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 9,
+          "positionCourse": 8,
+          "result": 18.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.50,
+            "Disegno e Rappresentazione": 6.25,
+            "Fisica e Matematica": 6.75,
+            "Ragionamento Logico": 1.00
+          }
+        },
+        {
+          "birthDate": "2005-12-10",
+          "englishCorrectAnswers": 28,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "7334e28d6c48fc4dd21e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 10,
+          "positionCourse": 9,
+          "result": 17.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 5.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.00,
+            "Disegno e Rappresentazione": 3.25,
+            "Fisica e Matematica": -1.00,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2001-09-09",
+          "englishCorrectAnswers": 21,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "02b5a9b83cb5bae4ef60",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 11,
+          "positionCourse": 10,
+          "result": 15.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 4.50,
+            "Ragionamento Logico": 2.25
+          }
+        },
+        {
+          "birthDate": "2002-05-01",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9ab9d77f5773dfc3f2f7",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 12,
+          "positionCourse": 11,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 2.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.50,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 3.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2005-11-17",
+          "englishCorrectAnswers": 17,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "843b8987b0591e491c0c",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 13,
+          "positionCourse": 12,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 8.75,
+            "Ragionamento Logico": 0.25
+          }
+        },
+        {
+          "birthDate": "2005-04-04",
+          "englishCorrectAnswers": 16,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1f003cb50d0b06ee379d",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 14,
+          "positionCourse": 13,
+          "result": 13.25,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 3.00,
+            "Fisica e Matematica": 8.00,
+            "Ragionamento Logico": 3.50
+          }
+        },
+        {
+          "birthDate": "1993-11-08",
+          "englishCorrectAnswers": 10,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "c96d5448c1b13112c6eb",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 15,
+          "positionCourse": 14,
+          "result": 9.00,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 2.50,
+            "Ragionamento Logico": 0.00
+          }
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "location": "PIACENZA",
+      "sections": [
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale"
+      ],
+      "title": "PROGETTAZIONE DELL'ARCHITETTURA",
+      "headers": [
+        "Posizione",
+        "Matricola",
+        "Data di Nascita",
+        "Immat. consentita",
+        "Voto Test",
+        "Ragionamento Logico",
+        "Comprensione del Testo",
+        "Disegno e Rappresentazione",
+        "Fisica e Matematica",
+        "Conoscenze acquisite negli studi, storia e cultura generale",
+        "Risposte Esatte Inglese",
+        "OFA Inglese"
+      ],
+      "path": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html",
+      "rows": [
+        {
+          "birthDate": "1999-12-01",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "PROGETTAZIONE DELL'ARCHITETTURA (PIACENZA)",
+            "type": "Assegnato"
+          },
+          "id": "2511731d70b874bf384e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 2,
+          "positionCourse": 1,
+          "result": 29.50,
+          "sectionsResults": {
+            "Comprensione del Testo": 7.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 5.50,
+            "Disegno e Rappresentazione": 6.75,
+            "Fisica e Matematica": 3.00,
+            "Ragionamento Logico": 6.75
+          }
+        },
+        {
+          "birthDate": "2005-10-27",
+          "englishCorrectAnswers": 26,
+          "enrollType": {
+            "canEnroll": true,
+            "course": "PROGETTAZIONE DELL'ARCHITETTURA (PIACENZA)",
+            "type": "Assegnato"
+          },
+          "id": "681982bf1091cbaead30",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 3,
+          "positionCourse": 2,
+          "result": 25.25,
+          "sectionsResults": {
+            "Comprensione del Testo": 4.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 4.00,
+            "Disegno e Rappresentazione": 10.00,
+            "Fisica e Matematica": 3.00,
+            "Ragionamento Logico": 3.50
+          }
+        },
+        {
+          "birthDate": "2005-03-04",
+          "englishCorrectAnswers": 25,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "427e0d9b6659c175c973",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 4,
+          "positionCourse": 3,
+          "result": 25.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+            "Disegno e Rappresentazione": 4.50,
+            "Fisica e Matematica": 4.75,
+            "Ragionamento Logico": 5.75
+          }
+        },
+        {
+          "birthDate": "2005-03-07",
+          "englishCorrectAnswers": 26,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "749d7e2445e6ff4604c4",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 5,
+          "positionCourse": 4,
+          "result": 21.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 3.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 4.50,
+            "Disegno e Rappresentazione": 6.75,
+            "Fisica e Matematica": 2.75,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2006-06-07",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "2005881fce7cfd1fbc03",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 6,
+          "positionCourse": 5,
+          "result": 21.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.75,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+            "Disegno e Rappresentazione": 10.00,
+            "Fisica e Matematica": 7.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2004-07-25",
+          "englishCorrectAnswers": 18,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "71a6a2b4bc2dadb05f30",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 8,
+          "positionCourse": 6,
+          "result": 19.25,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.00,
+            "Disegno e Rappresentazione": 7.50,
+            "Fisica e Matematica": 4.25,
+            "Ragionamento Logico": 4.00
+          }
+        },
+        {
+          "birthDate": "2005-01-17",
+          "englishCorrectAnswers": 27,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "be628f939302b86e816f",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 9,
+          "positionCourse": 7,
+          "result": 18.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 1.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 3.50,
+            "Disegno e Rappresentazione": 6.25,
+            "Fisica e Matematica": 6.75,
+            "Ragionamento Logico": 1.00
+          }
+        },
+        {
+          "birthDate": "2005-12-10",
+          "englishCorrectAnswers": 28,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "7334e28d6c48fc4dd21e",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 10,
+          "positionCourse": 8,
+          "result": 17.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 5.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 6.00,
+            "Disegno e Rappresentazione": 3.25,
+            "Fisica e Matematica": -1.00,
+            "Ragionamento Logico": 4.25
+          }
+        },
+        {
+          "birthDate": "2001-09-09",
+          "englishCorrectAnswers": 21,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "02b5a9b83cb5bae4ef60",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 11,
+          "positionCourse": 9,
+          "result": 15.75,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 4.50,
+            "Ragionamento Logico": 2.25
+          }
+        },
+        {
+          "birthDate": "2002-05-01",
+          "englishCorrectAnswers": 24,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "9ab9d77f5773dfc3f2f7",
+          "ofa": {
+            "ENG": false
+          },
+          "positionAbsolute": 12,
+          "positionCourse": 10,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 2.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.50,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 3.75,
+            "Ragionamento Logico": 1.25
+          }
+        },
+        {
+          "birthDate": "2005-11-17",
+          "englishCorrectAnswers": 17,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "843b8987b0591e491c0c",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 13,
+          "positionCourse": 11,
+          "result": 15.00,
+          "sectionsResults": {
+            "Comprensione del Testo": 0.25,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 6.50,
+            "Fisica e Matematica": 8.75,
+            "Ragionamento Logico": 0.25
+          }
+        },
+        {
+          "birthDate": "2005-04-04",
+          "englishCorrectAnswers": 16,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "1f003cb50d0b06ee379d",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 14,
+          "positionCourse": 12,
+          "result": 13.25,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+            "Disegno e Rappresentazione": 3.00,
+            "Fisica e Matematica": 8.00,
+            "Ragionamento Logico": 3.50
+          }
+        },
+        {
+          "birthDate": "1993-11-08",
+          "englishCorrectAnswers": 10,
+          "enrollType": {
+            "canEnroll": false,
+            "course": null,
+            "type": null
+          },
+          "id": "c96d5448c1b13112c6eb",
+          "ofa": {
+            "ENG": true
+          },
+          "positionAbsolute": 15,
+          "positionCourse": 13,
+          "result": 9.00,
+          "sectionsResults": {
+            "Comprensione del Testo": -0.50,
+            "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+            "Disegno e Rappresentazione": 5.00,
+            "Fisica e Matematica": 2.50,
+            "Ragionamento Logico": 0.00
+          }
+        }
+      ],
+      "year": 2024
+    }
+  ],
+  "byMerit": {
+    "headers": [
+      "Matricola",
+      "Voto Test",
+      "OFA Inglese",
+      "Posizione Assoluta",
+      "Stato"
+    ],
+    "path": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html",
+    "rows": [
+      {
+        "birthDate": "2004-04-14",
+        "englishCorrectAnswers": 25,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9e48820b64dfa5fff5e3",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 1,
+        "positionCourse": 1,
+        "result": 36.50,
+        "sectionsResults": {
+          "Comprensione del Testo": 8.75,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+          "Disegno e Rappresentazione": 2.75,
+          "Fisica e Matematica": 10.00,
+          "Ragionamento Logico": 6.25
+        }
+      },
+      {
+        "birthDate": "1999-12-01",
+        "englishCorrectAnswers": 25,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "PROGETTAZIONE DELL'ARCHITETTURA (PIACENZA)",
+          "type": "Assegnato"
+        },
+        "id": "2511731d70b874bf384e",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 2,
+        "positionCourse": 1,
+        "result": 29.50,
+        "sectionsResults": {
+          "Comprensione del Testo": 7.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 5.50,
+          "Disegno e Rappresentazione": 6.75,
+          "Fisica e Matematica": 3.00,
+          "Ragionamento Logico": 6.75
+        }
+      },
+      {
+        "birthDate": "2005-10-27",
+        "englishCorrectAnswers": 26,
+        "enrollType": {
+          "canEnroll": true,
+          "course": "PROGETTAZIONE DELL'ARCHITETTURA (PIACENZA)",
+          "type": "Assegnato"
+        },
+        "id": "681982bf1091cbaead30",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 3,
+        "positionCourse": 2,
+        "result": 25.25,
+        "sectionsResults": {
+          "Comprensione del Testo": 4.75,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 4.00,
+          "Disegno e Rappresentazione": 10.00,
+          "Fisica e Matematica": 3.00,
+          "Ragionamento Logico": 3.50
+        }
+      },
+      {
+        "birthDate": "2005-03-04",
+        "englishCorrectAnswers": 25,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "427e0d9b6659c175c973",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 4,
+        "positionCourse": 1,
+        "result": 25.00,
+        "sectionsResults": {
+          "Comprensione del Testo": 3.25,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+          "Disegno e Rappresentazione": 4.50,
+          "Fisica e Matematica": 4.75,
+          "Ragionamento Logico": 5.75
+        }
+      },
+      {
+        "birthDate": "2005-03-07",
+        "englishCorrectAnswers": 26,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "749d7e2445e6ff4604c4",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 5,
+        "positionCourse": 2,
+        "result": 21.75,
+        "sectionsResults": {
+          "Comprensione del Testo": 3.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 4.50,
+          "Disegno e Rappresentazione": 6.75,
+          "Fisica e Matematica": 2.75,
+          "Ragionamento Logico": 4.25
+        }
+      },
+      {
+        "birthDate": "2006-06-07",
+        "englishCorrectAnswers": 24,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "2005881fce7cfd1fbc03",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 6,
+        "positionCourse": 2,
+        "result": 21.00,
+        "sectionsResults": {
+          "Comprensione del Testo": 1.75,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+          "Disegno e Rappresentazione": 10.00,
+          "Fisica e Matematica": 7.75,
+          "Ragionamento Logico": 1.25
+        }
+      },
+      {
+        "birthDate": "2001-08-04",
+        "englishCorrectAnswers": 22,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "2c777075e99b7f153e9b",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 7,
+        "positionCourse": 6,
+        "result": 19.50,
+        "sectionsResults": {
+          "Comprensione del Testo": 0.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 1.50,
+          "Disegno e Rappresentazione": 8.75,
+          "Fisica e Matematica": 6.50,
+          "Ragionamento Logico": 2.25
+        }
+      },
+      {
+        "birthDate": "2004-07-25",
+        "englishCorrectAnswers": 18,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "71a6a2b4bc2dadb05f30",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 8,
+        "positionCourse": 4,
+        "result": 19.25,
+        "sectionsResults": {
+          "Comprensione del Testo": 0.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 3.00,
+          "Disegno e Rappresentazione": 7.50,
+          "Fisica e Matematica": 4.25,
+          "Ragionamento Logico": 4.00
+        }
+      },
+      {
+        "birthDate": "2005-01-17",
+        "englishCorrectAnswers": 27,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "be628f939302b86e816f",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 9,
+        "positionCourse": 3,
+        "result": 18.75,
+        "sectionsResults": {
+          "Comprensione del Testo": 1.25,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 3.50,
+          "Disegno e Rappresentazione": 6.25,
+          "Fisica e Matematica": 6.75,
+          "Ragionamento Logico": 1.00
+        }
+      },
+      {
+        "birthDate": "2005-12-10",
+        "englishCorrectAnswers": 28,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "7334e28d6c48fc4dd21e",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 10,
+        "positionCourse": 4,
+        "result": 17.75,
+        "sectionsResults": {
+          "Comprensione del Testo": 5.25,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 6.00,
+          "Disegno e Rappresentazione": 3.25,
+          "Fisica e Matematica": -1.00,
+          "Ragionamento Logico": 4.25
+        }
+      },
+      {
+        "birthDate": "2001-09-09",
+        "englishCorrectAnswers": 21,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "02b5a9b83cb5bae4ef60",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 11,
+        "positionCourse": 5,
+        "result": 15.75,
+        "sectionsResults": {
+          "Comprensione del Testo": 0.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+          "Disegno e Rappresentazione": 6.50,
+          "Fisica e Matematica": 4.50,
+          "Ragionamento Logico": 2.25
+        }
+      },
+      {
+        "birthDate": "2002-05-01",
+        "englishCorrectAnswers": 24,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "9ab9d77f5773dfc3f2f7",
+        "ofa": {
+          "ENG": false
+        },
+        "positionAbsolute": 12,
+        "positionCourse": 6,
+        "result": 15.00,
+        "sectionsResults": {
+          "Comprensione del Testo": 2.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.50,
+          "Disegno e Rappresentazione": 5.00,
+          "Fisica e Matematica": 3.75,
+          "Ragionamento Logico": 1.25
+        }
+      },
+      {
+        "birthDate": "2005-11-17",
+        "englishCorrectAnswers": 17,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "843b8987b0591e491c0c",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 13,
+        "positionCourse": 8,
+        "result": 15.00,
+        "sectionsResults": {
+          "Comprensione del Testo": 0.25,
+          "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+          "Disegno e Rappresentazione": 6.50,
+          "Fisica e Matematica": 8.75,
+          "Ragionamento Logico": 0.25
+        }
+      },
+      {
+        "birthDate": "2005-04-04",
+        "englishCorrectAnswers": 16,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "1f003cb50d0b06ee379d",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 14,
+        "positionCourse": 7,
+        "result": 13.25,
+        "sectionsResults": {
+          "Comprensione del Testo": -0.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+          "Disegno e Rappresentazione": 3.00,
+          "Fisica e Matematica": 8.00,
+          "Ragionamento Logico": 3.50
+        }
+      },
+      {
+        "birthDate": "1993-11-08",
+        "englishCorrectAnswers": 10,
+        "enrollType": {
+          "canEnroll": false,
+          "course": null,
+          "type": null
+        },
+        "id": "c96d5448c1b13112c6eb",
+        "ofa": {
+          "ENG": true
+        },
+        "positionAbsolute": 15,
+        "positionCourse": 8,
+        "result": 9.00,
+        "sectionsResults": {
+          "Comprensione del Testo": -0.50,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.00,
+          "Disegno e Rappresentazione": 5.00,
+          "Fisica e Matematica": 2.50,
+          "Ragionamento Logico": 0.00
+        }
+      }
+    ],
+    "year": 2024
+  },
+  "extra": "Studenti Extra-UE: Contingente riservato incluso Contingente 'Marco Polo'",
+  "lastUpdate": "2024-08-26T08:10:03.2496323Z",
+  "rankingOrder": {
+    "isAnticipata": false,
+    "isEnglish": false,
+    "isExtraEu": true,
+    "phase": "Seconda Graduatoria",
+    "primary": null,
+    "secondary": 2
+  },
+  "rankingSummary": {
+    "courseSummarized": [
+      {
+        "averageBirthYear": 2003.28125,
+        "averageEnglishCorrectAnswers": 21.875,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": {
+          "Comprensione del Testo": 1.6875,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.78125,
+          "Disegno e Rappresentazione": 5.4375,
+          "Fisica e Matematica": 4.625,
+          "Ragionamento Logico": 2.40625
+        },
+        "averageScoresOfAllStudents": 16.9375,
+        "howManyCanEnroll": 0,
+        "howManyOfa": {
+          "ENG": 3
+        },
+        "howManyStudents": 8,
+        "location": "LECCO",
+        "minScoreToEnroll": null,
+        "title": "INGEGNERIA EDILE - ARCHITETTURA"
+      },
+      {
+        "averageBirthYear": 2005.07407,
+        "averageEnglishCorrectAnswers": 22.44444,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": {
+          "Comprensione del Testo": 1.75,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.72222,
+          "Disegno e Rappresentazione": 6.02778,
+          "Fisica e Matematica": 5.16667,
+          "Ragionamento Logico": 2.94444
+        },
+        "averageScoresOfAllStudents": 18.61111,
+        "howManyCanEnroll": 0,
+        "howManyOfa": {
+          "ENG": 4
+        },
+        "howManyStudents": 9,
+        "location": "MANTOVA",
+        "minScoreToEnroll": null,
+        "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+      },
+      {
+        "averageBirthYear": 2003.42857,
+        "averageEnglishCorrectAnswers": 22.0,
+        "averageOfWhoPassed": null,
+        "averagePartialScores": {
+          "Comprensione del Testo": 2.46429,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 3.19643,
+          "Disegno e Rappresentazione": 5.89286,
+          "Fisica e Matematica": 5.16071,
+          "Ragionamento Logico": 3.07143
+        },
+        "averageScoresOfAllStudents": 19.78571,
+        "howManyCanEnroll": 0,
+        "howManyOfa": {
+          "ENG": 6
+        },
+        "howManyStudents": 14,
+        "location": "MILANO LEONARDO",
+        "minScoreToEnroll": null,
+        "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+      },
+      {
+        "averageBirthYear": 2003.67949,
+        "averageEnglishCorrectAnswers": 22.07692,
+        "averageOfWhoPassed": 27.375,
+        "averagePartialScores": {
+          "Comprensione del Testo": 2.30769,
+          "Conoscenze acquisite negli studi, storia e cultura generale": 2.96154,
+          "Disegno e Rappresentazione": 6.23077,
+          "Fisica e Matematica": 4.51923,
+          "Ragionamento Logico": 2.92308
+        },
+        "averageScoresOfAllStudents": 18.94231,
+        "howManyCanEnroll": 2,
+        "howManyOfa": {
+          "ENG": 5
+        },
+        "howManyStudents": 13,
+        "location": "PIACENZA",
+        "minScoreToEnroll": 25.25,
+        "title": "PROGETTAZIONE DELL'ARCHITETTURA"
+      }
+    ],
+    "howManyCanEnroll": 2,
+    "howManyStudents": 15,
+    "resultsSummarized": {
+      "9": 1,
+      "13": 1,
+      "15": 2,
+      "16": 1,
+      "18": 1,
+      "19": 2,
+      "20": 1,
+      "21": 1,
+      "22": 1,
+      "25": 2,
+      "30": 1,
+      "36": 1
+    }
+  },
+  "school": "Architettura",
+  "url": {
+    "pageEnum": 1,
+    "url": "https://www.risultati-ammissione.polimi.it/2024_20104_555c_html/2024_20104_generale.html"
+  },
+  "year": 2024
+}
