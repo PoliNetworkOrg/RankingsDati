@@ -1473,6 +1473,70 @@
       "year": 2024
     },
     {
+      "basePath": "Architettura/2024/",
+      "id": "ARC_2024_3grad_eng_extraeu",
+      "link": "ARC_2024_3grad_eng_extraeu.json",
+      "location": "MI LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": true,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2024
+    },
+    {
+      "basePath": "Architettura/2024/",
+      "id": "ARC_2024_3grad_eng",
+      "link": "ARC_2024_3grad_eng.json",
+      "location": "MI LEONARDO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": true,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2024
+    },
+    {
+      "basePath": "Architettura/2024/",
+      "id": "ARC_2024_3grad_ita_extraeu",
+      "link": "ARC_2024_3grad_ita_extraeu.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": true,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2024
+    },
+    {
+      "basePath": "Architettura/2024/",
+      "id": "ARC_2024_3grad_ita",
+      "link": "ARC_2024_3grad_ita.json",
+      "location": "LECCO",
+      "rankingOrder": {
+        "isAnticipata": false,
+        "isEnglish": false,
+        "isExtraEu": false,
+        "phase": "Terza Graduatoria",
+        "primary": null,
+        "secondary": 3
+      },
+      "school": "Architettura",
+      "year": 2024
+    },
+    {
       "basePath": "Design/2024/",
       "id": "DES_2024_1grad_eng",
       "link": "DES_2024_1grad_eng.json",
@@ -2851,6 +2915,70 @@
           },
           "school": "Architettura",
           "year": 2024
+        },
+        {
+          "basePath": "Architettura/2024/",
+          "id": "ARC_2024_3grad_eng",
+          "link": "ARC_2024_3grad_eng.json",
+          "location": "MI LEONARDO",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": false,
+            "phase": "Terza Graduatoria",
+            "primary": null,
+            "secondary": 3
+          },
+          "school": "Architettura",
+          "year": 2024
+        },
+        {
+          "basePath": "Architettura/2024/",
+          "id": "ARC_2024_3grad_eng_extraeu",
+          "link": "ARC_2024_3grad_eng_extraeu.json",
+          "location": "MI LEONARDO",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": true,
+            "isExtraEu": true,
+            "phase": "Terza Graduatoria",
+            "primary": null,
+            "secondary": 3
+          },
+          "school": "Architettura",
+          "year": 2024
+        },
+        {
+          "basePath": "Architettura/2024/",
+          "id": "ARC_2024_3grad_ita",
+          "link": "ARC_2024_3grad_ita.json",
+          "location": "LECCO",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": false,
+            "phase": "Terza Graduatoria",
+            "primary": null,
+            "secondary": 3
+          },
+          "school": "Architettura",
+          "year": 2024
+        },
+        {
+          "basePath": "Architettura/2024/",
+          "id": "ARC_2024_3grad_ita_extraeu",
+          "link": "ARC_2024_3grad_ita_extraeu.json",
+          "location": "LECCO",
+          "rankingOrder": {
+            "isAnticipata": false,
+            "isEnglish": false,
+            "isExtraEu": true,
+            "phase": "Terza Graduatoria",
+            "primary": null,
+            "secondary": 3
+          },
+          "school": "Architettura",
+          "year": 2024
         }
       ]
     },
@@ -3219,5 +3347,5 @@
       ]
     }
   },
-  "lastUpdate": "2024-08-26T08:22:04.7883626Z"
+  "lastUpdate": "2024-09-02T08:11:29.6416508Z"
 }
